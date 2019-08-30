@@ -5,10 +5,10 @@ library(here)
 # get the full factorial design
 
 ff <- expand.grid(
-  rank = seq(1,30,1),
-  gradtime = seq(4, 7, 1),
-  stipend = seq(10000,50000,5000),
-  placement = seq(1,30,1)
+  price = seq(300,1000,50),
+  screensize = c(7.9, 9.7, 10.5),
+  memorygb = c(32, 64, 128, 256, 512),
+  color = c('Rose Gold', 'Space Grey', 'Silver')
 )
 
 # Sample from full factorial to populate doe
@@ -28,4 +28,4 @@ doe$obsID      <- rep(seq(nResp * nQPerResp), each=nAltsPerQ)
 row.names(doe) <- seq(nrow(doe))
 
 # Save design
-write.csv(doe, here::here('survey', 'doe.csv'), row.names=F)
+write.csv(doe, here::here('survey', 'doe2.csv'), row.names=F)
