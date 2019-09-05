@@ -31,8 +31,8 @@ def compare_models(X, y):
     beta_ols = OLS(X, y)
 
     # Using statsmodels OLS
-    output_sm = sm.OLS(X,y).fit()
-    beta_sm = output_sm.params[0]
+    output_sm = sm.OLS(y,X).fit()
+    beta_sm = output_sm.params
 
     # Using sklearn's Linear Regression
     output_skl = LinearRegression().fit(X, y)
