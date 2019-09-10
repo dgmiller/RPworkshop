@@ -6,7 +6,7 @@ from sklearn.linear_model import LinearRegression
 import statsmodels.api as sm
 
 
-def OLS(X,y):
+def OLS(X, y):
     """
     Estimates beta coefficients using ordinary least squares.
     INPUT
@@ -21,6 +21,7 @@ def OLS(X,y):
     XpY = X.T.dot(y)
     beta_est = XpXi.dot(XpY)
     return beta_est
+
 
 
 def compare_models(X, y):
