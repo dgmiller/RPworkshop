@@ -67,4 +67,37 @@ def simulate_data():
     return data
 
 
+def load_hospital_data(path_to_data):
+    """
+    Loads the hospital charges data set found at data.gov.
+    INPUT
+        path_to_data (str) indicates the filepath to the hospital charge data (csv)
+
+    RETURNS
+        df (pandas.DataFrame) containing the cleaned and formatted dataset for regression
+
+    """
+
+    # load csv with pandas
+    df = pd.read_csv(path_to_data)
+
+    # rename/reformat the columns
+    rename_dict = dict()
+    for c in df.columns:
+        rename_dict[c] = c.lower().strip()
+    df = df.rename(columns=rename_dict)
+
+    # begin transforming variables for regression
+    # drop unwanted variables
+    vars_to_drop = ['hospital referral region description',
+                    'provider street address',
+                    'provider name',
+                    'provider city',
+                    'provider state']
+    df = df.drop(vars_to_drop, axis=1)
+
+    return df
+
+
+
 ### END ###
