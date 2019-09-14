@@ -20,18 +20,27 @@ def OLS(X,y):
     XpXi = np.linalg.inv(X.T.dot(X))
     XpY = X.T.dot(y)
     beta_est = XpXi.dot(XpY)
+
     return beta_est
 
 
 def compare_models(X, y):
     """
+    Compares output from different implementations of OLS.
+    INPUT
+        X (ndarray) the independent variables in matrix form
+        y (array) the response variables vector
+
+    RETURNS
+        results (pandas.DataFrame) of estimated beta coefficients
+
     """
 
     # Compute OLS
     beta_ols = OLS(X, y)
 
     # Using statsmodels OLS
-    output_sm = sm.OLS(y,X).fit()
+    output_sm = sm.OLS(y, X).fit()
     beta_sm = output_sm.params
 
     # Using sklearn's Linear Regression
@@ -97,6 +106,48 @@ def load_hospital_data(path_to_data):
     df = df.drop(vars_to_drop, axis=1)
 
     return df
+
+
+def prepare_data(df):
+    """
+    Prepares hospital data for regression (basically turns df into X and y).
+    INPUT
+        df (pandas.DataFrame) the hospital dataset
+
+    RETURNS
+        data (dict) containing X design matrix and y response variable
+
+    """
+    data = dict()
+
+    X1 = np.log(df['total discharges'].values)
+    X2 = np.log(df['average covered charges'].values)
+    X = np.column_stack((np.ones(len(X1)), X1, X2))
+
+    Y = np.log(df['average total payments'].values)
+
+    data['X'] = X
+    data['y'] = Y
+
+    return data
+
+
+def run_hospital_regression(path_to_data):
+    """
+    Loads hospital charge data and runs OLS on it.
+    INPUT
+        path_to_data (str) filepath of the csv file
+
+    RETURNS
+        beta (array) the estimated model coefficients
+
+    """
+    df = load_hospital_data(path_to_data)
+    data = prepare_data(df)
+    beta = OLS(data['X'], data['y'])
+
+    return beta
+ 
 
 
 
