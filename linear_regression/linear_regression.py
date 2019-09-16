@@ -6,25 +6,36 @@ from sklearn.linear_model import LinearRegression
 import statsmodels.api as sm
 
 
-def OLS(X,y):
+def simulate_data(nobs=1000):
     """
-    Estimates beta coefficients using ordinary least squares.
+    Simulates data for testing linear_regression models.
     INPUT
-        X (ndarray) the matrix representing the independent variables.
-        y (array) the vector representing the response variable.
+        nobs (int) the number of observations in the dataset
 
     RETURNS
-        beta_est (array) the estimated coefficients for the least squares problem.
+        data (dict) contains X, y, and beta vectors.
 
     """
-    XpXi = np.linalg.inv(X.T.dot(X))
-    XpY = X.T.dot(y)
-    beta_est = XpXi.dot(XpY)
 
-    return beta_est
+    x0 = np.ones(nobs)
+    x1 = np.random.normal(5000, 500000, size=nobs)
+    x2 = np.random.poisson(15, size=nobs)
+    X = np.column_stack((x0, x1, x2))
+
+    beta = np.random.normal(0,2.5,size=X.shape[1])
+    epsilon = np.random.randn(nobs)
+
+    y = X.dot(beta) + epsilon
+
+    data = dict()
+    data['X'] = X
+    data['y'] = y
+    data['beta'] = beta
+
+    return data
 
 
-def compare_models(X, y):
+def compare_models(X, y, beta=None):
     """
     Compares output from different implementations of OLS.
     INPUT
@@ -36,44 +47,22 @@ def compare_models(X, y):
 
     """
 
-    # Compute OLS
-    beta_ols = OLS(X, y)
-
     # Using statsmodels OLS
     output_sm = sm.OLS(y, X).fit()
     beta_sm = output_sm.params
 
     # Using sklearn's Linear Regression
-    output_skl = LinearRegression().fit(X, y)
+    output_skl = LinearRegression(fit_intercept=False).fit(X, y)
     beta_skl = output_skl.coef_
 
     results = pd.DataFrame()
-    results['OLS'] = beta_ols
     results['statsmodels'] = beta_sm
     results['sklearn'] = beta_skl
 
+    if beta is not None:
+        results['truth'] = beta
+
     return results
-
-
-def simulate_data():
-    """
-    Simulates data for testing linear_regression models.
-    RETURNS
-        data (dict) contains X, y, and beta vectors.
-
-    """
-    beta = np.random.normal(0,2.5,size=10)
-    epsilon = np.random.randn(100)
-
-    X = np.random.normal(22,5,size=1000).reshape((100,10))
-    y = X.dot(beta) + epsilon
-
-    data = dict()
-    data['X'] = X
-    data['y'] = y
-    data['beta'] = beta
-
-    return data
 
 
 def load_hospital_data(path_to_data):
@@ -139,16 +128,14 @@ def run_hospital_regression(path_to_data):
         path_to_data (str) filepath of the csv file
 
     RETURNS
-        beta (array) the estimated model coefficients
+        results (str) the statsmodels regression output
 
     """
     df = load_hospital_data(path_to_data)
     data = prepare_data(df)
-    beta = OLS(data['X'], data['y'])
+    results = sm.OLS(data['y'], data['X']).fit().summary().as_text()
 
-    return beta
+    return results
  
-
-
 
 ### END ###
