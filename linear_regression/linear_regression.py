@@ -18,7 +18,7 @@ def simulate_data(nobs=1000):
     """
 
     x0 = np.ones(nobs)
-    x1 = np.random.normal(5000, 500000, size=nobs)
+    x1 = np.random.exponential(90000, size=nobs)
     x2 = np.random.poisson(15, size=nobs)
     X = np.column_stack((x0, x1, x2))
 
