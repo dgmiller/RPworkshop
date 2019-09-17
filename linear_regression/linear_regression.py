@@ -72,7 +72,7 @@ def load_hospital_data(path_to_data):
         path_to_data (str) indicates the filepath to the hospital charge data (csv)
 
     RETURNS
-        df (pandas.DataFrame) containing the cleaned and formatted dataset for regression
+        clean_df (pandas.DataFrame) containing the cleaned and formatted dataset for regression
 
     """
 
@@ -85,16 +85,29 @@ def load_hospital_data(path_to_data):
         rename_dict[c] = c.lower().strip()
     df = df.rename(columns=rename_dict)
 
-    # begin transforming variables for regression
     # drop unwanted variables
     vars_to_drop = ['hospital referral region description',
                     'provider street address',
                     'provider name',
                     'provider city',
-                    'provider state']
+                    'provider zip code']
     df = df.drop(vars_to_drop, axis=1)
 
-    return df
+    # match provider id with provider state and condense the dataset
+    clean_df = pd.pivot_table(df, columns=['provider id'], aggfunc=sum).T
+
+    states_dict = dict()
+    for pid in clean_df.index:
+        states_dict[pid] = df[df['provider id']==pid]['provider state'].unique()[0]
+
+    clean_df['provider state'] = clean_df.index
+    clean_df['provider state'] = clean_df['provider state'].map(states_dict)
+    
+    # ensure integers where appropriate
+    clean_df['total discharges'] = clean_df['total discharges'].astype(np.int64)
+
+
+    return clean_df
 
 
 def prepare_data(df):
@@ -110,10 +123,10 @@ def prepare_data(df):
     data = dict()
 
     X1 = np.log(df['total discharges'].values)
-    X2 = np.log(df['average covered charges'].values)
+    X2 = pd.get_dummies(df['provider state'])
     X = np.column_stack((np.ones(len(X1)), X1, X2))
 
-    Y = np.log(df['average total payments'].values)
+    Y = np.log(df['average covered charges'].values)
 
     data['X'] = X
     data['y'] = Y
