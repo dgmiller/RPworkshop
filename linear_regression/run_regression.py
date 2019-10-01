@@ -2,7 +2,7 @@
 
 import linear_regression as lr
 
-path_to_data = './hospital_charge_sample.csv'
+path_to_data = '~/Desktop/hospital_charge.csv'
 
 df = lr.load_hospital_data(path_to_data)
 data = lr.prepare_data(df)

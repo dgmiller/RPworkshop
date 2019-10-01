@@ -1,0 +1,4501 @@
+"type","price","freshness","respID","qID","altID","obsID"
+"Pink Lady",2.5,"Excellent",1,1,1,1
+"Fuji",3.5,"Average",1,1,2,1
+"Red Delicious",4,"Average",1,2,1,2
+"Gala",1.5,"Excellent",1,2,2,2
+"Red Delicious",4,"Excellent",1,3,1,3
+"Gala",3,"Excellent",1,3,2,3
+"Honeycrisp",1.5,"Average",1,4,1,4
+"Red Delicious",1.5,"Poor",1,4,2,4
+"Pink Lady",1.5,"Average",1,5,1,5
+"Fuji",4,"Poor",1,5,2,5
+"Gala",2,"Average",1,6,1,6
+"Red Delicious",1,"Excellent",1,6,2,6
+"Pink Lady",3,"Average",2,1,1,7
+"Fuji",1.5,"Excellent",2,1,2,7
+"Pink Lady",3,"Poor",2,2,1,8
+"Honeycrisp",2,"Excellent",2,2,2,8
+"Gala",1.5,"Excellent",2,3,1,9
+"Gala",4,"Poor",2,3,2,9
+"Honeycrisp",2,"Average",2,4,1,10
+"Fuji",2,"Average",2,4,2,10
+"Fuji",3,"Excellent",2,5,1,11
+"Pink Lady",1.5,"Excellent",2,5,2,11
+"Pink Lady",1.5,"Average",2,6,1,12
+"Fuji",3,"Average",2,6,2,12
+"Gala",3,"Poor",3,1,1,13
+"Fuji",2.5,"Excellent",3,1,2,13
+"Honeycrisp",3,"Excellent",3,2,1,14
+"Fuji",1.5,"Average",3,2,2,14
+"Honeycrisp",3,"Poor",3,3,1,15
+"Pink Lady",3.5,"Poor",3,3,2,15
+"Pink Lady",2,"Excellent",3,4,1,16
+"Red Delicious",1,"Poor",3,4,2,16
+"Gala",1.5,"Excellent",3,5,1,17
+"Honeycrisp",1.5,"Excellent",3,5,2,17
+"Pink Lady",3.5,"Excellent",3,6,1,18
+"Red Delicious",4,"Average",3,6,2,18
+"Fuji",3,"Average",4,1,1,19
+"Gala",2.5,"Average",4,1,2,19
+"Honeycrisp",4,"Poor",4,2,1,20
+"Fuji",1,"Poor",4,2,2,20
+"Red Delicious",2.5,"Average",4,3,1,21
+"Pink Lady",1.5,"Average",4,3,2,21
+"Red Delicious",2.5,"Average",4,4,1,22
+"Fuji",3.5,"Average",4,4,2,22
+"Honeycrisp",1.5,"Poor",4,5,1,23
+"Pink Lady",2.5,"Poor",4,5,2,23
+"Fuji",4,"Poor",4,6,1,24
+"Pink Lady",3,"Average",4,6,2,24
+"Honeycrisp",3,"Poor",5,1,1,25
+"Honeycrisp",2.5,"Excellent",5,1,2,25
+"Gala",2.5,"Average",5,2,1,26
+"Gala",2.5,"Average",5,2,2,26
+"Gala",1,"Average",5,3,1,27
+"Pink Lady",2,"Excellent",5,3,2,27
+"Honeycrisp",4,"Poor",5,4,1,28
+"Gala",1.5,"Average",5,4,2,28
+"Gala",1.5,"Excellent",5,5,1,29
+"Honeycrisp",3.5,"Average",5,5,2,29
+"Honeycrisp",1.5,"Average",5,6,1,30
+"Red Delicious",2.5,"Average",5,6,2,30
+"Red Delicious",4,"Poor",6,1,1,31
+"Red Delicious",2,"Excellent",6,1,2,31
+"Pink Lady",4,"Excellent",6,2,1,32
+"Red Delicious",2.5,"Excellent",6,2,2,32
+"Pink Lady",1.5,"Average",6,3,1,33
+"Fuji",1,"Poor",6,3,2,33
+"Gala",1,"Poor",6,4,1,34
+"Honeycrisp",3.5,"Excellent",6,4,2,34
+"Honeycrisp",2,"Average",6,5,1,35
+"Red Delicious",2,"Poor",6,5,2,35
+"Gala",3.5,"Poor",6,6,1,36
+"Honeycrisp",4,"Excellent",6,6,2,36
+"Gala",1.5,"Average",7,1,1,37
+"Pink Lady",3.5,"Excellent",7,1,2,37
+"Gala",1.5,"Excellent",7,2,1,38
+"Gala",1,"Excellent",7,2,2,38
+"Gala",3.5,"Excellent",7,3,1,39
+"Gala",3,"Excellent",7,3,2,39
+"Gala",2.5,"Excellent",7,4,1,40
+"Fuji",3,"Average",7,4,2,40
+"Red Delicious",2,"Average",7,5,1,41
+"Pink Lady",2.5,"Average",7,5,2,41
+"Pink Lady",4,"Excellent",7,6,1,42
+"Gala",3.5,"Poor",7,6,2,42
+"Gala",3,"Poor",8,1,1,43
+"Red Delicious",4,"Poor",8,1,2,43
+"Honeycrisp",1.5,"Excellent",8,2,1,44
+"Gala",2,"Average",8,2,2,44
+"Fuji",4,"Poor",8,3,1,45
+"Gala",3,"Poor",8,3,2,45
+"Fuji",4,"Excellent",8,4,1,46
+"Gala",1,"Poor",8,4,2,46
+"Pink Lady",3,"Excellent",8,5,1,47
+"Pink Lady",1,"Average",8,5,2,47
+"Red Delicious",2.5,"Excellent",8,6,1,48
+"Pink Lady",4,"Excellent",8,6,2,48
+"Gala",4,"Excellent",9,1,1,49
+"Pink Lady",3.5,"Average",9,1,2,49
+"Honeycrisp",2,"Excellent",9,2,1,50
+"Red Delicious",3.5,"Average",9,2,2,50
+"Fuji",3,"Poor",9,3,1,51
+"Fuji",1.5,"Poor",9,3,2,51
+"Honeycrisp",2,"Average",9,4,1,52
+"Gala",3,"Average",9,4,2,52
+"Pink Lady",3.5,"Excellent",9,5,1,53
+"Gala",3,"Poor",9,5,2,53
+"Pink Lady",1,"Poor",9,6,1,54
+"Honeycrisp",3.5,"Poor",9,6,2,54
+"Red Delicious",1.5,"Poor",10,1,1,55
+"Pink Lady",2,"Excellent",10,1,2,55
+"Gala",1.5,"Poor",10,2,1,56
+"Pink Lady",1,"Poor",10,2,2,56
+"Honeycrisp",1.5,"Poor",10,3,1,57
+"Gala",2.5,"Excellent",10,3,2,57
+"Red Delicious",2.5,"Excellent",10,4,1,58
+"Pink Lady",4,"Average",10,4,2,58
+"Pink Lady",3.5,"Excellent",10,5,1,59
+"Honeycrisp",4,"Excellent",10,5,2,59
+"Gala",4,"Average",10,6,1,60
+"Honeycrisp",2,"Average",10,6,2,60
+"Red Delicious",3.5,"Average",11,1,1,61
+"Fuji",1,"Average",11,1,2,61
+"Fuji",1.5,"Average",11,2,1,62
+"Honeycrisp",1.5,"Poor",11,2,2,62
+"Gala",2,"Poor",11,3,1,63
+"Fuji",2.5,"Average",11,3,2,63
+"Gala",1.5,"Excellent",11,4,1,64
+"Pink Lady",3.5,"Average",11,4,2,64
+"Fuji",2,"Excellent",11,5,1,65
+"Red Delicious",1,"Average",11,5,2,65
+"Honeycrisp",1,"Average",11,6,1,66
+"Pink Lady",2.5,"Average",11,6,2,66
+"Red Delicious",4,"Average",12,1,1,67
+"Fuji",1,"Poor",12,1,2,67
+"Fuji",2.5,"Poor",12,2,1,68
+"Honeycrisp",4,"Average",12,2,2,68
+"Pink Lady",3.5,"Average",12,3,1,69
+"Pink Lady",3.5,"Poor",12,3,2,69
+"Fuji",1.5,"Poor",12,4,1,70
+"Gala",4,"Excellent",12,4,2,70
+"Pink Lady",2.5,"Excellent",12,5,1,71
+"Pink Lady",3.5,"Poor",12,5,2,71
+"Pink Lady",3,"Poor",12,6,1,72
+"Red Delicious",1.5,"Average",12,6,2,72
+"Honeycrisp",4,"Average",13,1,1,73
+"Fuji",2,"Average",13,1,2,73
+"Red Delicious",2,"Excellent",13,2,1,74
+"Fuji",3.5,"Excellent",13,2,2,74
+"Honeycrisp",3,"Excellent",13,3,1,75
+"Red Delicious",3,"Poor",13,3,2,75
+"Gala",3,"Excellent",13,4,1,76
+"Honeycrisp",3,"Excellent",13,4,2,76
+"Pink Lady",2.5,"Poor",13,5,1,77
+"Honeycrisp",2,"Excellent",13,5,2,77
+"Pink Lady",4,"Excellent",13,6,1,78
+"Pink Lady",1.5,"Average",13,6,2,78
+"Fuji",3,"Average",14,1,1,79
+"Honeycrisp",2,"Poor",14,1,2,79
+"Pink Lady",3.5,"Average",14,2,1,80
+"Honeycrisp",3,"Poor",14,2,2,80
+"Gala",1.5,"Average",14,3,1,81
+"Red Delicious",2,"Excellent",14,3,2,81
+"Honeycrisp",2,"Excellent",14,4,1,82
+"Red Delicious",2.5,"Poor",14,4,2,82
+"Gala",2.5,"Poor",14,5,1,83
+"Pink Lady",1,"Excellent",14,5,2,83
+"Gala",4,"Average",14,6,1,84
+"Honeycrisp",2,"Average",14,6,2,84
+"Fuji",1.5,"Poor",15,1,1,85
+"Fuji",4,"Average",15,1,2,85
+"Honeycrisp",2,"Average",15,2,1,86
+"Pink Lady",2,"Excellent",15,2,2,86
+"Red Delicious",2.5,"Poor",15,3,1,87
+"Gala",3.5,"Excellent",15,3,2,87
+"Pink Lady",2,"Average",15,4,1,88
+"Honeycrisp",2,"Excellent",15,4,2,88
+"Red Delicious",3.5,"Average",15,5,1,89
+"Red Delicious",3,"Excellent",15,5,2,89
+"Gala",4,"Excellent",15,6,1,90
+"Fuji",1,"Poor",15,6,2,90
+"Pink Lady",1,"Average",16,1,1,91
+"Fuji",2.5,"Average",16,1,2,91
+"Red Delicious",2,"Poor",16,2,1,92
+"Red Delicious",1,"Average",16,2,2,92
+"Gala",1,"Excellent",16,3,1,93
+"Pink Lady",1,"Excellent",16,3,2,93
+"Red Delicious",1.5,"Excellent",16,4,1,94
+"Pink Lady",2.5,"Average",16,4,2,94
+"Red Delicious",2.5,"Average",16,5,1,95
+"Pink Lady",4,"Excellent",16,5,2,95
+"Red Delicious",3,"Excellent",16,6,1,96
+"Red Delicious",3,"Poor",16,6,2,96
+"Gala",2,"Excellent",17,1,1,97
+"Gala",2,"Average",17,1,2,97
+"Pink Lady",3.5,"Excellent",17,2,1,98
+"Gala",1,"Average",17,2,2,98
+"Pink Lady",1.5,"Poor",17,3,1,99
+"Fuji",3,"Poor",17,3,2,99
+"Fuji",2,"Average",17,4,1,100
+"Fuji",1,"Excellent",17,4,2,100
+"Gala",1.5,"Poor",17,5,1,101
+"Fuji",4,"Poor",17,5,2,101
+"Honeycrisp",4,"Average",17,6,1,102
+"Honeycrisp",3,"Average",17,6,2,102
+"Gala",4,"Poor",18,1,1,103
+"Red Delicious",2,"Poor",18,1,2,103
+"Honeycrisp",3,"Poor",18,2,1,104
+"Pink Lady",4,"Poor",18,2,2,104
+"Honeycrisp",1,"Excellent",18,3,1,105
+"Fuji",1.5,"Excellent",18,3,2,105
+"Gala",2.5,"Poor",18,4,1,106
+"Red Delicious",3.5,"Excellent",18,4,2,106
+"Pink Lady",4,"Excellent",18,5,1,107
+"Gala",3,"Excellent",18,5,2,107
+"Honeycrisp",3,"Average",18,6,1,108
+"Pink Lady",3.5,"Average",18,6,2,108
+"Gala",2,"Poor",19,1,1,109
+"Gala",2,"Poor",19,1,2,109
+"Red Delicious",4,"Average",19,2,1,110
+"Red Delicious",4,"Excellent",19,2,2,110
+"Pink Lady",1.5,"Excellent",19,3,1,111
+"Red Delicious",1,"Average",19,3,2,111
+"Pink Lady",4,"Average",19,4,1,112
+"Pink Lady",1.5,"Poor",19,4,2,112
+"Pink Lady",4,"Poor",19,5,1,113
+"Honeycrisp",2.5,"Average",19,5,2,113
+"Red Delicious",3,"Average",19,6,1,114
+"Honeycrisp",2,"Average",19,6,2,114
+"Honeycrisp",2.5,"Poor",20,1,1,115
+"Red Delicious",1,"Excellent",20,1,2,115
+"Gala",3,"Average",20,2,1,116
+"Pink Lady",1.5,"Poor",20,2,2,116
+"Fuji",2.5,"Poor",20,3,1,117
+"Honeycrisp",2.5,"Average",20,3,2,117
+"Fuji",2.5,"Poor",20,4,1,118
+"Pink Lady",2.5,"Average",20,4,2,118
+"Fuji",3.5,"Average",20,5,1,119
+"Red Delicious",1.5,"Average",20,5,2,119
+"Gala",1.5,"Poor",20,6,1,120
+"Red Delicious",3.5,"Average",20,6,2,120
+"Fuji",3,"Average",21,1,1,121
+"Gala",1.5,"Excellent",21,1,2,121
+"Honeycrisp",3.5,"Poor",21,2,1,122
+"Honeycrisp",1,"Poor",21,2,2,122
+"Honeycrisp",3,"Poor",21,3,1,123
+"Fuji",1,"Average",21,3,2,123
+"Red Delicious",2,"Poor",21,4,1,124
+"Gala",1.5,"Poor",21,4,2,124
+"Red Delicious",1.5,"Poor",21,5,1,125
+"Honeycrisp",2,"Excellent",21,5,2,125
+"Fuji",2,"Average",21,6,1,126
+"Gala",1,"Excellent",21,6,2,126
+"Red Delicious",1,"Excellent",22,1,1,127
+"Pink Lady",2.5,"Excellent",22,1,2,127
+"Red Delicious",2,"Poor",22,2,1,128
+"Fuji",2.5,"Poor",22,2,2,128
+"Fuji",1.5,"Excellent",22,3,1,129
+"Fuji",3,"Poor",22,3,2,129
+"Honeycrisp",3,"Poor",22,4,1,130
+"Fuji",1,"Average",22,4,2,130
+"Gala",1,"Poor",22,5,1,131
+"Red Delicious",1,"Excellent",22,5,2,131
+"Fuji",3.5,"Average",22,6,1,132
+"Fuji",3.5,"Poor",22,6,2,132
+"Pink Lady",3,"Excellent",23,1,1,133
+"Red Delicious",3.5,"Average",23,1,2,133
+"Pink Lady",3.5,"Average",23,2,1,134
+"Pink Lady",3.5,"Average",23,2,2,134
+"Gala",4,"Average",23,3,1,135
+"Gala",1.5,"Average",23,3,2,135
+"Fuji",1,"Average",23,4,1,136
+"Red Delicious",2.5,"Poor",23,4,2,136
+"Red Delicious",2.5,"Average",23,5,1,137
+"Fuji",3,"Poor",23,5,2,137
+"Gala",2.5,"Poor",23,6,1,138
+"Pink Lady",2,"Excellent",23,6,2,138
+"Fuji",2,"Excellent",24,1,1,139
+"Gala",2.5,"Average",24,1,2,139
+"Honeycrisp",3.5,"Poor",24,2,1,140
+"Gala",1.5,"Poor",24,2,2,140
+"Fuji",4,"Average",24,3,1,141
+"Red Delicious",1,"Excellent",24,3,2,141
+"Gala",1.5,"Poor",24,4,1,142
+"Honeycrisp",4,"Excellent",24,4,2,142
+"Pink Lady",3,"Poor",24,5,1,143
+"Fuji",3.5,"Excellent",24,5,2,143
+"Pink Lady",1.5,"Average",24,6,1,144
+"Fuji",3.5,"Poor",24,6,2,144
+"Pink Lady",3,"Excellent",25,1,1,145
+"Red Delicious",4,"Average",25,1,2,145
+"Honeycrisp",3.5,"Average",25,2,1,146
+"Pink Lady",1,"Poor",25,2,2,146
+"Gala",1.5,"Excellent",25,3,1,147
+"Pink Lady",3,"Poor",25,3,2,147
+"Red Delicious",1.5,"Poor",25,4,1,148
+"Fuji",3,"Poor",25,4,2,148
+"Honeycrisp",2.5,"Average",25,5,1,149
+"Gala",3.5,"Average",25,5,2,149
+"Red Delicious",3.5,"Poor",25,6,1,150
+"Red Delicious",3.5,"Poor",25,6,2,150
+"Gala",1,"Excellent",26,1,1,151
+"Honeycrisp",4,"Poor",26,1,2,151
+"Pink Lady",2,"Average",26,2,1,152
+"Gala",3.5,"Poor",26,2,2,152
+"Gala",1,"Average",26,3,1,153
+"Pink Lady",3.5,"Excellent",26,3,2,153
+"Fuji",1,"Poor",26,4,1,154
+"Fuji",3,"Poor",26,4,2,154
+"Red Delicious",3.5,"Poor",26,5,1,155
+"Pink Lady",3.5,"Average",26,5,2,155
+"Fuji",2,"Poor",26,6,1,156
+"Fuji",3,"Excellent",26,6,2,156
+"Honeycrisp",2.5,"Poor",27,1,1,157
+"Fuji",3,"Excellent",27,1,2,157
+"Fuji",1.5,"Poor",27,2,1,158
+"Gala",2,"Poor",27,2,2,158
+"Gala",2.5,"Average",27,3,1,159
+"Pink Lady",3.5,"Average",27,3,2,159
+"Pink Lady",1.5,"Excellent",27,4,1,160
+"Pink Lady",3,"Average",27,4,2,160
+"Fuji",3,"Excellent",27,5,1,161
+"Red Delicious",3.5,"Average",27,5,2,161
+"Pink Lady",2.5,"Poor",27,6,1,162
+"Red Delicious",2.5,"Excellent",27,6,2,162
+"Fuji",2.5,"Poor",28,1,1,163
+"Fuji",4,"Average",28,1,2,163
+"Red Delicious",3.5,"Poor",28,2,1,164
+"Red Delicious",1,"Poor",28,2,2,164
+"Red Delicious",2,"Average",28,3,1,165
+"Fuji",3,"Excellent",28,3,2,165
+"Gala",4,"Poor",28,4,1,166
+"Red Delicious",2.5,"Average",28,4,2,166
+"Pink Lady",1.5,"Poor",28,5,1,167
+"Fuji",3,"Excellent",28,5,2,167
+"Honeycrisp",1,"Excellent",28,6,1,168
+"Fuji",2,"Excellent",28,6,2,168
+"Honeycrisp",4,"Excellent",29,1,1,169
+"Honeycrisp",2.5,"Excellent",29,1,2,169
+"Fuji",2.5,"Poor",29,2,1,170
+"Gala",1.5,"Poor",29,2,2,170
+"Pink Lady",3,"Average",29,3,1,171
+"Fuji",3,"Average",29,3,2,171
+"Red Delicious",1.5,"Poor",29,4,1,172
+"Fuji",1.5,"Average",29,4,2,172
+"Red Delicious",3,"Poor",29,5,1,173
+"Pink Lady",2.5,"Excellent",29,5,2,173
+"Gala",2.5,"Excellent",29,6,1,174
+"Red Delicious",2.5,"Poor",29,6,2,174
+"Gala",1.5,"Poor",30,1,1,175
+"Red Delicious",3.5,"Average",30,1,2,175
+"Honeycrisp",4,"Excellent",30,2,1,176
+"Gala",3,"Excellent",30,2,2,176
+"Honeycrisp",1,"Excellent",30,3,1,177
+"Gala",1.5,"Excellent",30,3,2,177
+"Fuji",1.5,"Excellent",30,4,1,178
+"Fuji",4,"Poor",30,4,2,178
+"Red Delicious",3,"Average",30,5,1,179
+"Red Delicious",2.5,"Average",30,5,2,179
+"Red Delicious",2.5,"Poor",30,6,1,180
+"Gala",1.5,"Average",30,6,2,180
+"Fuji",4,"Excellent",31,1,1,181
+"Fuji",2,"Poor",31,1,2,181
+"Fuji",4,"Excellent",31,2,1,182
+"Honeycrisp",4,"Excellent",31,2,2,182
+"Gala",2.5,"Poor",31,3,1,183
+"Red Delicious",3.5,"Excellent",31,3,2,183
+"Pink Lady",3.5,"Excellent",31,4,1,184
+"Honeycrisp",2.5,"Average",31,4,2,184
+"Honeycrisp",1.5,"Excellent",31,5,1,185
+"Fuji",1.5,"Poor",31,5,2,185
+"Red Delicious",4,"Poor",31,6,1,186
+"Gala",1.5,"Poor",31,6,2,186
+"Gala",1.5,"Excellent",32,1,1,187
+"Gala",1,"Excellent",32,1,2,187
+"Pink Lady",1.5,"Excellent",32,2,1,188
+"Fuji",2,"Average",32,2,2,188
+"Honeycrisp",4,"Excellent",32,3,1,189
+"Honeycrisp",3,"Average",32,3,2,189
+"Red Delicious",1.5,"Poor",32,4,1,190
+"Pink Lady",4,"Excellent",32,4,2,190
+"Gala",1,"Average",32,5,1,191
+"Pink Lady",1.5,"Average",32,5,2,191
+"Red Delicious",3.5,"Excellent",32,6,1,192
+"Red Delicious",3,"Poor",32,6,2,192
+"Red Delicious",3,"Excellent",33,1,1,193
+"Pink Lady",1.5,"Average",33,1,2,193
+"Honeycrisp",2.5,"Excellent",33,2,1,194
+"Gala",1.5,"Excellent",33,2,2,194
+"Fuji",2,"Poor",33,3,1,195
+"Red Delicious",3,"Average",33,3,2,195
+"Fuji",4,"Average",33,4,1,196
+"Gala",4,"Average",33,4,2,196
+"Honeycrisp",3.5,"Average",33,5,1,197
+"Pink Lady",1,"Poor",33,5,2,197
+"Red Delicious",3.5,"Excellent",33,6,1,198
+"Gala",2,"Average",33,6,2,198
+"Honeycrisp",4,"Excellent",34,1,1,199
+"Honeycrisp",3,"Average",34,1,2,199
+"Honeycrisp",3.5,"Excellent",34,2,1,200
+"Gala",4,"Excellent",34,2,2,200
+"Fuji",2,"Poor",34,3,1,201
+"Red Delicious",1.5,"Poor",34,3,2,201
+"Red Delicious",1,"Poor",34,4,1,202
+"Pink Lady",1,"Poor",34,4,2,202
+"Red Delicious",3,"Poor",34,5,1,203
+"Fuji",1.5,"Average",34,5,2,203
+"Honeycrisp",2.5,"Excellent",34,6,1,204
+"Pink Lady",2,"Average",34,6,2,204
+"Gala",3,"Excellent",35,1,1,205
+"Pink Lady",2.5,"Excellent",35,1,2,205
+"Honeycrisp",1.5,"Average",35,2,1,206
+"Fuji",1,"Excellent",35,2,2,206
+"Red Delicious",2.5,"Poor",35,3,1,207
+"Fuji",2.5,"Excellent",35,3,2,207
+"Honeycrisp",3,"Average",35,4,1,208
+"Gala",3,"Poor",35,4,2,208
+"Gala",1,"Excellent",35,5,1,209
+"Fuji",1.5,"Excellent",35,5,2,209
+"Fuji",2.5,"Excellent",35,6,1,210
+"Pink Lady",1.5,"Average",35,6,2,210
+"Fuji",3,"Average",36,1,1,211
+"Fuji",1,"Average",36,1,2,211
+"Gala",2.5,"Average",36,2,1,212
+"Gala",2.5,"Average",36,2,2,212
+"Pink Lady",3,"Excellent",36,3,1,213
+"Honeycrisp",1,"Average",36,3,2,213
+"Gala",3.5,"Excellent",36,4,1,214
+"Fuji",1.5,"Poor",36,4,2,214
+"Pink Lady",1,"Average",36,5,1,215
+"Fuji",2,"Excellent",36,5,2,215
+"Honeycrisp",3,"Poor",36,6,1,216
+"Red Delicious",3.5,"Average",36,6,2,216
+"Red Delicious",2.5,"Average",37,1,1,217
+"Fuji",4,"Excellent",37,1,2,217
+"Gala",1,"Excellent",37,2,1,218
+"Honeycrisp",3.5,"Average",37,2,2,218
+"Gala",3.5,"Excellent",37,3,1,219
+"Fuji",4,"Poor",37,3,2,219
+"Gala",2.5,"Average",37,4,1,220
+"Fuji",2,"Average",37,4,2,220
+"Honeycrisp",2,"Average",37,5,1,221
+"Fuji",3.5,"Poor",37,5,2,221
+"Gala",4,"Poor",37,6,1,222
+"Fuji",3.5,"Poor",37,6,2,222
+"Gala",3.5,"Average",38,1,1,223
+"Honeycrisp",4,"Poor",38,1,2,223
+"Honeycrisp",2.5,"Excellent",38,2,1,224
+"Gala",1.5,"Excellent",38,2,2,224
+"Honeycrisp",1.5,"Average",38,3,1,225
+"Fuji",3.5,"Average",38,3,2,225
+"Fuji",4,"Poor",38,4,1,226
+"Fuji",1,"Excellent",38,4,2,226
+"Fuji",2,"Average",38,5,1,227
+"Red Delicious",2,"Excellent",38,5,2,227
+"Honeycrisp",1.5,"Average",38,6,1,228
+"Red Delicious",4,"Poor",38,6,2,228
+"Honeycrisp",4,"Average",39,1,1,229
+"Red Delicious",2,"Poor",39,1,2,229
+"Fuji",3.5,"Excellent",39,2,1,230
+"Gala",3.5,"Average",39,2,2,230
+"Fuji",3,"Poor",39,3,1,231
+"Honeycrisp",1.5,"Excellent",39,3,2,231
+"Red Delicious",4,"Poor",39,4,1,232
+"Gala",3.5,"Poor",39,4,2,232
+"Red Delicious",3,"Average",39,5,1,233
+"Fuji",2.5,"Poor",39,5,2,233
+"Gala",2,"Excellent",39,6,1,234
+"Pink Lady",1.5,"Excellent",39,6,2,234
+"Honeycrisp",1,"Excellent",40,1,1,235
+"Red Delicious",4,"Excellent",40,1,2,235
+"Gala",3,"Excellent",40,2,1,236
+"Red Delicious",1.5,"Average",40,2,2,236
+"Fuji",1.5,"Excellent",40,3,1,237
+"Pink Lady",2.5,"Average",40,3,2,237
+"Gala",1.5,"Excellent",40,4,1,238
+"Red Delicious",1,"Excellent",40,4,2,238
+"Pink Lady",2,"Average",40,5,1,239
+"Fuji",3.5,"Excellent",40,5,2,239
+"Pink Lady",3.5,"Excellent",40,6,1,240
+"Pink Lady",1.5,"Average",40,6,2,240
+"Fuji",1,"Poor",41,1,1,241
+"Fuji",1,"Average",41,1,2,241
+"Gala",1.5,"Excellent",41,2,1,242
+"Honeycrisp",4,"Poor",41,2,2,242
+"Honeycrisp",3.5,"Excellent",41,3,1,243
+"Red Delicious",3,"Poor",41,3,2,243
+"Red Delicious",2.5,"Poor",41,4,1,244
+"Pink Lady",2,"Average",41,4,2,244
+"Fuji",2.5,"Average",41,5,1,245
+"Pink Lady",1.5,"Poor",41,5,2,245
+"Red Delicious",1.5,"Poor",41,6,1,246
+"Fuji",2,"Average",41,6,2,246
+"Pink Lady",4,"Average",42,1,1,247
+"Gala",1.5,"Poor",42,1,2,247
+"Honeycrisp",3.5,"Average",42,2,1,248
+"Pink Lady",1.5,"Excellent",42,2,2,248
+"Fuji",4,"Average",42,3,1,249
+"Red Delicious",4,"Poor",42,3,2,249
+"Red Delicious",2.5,"Excellent",42,4,1,250
+"Gala",3,"Average",42,4,2,250
+"Fuji",1.5,"Excellent",42,5,1,251
+"Red Delicious",4,"Excellent",42,5,2,251
+"Honeycrisp",3.5,"Average",42,6,1,252
+"Pink Lady",3.5,"Excellent",42,6,2,252
+"Fuji",3.5,"Excellent",43,1,1,253
+"Gala",3.5,"Poor",43,1,2,253
+"Fuji",3.5,"Poor",43,2,1,254
+"Honeycrisp",1,"Average",43,2,2,254
+"Pink Lady",1.5,"Excellent",43,3,1,255
+"Honeycrisp",3,"Average",43,3,2,255
+"Honeycrisp",2.5,"Average",43,4,1,256
+"Fuji",4,"Excellent",43,4,2,256
+"Red Delicious",2.5,"Excellent",43,5,1,257
+"Fuji",2.5,"Poor",43,5,2,257
+"Pink Lady",1.5,"Excellent",43,6,1,258
+"Fuji",4,"Average",43,6,2,258
+"Honeycrisp",2.5,"Excellent",44,1,1,259
+"Pink Lady",3.5,"Excellent",44,1,2,259
+"Honeycrisp",1,"Average",44,2,1,260
+"Pink Lady",1,"Poor",44,2,2,260
+"Red Delicious",4,"Average",44,3,1,261
+"Pink Lady",1.5,"Poor",44,3,2,261
+"Red Delicious",3,"Excellent",44,4,1,262
+"Pink Lady",1,"Excellent",44,4,2,262
+"Pink Lady",4,"Poor",44,5,1,263
+"Pink Lady",2,"Poor",44,5,2,263
+"Fuji",1,"Excellent",44,6,1,264
+"Honeycrisp",2.5,"Poor",44,6,2,264
+"Gala",3.5,"Average",45,1,1,265
+"Red Delicious",3.5,"Average",45,1,2,265
+"Honeycrisp",3.5,"Poor",45,2,1,266
+"Red Delicious",4,"Poor",45,2,2,266
+"Honeycrisp",4,"Excellent",45,3,1,267
+"Honeycrisp",3.5,"Poor",45,3,2,267
+"Red Delicious",3.5,"Average",45,4,1,268
+"Fuji",1.5,"Average",45,4,2,268
+"Honeycrisp",3.5,"Poor",45,5,1,269
+"Fuji",2,"Excellent",45,5,2,269
+"Gala",3,"Excellent",45,6,1,270
+"Gala",2,"Excellent",45,6,2,270
+"Fuji",2,"Poor",46,1,1,271
+"Honeycrisp",1,"Average",46,1,2,271
+"Honeycrisp",2,"Average",46,2,1,272
+"Gala",4,"Excellent",46,2,2,272
+"Pink Lady",1,"Poor",46,3,1,273
+"Gala",4,"Poor",46,3,2,273
+"Pink Lady",1,"Poor",46,4,1,274
+"Honeycrisp",2,"Average",46,4,2,274
+"Fuji",3.5,"Average",46,5,1,275
+"Fuji",3,"Poor",46,5,2,275
+"Honeycrisp",2.5,"Poor",46,6,1,276
+"Pink Lady",1.5,"Excellent",46,6,2,276
+"Pink Lady",2.5,"Poor",47,1,1,277
+"Fuji",3.5,"Average",47,1,2,277
+"Pink Lady",4,"Poor",47,2,1,278
+"Red Delicious",2,"Poor",47,2,2,278
+"Gala",2,"Average",47,3,1,279
+"Gala",1,"Average",47,3,2,279
+"Honeycrisp",3.5,"Excellent",47,4,1,280
+"Honeycrisp",4,"Excellent",47,4,2,280
+"Fuji",2,"Excellent",47,5,1,281
+"Fuji",3.5,"Poor",47,5,2,281
+"Gala",2.5,"Average",47,6,1,282
+"Honeycrisp",3,"Poor",47,6,2,282
+"Fuji",3,"Poor",48,1,1,283
+"Honeycrisp",2,"Excellent",48,1,2,283
+"Pink Lady",3,"Excellent",48,2,1,284
+"Honeycrisp",4,"Poor",48,2,2,284
+"Red Delicious",3.5,"Poor",48,3,1,285
+"Fuji",2.5,"Poor",48,3,2,285
+"Honeycrisp",1,"Poor",48,4,1,286
+"Red Delicious",3.5,"Excellent",48,4,2,286
+"Fuji",3.5,"Excellent",48,5,1,287
+"Gala",2.5,"Excellent",48,5,2,287
+"Pink Lady",3,"Excellent",48,6,1,288
+"Honeycrisp",3,"Poor",48,6,2,288
+"Gala",4,"Average",49,1,1,289
+"Honeycrisp",1,"Poor",49,1,2,289
+"Red Delicious",4,"Average",49,2,1,290
+"Gala",1,"Poor",49,2,2,290
+"Fuji",1,"Poor",49,3,1,291
+"Gala",3,"Average",49,3,2,291
+"Pink Lady",1.5,"Average",49,4,1,292
+"Honeycrisp",1,"Poor",49,4,2,292
+"Gala",3.5,"Excellent",49,5,1,293
+"Honeycrisp",3,"Poor",49,5,2,293
+"Red Delicious",3.5,"Poor",49,6,1,294
+"Red Delicious",1.5,"Excellent",49,6,2,294
+"Fuji",1,"Excellent",50,1,1,295
+"Red Delicious",3.5,"Poor",50,1,2,295
+"Pink Lady",2.5,"Excellent",50,2,1,296
+"Gala",3.5,"Average",50,2,2,296
+"Honeycrisp",4,"Poor",50,3,1,297
+"Red Delicious",3.5,"Average",50,3,2,297
+"Fuji",1.5,"Average",50,4,1,298
+"Honeycrisp",2,"Average",50,4,2,298
+"Fuji",3.5,"Excellent",50,5,1,299
+"Fuji",1.5,"Poor",50,5,2,299
+"Gala",1.5,"Excellent",50,6,1,300
+"Honeycrisp",2.5,"Average",50,6,2,300
+"Honeycrisp",3,"Average",51,1,1,301
+"Red Delicious",3.5,"Excellent",51,1,2,301
+"Pink Lady",3,"Average",51,2,1,302
+"Fuji",2.5,"Excellent",51,2,2,302
+"Red Delicious",3.5,"Average",51,3,1,303
+"Fuji",4,"Poor",51,3,2,303
+"Fuji",4,"Excellent",51,4,1,304
+"Honeycrisp",1.5,"Excellent",51,4,2,304
+"Pink Lady",3,"Poor",51,5,1,305
+"Fuji",4,"Average",51,5,2,305
+"Honeycrisp",1.5,"Poor",51,6,1,306
+"Gala",2,"Excellent",51,6,2,306
+"Pink Lady",3,"Poor",52,1,1,307
+"Red Delicious",1,"Average",52,1,2,307
+"Fuji",3.5,"Excellent",52,2,1,308
+"Red Delicious",4,"Poor",52,2,2,308
+"Honeycrisp",3,"Poor",52,3,1,309
+"Gala",2,"Excellent",52,3,2,309
+"Gala",2,"Excellent",52,4,1,310
+"Honeycrisp",3.5,"Average",52,4,2,310
+"Pink Lady",1,"Average",52,5,1,311
+"Pink Lady",3,"Poor",52,5,2,311
+"Fuji",4,"Average",52,6,1,312
+"Fuji",2.5,"Excellent",52,6,2,312
+"Red Delicious",3.5,"Average",53,1,1,313
+"Fuji",4,"Excellent",53,1,2,313
+"Pink Lady",2,"Average",53,2,1,314
+"Pink Lady",1,"Average",53,2,2,314
+"Red Delicious",4,"Poor",53,3,1,315
+"Red Delicious",4,"Average",53,3,2,315
+"Red Delicious",2.5,"Average",53,4,1,316
+"Gala",2.5,"Average",53,4,2,316
+"Gala",2.5,"Excellent",53,5,1,317
+"Red Delicious",3,"Average",53,5,2,317
+"Fuji",4,"Poor",53,6,1,318
+"Gala",3,"Average",53,6,2,318
+"Honeycrisp",4,"Excellent",54,1,1,319
+"Honeycrisp",1,"Average",54,1,2,319
+"Pink Lady",3,"Poor",54,2,1,320
+"Gala",4,"Poor",54,2,2,320
+"Red Delicious",2,"Poor",54,3,1,321
+"Gala",3,"Average",54,3,2,321
+"Pink Lady",3.5,"Average",54,4,1,322
+"Gala",1,"Excellent",54,4,2,322
+"Honeycrisp",3.5,"Poor",54,5,1,323
+"Fuji",3.5,"Poor",54,5,2,323
+"Red Delicious",4,"Excellent",54,6,1,324
+"Red Delicious",1.5,"Poor",54,6,2,324
+"Red Delicious",3.5,"Excellent",55,1,1,325
+"Fuji",3,"Poor",55,1,2,325
+"Pink Lady",1.5,"Average",55,2,1,326
+"Fuji",2,"Average",55,2,2,326
+"Fuji",3.5,"Poor",55,3,1,327
+"Red Delicious",3.5,"Average",55,3,2,327
+"Pink Lady",2,"Excellent",55,4,1,328
+"Gala",2.5,"Average",55,4,2,328
+"Gala",1,"Poor",55,5,1,329
+"Red Delicious",1.5,"Poor",55,5,2,329
+"Pink Lady",3.5,"Poor",55,6,1,330
+"Red Delicious",4,"Poor",55,6,2,330
+"Honeycrisp",2.5,"Excellent",56,1,1,331
+"Red Delicious",1.5,"Average",56,1,2,331
+"Gala",1,"Poor",56,2,1,332
+"Fuji",3.5,"Poor",56,2,2,332
+"Gala",1.5,"Average",56,3,1,333
+"Honeycrisp",2,"Excellent",56,3,2,333
+"Gala",3,"Average",56,4,1,334
+"Fuji",1,"Average",56,4,2,334
+"Gala",1,"Excellent",56,5,1,335
+"Honeycrisp",4,"Poor",56,5,2,335
+"Red Delicious",1.5,"Poor",56,6,1,336
+"Red Delicious",3.5,"Average",56,6,2,336
+"Fuji",3,"Excellent",57,1,1,337
+"Gala",3.5,"Poor",57,1,2,337
+"Gala",2.5,"Poor",57,2,1,338
+"Fuji",2.5,"Poor",57,2,2,338
+"Gala",2.5,"Average",57,3,1,339
+"Gala",2,"Average",57,3,2,339
+"Pink Lady",3,"Excellent",57,4,1,340
+"Honeycrisp",3.5,"Excellent",57,4,2,340
+"Red Delicious",1,"Poor",57,5,1,341
+"Gala",1,"Poor",57,5,2,341
+"Gala",3.5,"Poor",57,6,1,342
+"Gala",3,"Excellent",57,6,2,342
+"Honeycrisp",2,"Average",58,1,1,343
+"Honeycrisp",2,"Excellent",58,1,2,343
+"Honeycrisp",1.5,"Excellent",58,2,1,344
+"Honeycrisp",3,"Poor",58,2,2,344
+"Gala",2,"Poor",58,3,1,345
+"Red Delicious",3.5,"Average",58,3,2,345
+"Honeycrisp",1,"Excellent",58,4,1,346
+"Red Delicious",3.5,"Poor",58,4,2,346
+"Gala",4,"Average",58,5,1,347
+"Honeycrisp",3,"Average",58,5,2,347
+"Gala",1.5,"Average",58,6,1,348
+"Pink Lady",2.5,"Poor",58,6,2,348
+"Fuji",1.5,"Poor",59,1,1,349
+"Gala",3,"Average",59,1,2,349
+"Honeycrisp",1.5,"Excellent",59,2,1,350
+"Red Delicious",4,"Poor",59,2,2,350
+"Red Delicious",4,"Excellent",59,3,1,351
+"Gala",3.5,"Excellent",59,3,2,351
+"Honeycrisp",2.5,"Poor",59,4,1,352
+"Honeycrisp",3,"Excellent",59,4,2,352
+"Honeycrisp",4,"Excellent",59,5,1,353
+"Honeycrisp",2.5,"Poor",59,5,2,353
+"Honeycrisp",4,"Average",59,6,1,354
+"Pink Lady",1.5,"Poor",59,6,2,354
+"Honeycrisp",2.5,"Average",60,1,1,355
+"Honeycrisp",4,"Poor",60,1,2,355
+"Pink Lady",3,"Average",60,2,1,356
+"Pink Lady",4,"Poor",60,2,2,356
+"Honeycrisp",2.5,"Poor",60,3,1,357
+"Honeycrisp",4,"Excellent",60,3,2,357
+"Honeycrisp",2.5,"Excellent",60,4,1,358
+"Gala",1,"Excellent",60,4,2,358
+"Red Delicious",3,"Average",60,5,1,359
+"Pink Lady",3.5,"Excellent",60,5,2,359
+"Red Delicious",2.5,"Poor",60,6,1,360
+"Fuji",2,"Poor",60,6,2,360
+"Gala",3.5,"Poor",61,1,1,361
+"Pink Lady",1,"Excellent",61,1,2,361
+"Fuji",2.5,"Poor",61,2,1,362
+"Red Delicious",2.5,"Excellent",61,2,2,362
+"Pink Lady",3.5,"Excellent",61,3,1,363
+"Honeycrisp",2,"Average",61,3,2,363
+"Honeycrisp",1.5,"Average",61,4,1,364
+"Pink Lady",1.5,"Poor",61,4,2,364
+"Fuji",3.5,"Average",61,5,1,365
+"Pink Lady",2.5,"Poor",61,5,2,365
+"Gala",1.5,"Poor",61,6,1,366
+"Honeycrisp",2,"Average",61,6,2,366
+"Fuji",3,"Excellent",62,1,1,367
+"Pink Lady",2.5,"Poor",62,1,2,367
+"Red Delicious",2,"Poor",62,2,1,368
+"Pink Lady",4,"Excellent",62,2,2,368
+"Fuji",1.5,"Poor",62,3,1,369
+"Honeycrisp",3.5,"Average",62,3,2,369
+"Pink Lady",3.5,"Average",62,4,1,370
+"Honeycrisp",2.5,"Average",62,4,2,370
+"Honeycrisp",2,"Poor",62,5,1,371
+"Honeycrisp",4,"Average",62,5,2,371
+"Fuji",1,"Average",62,6,1,372
+"Gala",2,"Average",62,6,2,372
+"Red Delicious",1,"Excellent",63,1,1,373
+"Gala",2.5,"Excellent",63,1,2,373
+"Fuji",2.5,"Average",63,2,1,374
+"Red Delicious",3.5,"Poor",63,2,2,374
+"Red Delicious",3.5,"Excellent",63,3,1,375
+"Fuji",4,"Average",63,3,2,375
+"Red Delicious",3,"Average",63,4,1,376
+"Pink Lady",4,"Average",63,4,2,376
+"Fuji",2,"Average",63,5,1,377
+"Fuji",3,"Excellent",63,5,2,377
+"Honeycrisp",3.5,"Excellent",63,6,1,378
+"Red Delicious",4,"Poor",63,6,2,378
+"Red Delicious",1.5,"Excellent",64,1,1,379
+"Red Delicious",2.5,"Average",64,1,2,379
+"Gala",3,"Excellent",64,2,1,380
+"Honeycrisp",4,"Excellent",64,2,2,380
+"Gala",3.5,"Average",64,3,1,381
+"Honeycrisp",3.5,"Excellent",64,3,2,381
+"Pink Lady",4,"Excellent",64,4,1,382
+"Gala",2.5,"Excellent",64,4,2,382
+"Red Delicious",2.5,"Poor",64,5,1,383
+"Honeycrisp",1.5,"Average",64,5,2,383
+"Red Delicious",3.5,"Excellent",64,6,1,384
+"Gala",1,"Excellent",64,6,2,384
+"Pink Lady",3.5,"Excellent",65,1,1,385
+"Fuji",1,"Excellent",65,1,2,385
+"Honeycrisp",2.5,"Excellent",65,2,1,386
+"Red Delicious",4,"Excellent",65,2,2,386
+"Pink Lady",3.5,"Poor",65,3,1,387
+"Honeycrisp",4,"Poor",65,3,2,387
+"Pink Lady",2,"Average",65,4,1,388
+"Pink Lady",4,"Average",65,4,2,388
+"Gala",3.5,"Excellent",65,5,1,389
+"Red Delicious",2.5,"Average",65,5,2,389
+"Red Delicious",2,"Excellent",65,6,1,390
+"Red Delicious",3,"Average",65,6,2,390
+"Fuji",1.5,"Excellent",66,1,1,391
+"Red Delicious",2,"Poor",66,1,2,391
+"Fuji",3.5,"Poor",66,2,1,392
+"Gala",4,"Excellent",66,2,2,392
+"Fuji",3,"Poor",66,3,1,393
+"Red Delicious",3,"Excellent",66,3,2,393
+"Pink Lady",2,"Average",66,4,1,394
+"Pink Lady",1.5,"Excellent",66,4,2,394
+"Honeycrisp",2,"Poor",66,5,1,395
+"Fuji",2.5,"Excellent",66,5,2,395
+"Gala",1.5,"Excellent",66,6,1,396
+"Gala",2.5,"Excellent",66,6,2,396
+"Gala",1,"Poor",67,1,1,397
+"Pink Lady",2,"Excellent",67,1,2,397
+"Fuji",2,"Excellent",67,2,1,398
+"Gala",3.5,"Average",67,2,2,398
+"Red Delicious",3.5,"Poor",67,3,1,399
+"Gala",2,"Poor",67,3,2,399
+"Pink Lady",2.5,"Excellent",67,4,1,400
+"Honeycrisp",1.5,"Excellent",67,4,2,400
+"Fuji",2,"Poor",67,5,1,401
+"Fuji",3,"Average",67,5,2,401
+"Gala",3.5,"Excellent",67,6,1,402
+"Honeycrisp",3.5,"Excellent",67,6,2,402
+"Honeycrisp",2.5,"Excellent",68,1,1,403
+"Gala",3.5,"Poor",68,1,2,403
+"Gala",4,"Excellent",68,2,1,404
+"Pink Lady",3,"Average",68,2,2,404
+"Pink Lady",2,"Excellent",68,3,1,405
+"Gala",3,"Poor",68,3,2,405
+"Pink Lady",1,"Excellent",68,4,1,406
+"Red Delicious",1.5,"Average",68,4,2,406
+"Pink Lady",4,"Poor",68,5,1,407
+"Red Delicious",2.5,"Average",68,5,2,407
+"Red Delicious",3.5,"Average",68,6,1,408
+"Fuji",4,"Poor",68,6,2,408
+"Honeycrisp",1.5,"Poor",69,1,1,409
+"Honeycrisp",4,"Average",69,1,2,409
+"Honeycrisp",3.5,"Poor",69,2,1,410
+"Gala",1,"Poor",69,2,2,410
+"Pink Lady",1.5,"Average",69,3,1,411
+"Red Delicious",4,"Poor",69,3,2,411
+"Honeycrisp",4,"Average",69,4,1,412
+"Fuji",3.5,"Excellent",69,4,2,412
+"Honeycrisp",3,"Poor",69,5,1,413
+"Pink Lady",3.5,"Excellent",69,5,2,413
+"Gala",1,"Average",69,6,1,414
+"Fuji",1.5,"Poor",69,6,2,414
+"Honeycrisp",1.5,"Average",70,1,1,415
+"Red Delicious",3,"Poor",70,1,2,415
+"Gala",2,"Poor",70,2,1,416
+"Gala",1,"Poor",70,2,2,416
+"Fuji",2,"Poor",70,3,1,417
+"Fuji",4,"Average",70,3,2,417
+"Red Delicious",3,"Excellent",70,4,1,418
+"Pink Lady",1.5,"Poor",70,4,2,418
+"Pink Lady",1.5,"Poor",70,5,1,419
+"Gala",2.5,"Poor",70,5,2,419
+"Pink Lady",3.5,"Excellent",70,6,1,420
+"Red Delicious",1.5,"Excellent",70,6,2,420
+"Red Delicious",3.5,"Poor",71,1,1,421
+"Honeycrisp",3.5,"Excellent",71,1,2,421
+"Fuji",1,"Poor",71,2,1,422
+"Red Delicious",2.5,"Poor",71,2,2,422
+"Honeycrisp",1.5,"Average",71,3,1,423
+"Red Delicious",3.5,"Poor",71,3,2,423
+"Red Delicious",4,"Excellent",71,4,1,424
+"Gala",1,"Poor",71,4,2,424
+"Red Delicious",1,"Excellent",71,5,1,425
+"Pink Lady",2.5,"Poor",71,5,2,425
+"Pink Lady",1.5,"Average",71,6,1,426
+"Red Delicious",3,"Average",71,6,2,426
+"Fuji",3.5,"Average",72,1,1,427
+"Pink Lady",2.5,"Average",72,1,2,427
+"Fuji",1,"Average",72,2,1,428
+"Gala",3.5,"Poor",72,2,2,428
+"Pink Lady",2.5,"Poor",72,3,1,429
+"Red Delicious",2.5,"Poor",72,3,2,429
+"Fuji",2.5,"Excellent",72,4,1,430
+"Honeycrisp",2.5,"Excellent",72,4,2,430
+"Red Delicious",2,"Excellent",72,5,1,431
+"Pink Lady",3,"Poor",72,5,2,431
+"Gala",1,"Poor",72,6,1,432
+"Fuji",1.5,"Excellent",72,6,2,432
+"Red Delicious",2,"Poor",73,1,1,433
+"Fuji",3.5,"Poor",73,1,2,433
+"Pink Lady",1,"Average",73,2,1,434
+"Gala",2.5,"Poor",73,2,2,434
+"Pink Lady",3.5,"Excellent",73,3,1,435
+"Gala",1.5,"Excellent",73,3,2,435
+"Red Delicious",3.5,"Excellent",73,4,1,436
+"Honeycrisp",1.5,"Poor",73,4,2,436
+"Honeycrisp",2.5,"Excellent",73,5,1,437
+"Fuji",2,"Poor",73,5,2,437
+"Gala",2.5,"Average",73,6,1,438
+"Fuji",3.5,"Excellent",73,6,2,438
+"Gala",4,"Excellent",74,1,1,439
+"Honeycrisp",3,"Poor",74,1,2,439
+"Fuji",3.5,"Poor",74,2,1,440
+"Honeycrisp",3,"Excellent",74,2,2,440
+"Pink Lady",2.5,"Average",74,3,1,441
+"Gala",3.5,"Poor",74,3,2,441
+"Gala",3.5,"Poor",74,4,1,442
+"Red Delicious",3,"Poor",74,4,2,442
+"Fuji",4,"Excellent",74,5,1,443
+"Pink Lady",3,"Poor",74,5,2,443
+"Gala",1,"Average",74,6,1,444
+"Gala",1,"Poor",74,6,2,444
+"Red Delicious",3.5,"Excellent",75,1,1,445
+"Pink Lady",2,"Average",75,1,2,445
+"Fuji",2,"Poor",75,2,1,446
+"Fuji",1,"Poor",75,2,2,446
+"Red Delicious",4,"Average",75,3,1,447
+"Honeycrisp",2.5,"Average",75,3,2,447
+"Fuji",4,"Excellent",75,4,1,448
+"Gala",2,"Average",75,4,2,448
+"Red Delicious",3,"Poor",75,5,1,449
+"Gala",3,"Poor",75,5,2,449
+"Fuji",1.5,"Average",75,6,1,450
+"Red Delicious",1,"Poor",75,6,2,450
+"Red Delicious",4,"Excellent",76,1,1,451
+"Pink Lady",1.5,"Poor",76,1,2,451
+"Fuji",3,"Average",76,2,1,452
+"Pink Lady",2.5,"Poor",76,2,2,452
+"Red Delicious",1,"Poor",76,3,1,453
+"Honeycrisp",1,"Poor",76,3,2,453
+"Red Delicious",3,"Poor",76,4,1,454
+"Red Delicious",1.5,"Poor",76,4,2,454
+"Gala",3.5,"Average",76,5,1,455
+"Pink Lady",2,"Average",76,5,2,455
+"Fuji",3,"Excellent",76,6,1,456
+"Red Delicious",4,"Excellent",76,6,2,456
+"Honeycrisp",1.5,"Average",77,1,1,457
+"Fuji",3.5,"Excellent",77,1,2,457
+"Pink Lady",4,"Excellent",77,2,1,458
+"Pink Lady",1.5,"Average",77,2,2,458
+"Red Delicious",4,"Poor",77,3,1,459
+"Honeycrisp",2.5,"Poor",77,3,2,459
+"Gala",2.5,"Excellent",77,4,1,460
+"Gala",1,"Excellent",77,4,2,460
+"Fuji",1,"Poor",77,5,1,461
+"Red Delicious",1.5,"Excellent",77,5,2,461
+"Fuji",3.5,"Poor",77,6,1,462
+"Red Delicious",2.5,"Average",77,6,2,462
+"Fuji",2,"Excellent",78,1,1,463
+"Gala",1.5,"Average",78,1,2,463
+"Fuji",3,"Excellent",78,2,1,464
+"Gala",2,"Excellent",78,2,2,464
+"Gala",3,"Poor",78,3,1,465
+"Fuji",3.5,"Poor",78,3,2,465
+"Pink Lady",3,"Excellent",78,4,1,466
+"Red Delicious",1.5,"Excellent",78,4,2,466
+"Red Delicious",2,"Poor",78,5,1,467
+"Honeycrisp",1,"Poor",78,5,2,467
+"Gala",1,"Average",78,6,1,468
+"Fuji",2,"Average",78,6,2,468
+"Red Delicious",3.5,"Average",79,1,1,469
+"Honeycrisp",1,"Average",79,1,2,469
+"Gala",4,"Excellent",79,2,1,470
+"Honeycrisp",3,"Poor",79,2,2,470
+"Honeycrisp",1.5,"Average",79,3,1,471
+"Honeycrisp",4,"Average",79,3,2,471
+"Red Delicious",2,"Excellent",79,4,1,472
+"Honeycrisp",2,"Poor",79,4,2,472
+"Red Delicious",1,"Average",79,5,1,473
+"Pink Lady",3.5,"Poor",79,5,2,473
+"Red Delicious",1.5,"Excellent",79,6,1,474
+"Fuji",2,"Excellent",79,6,2,474
+"Honeycrisp",1.5,"Poor",80,1,1,475
+"Gala",2.5,"Excellent",80,1,2,475
+"Pink Lady",3,"Excellent",80,2,1,476
+"Gala",1.5,"Average",80,2,2,476
+"Honeycrisp",4,"Average",80,3,1,477
+"Honeycrisp",3,"Excellent",80,3,2,477
+"Fuji",1,"Poor",80,4,1,478
+"Gala",3.5,"Average",80,4,2,478
+"Pink Lady",4,"Poor",80,5,1,479
+"Red Delicious",2.5,"Excellent",80,5,2,479
+"Gala",3,"Excellent",80,6,1,480
+"Fuji",2,"Poor",80,6,2,480
+"Gala",4,"Average",81,1,1,481
+"Honeycrisp",3,"Excellent",81,1,2,481
+"Pink Lady",1,"Excellent",81,2,1,482
+"Fuji",1,"Excellent",81,2,2,482
+"Pink Lady",1,"Poor",81,3,1,483
+"Honeycrisp",4,"Average",81,3,2,483
+"Honeycrisp",3.5,"Average",81,4,1,484
+"Honeycrisp",1.5,"Excellent",81,4,2,484
+"Honeycrisp",3,"Average",81,5,1,485
+"Fuji",1,"Poor",81,5,2,485
+"Red Delicious",3.5,"Excellent",81,6,1,486
+"Gala",2.5,"Excellent",81,6,2,486
+"Pink Lady",1.5,"Average",82,1,1,487
+"Pink Lady",3.5,"Excellent",82,1,2,487
+"Pink Lady",2.5,"Average",82,2,1,488
+"Gala",3.5,"Average",82,2,2,488
+"Gala",3,"Average",82,3,1,489
+"Red Delicious",4,"Excellent",82,3,2,489
+"Pink Lady",2.5,"Poor",82,4,1,490
+"Gala",4,"Average",82,4,2,490
+"Fuji",1,"Poor",82,5,1,491
+"Red Delicious",3.5,"Average",82,5,2,491
+"Fuji",2,"Poor",82,6,1,492
+"Honeycrisp",3.5,"Excellent",82,6,2,492
+"Honeycrisp",4,"Poor",83,1,1,493
+"Gala",2.5,"Poor",83,1,2,493
+"Honeycrisp",4,"Average",83,2,1,494
+"Gala",2.5,"Excellent",83,2,2,494
+"Fuji",2.5,"Average",83,3,1,495
+"Red Delicious",3,"Excellent",83,3,2,495
+"Pink Lady",2.5,"Poor",83,4,1,496
+"Fuji",2,"Poor",83,4,2,496
+"Gala",1.5,"Average",83,5,1,497
+"Honeycrisp",2.5,"Excellent",83,5,2,497
+"Fuji",3,"Poor",83,6,1,498
+"Honeycrisp",1,"Excellent",83,6,2,498
+"Fuji",3,"Poor",84,1,1,499
+"Fuji",1.5,"Poor",84,1,2,499
+"Fuji",2.5,"Average",84,2,1,500
+"Pink Lady",1.5,"Average",84,2,2,500
+"Red Delicious",2.5,"Poor",84,3,1,501
+"Fuji",2.5,"Poor",84,3,2,501
+"Pink Lady",1.5,"Poor",84,4,1,502
+"Pink Lady",1,"Excellent",84,4,2,502
+"Fuji",3.5,"Poor",84,5,1,503
+"Gala",1,"Poor",84,5,2,503
+"Fuji",4,"Average",84,6,1,504
+"Fuji",4,"Excellent",84,6,2,504
+"Honeycrisp",3,"Excellent",85,1,1,505
+"Red Delicious",2.5,"Excellent",85,1,2,505
+"Gala",4,"Excellent",85,2,1,506
+"Gala",3,"Excellent",85,2,2,506
+"Fuji",1,"Average",85,3,1,507
+"Pink Lady",1,"Poor",85,3,2,507
+"Pink Lady",1,"Average",85,4,1,508
+"Fuji",2.5,"Average",85,4,2,508
+"Honeycrisp",2,"Average",85,5,1,509
+"Honeycrisp",1.5,"Poor",85,5,2,509
+"Red Delicious",1,"Excellent",85,6,1,510
+"Fuji",1.5,"Average",85,6,2,510
+"Honeycrisp",3.5,"Poor",86,1,1,511
+"Gala",2.5,"Excellent",86,1,2,511
+"Pink Lady",3,"Excellent",86,2,1,512
+"Honeycrisp",3.5,"Average",86,2,2,512
+"Honeycrisp",2.5,"Excellent",86,3,1,513
+"Fuji",1.5,"Average",86,3,2,513
+"Honeycrisp",2,"Excellent",86,4,1,514
+"Gala",3,"Excellent",86,4,2,514
+"Honeycrisp",3.5,"Average",86,5,1,515
+"Gala",1,"Average",86,5,2,515
+"Pink Lady",1,"Excellent",86,6,1,516
+"Honeycrisp",4,"Excellent",86,6,2,516
+"Gala",1,"Poor",87,1,1,517
+"Honeycrisp",4,"Average",87,1,2,517
+"Pink Lady",2,"Excellent",87,2,1,518
+"Red Delicious",3.5,"Average",87,2,2,518
+"Pink Lady",3,"Average",87,3,1,519
+"Red Delicious",3,"Average",87,3,2,519
+"Red Delicious",3,"Average",87,4,1,520
+"Fuji",3.5,"Excellent",87,4,2,520
+"Gala",1,"Poor",87,5,1,521
+"Honeycrisp",1.5,"Excellent",87,5,2,521
+"Honeycrisp",2,"Excellent",87,6,1,522
+"Honeycrisp",3,"Poor",87,6,2,522
+"Gala",2.5,"Poor",88,1,1,523
+"Pink Lady",3.5,"Excellent",88,1,2,523
+"Red Delicious",1.5,"Excellent",88,2,1,524
+"Honeycrisp",1,"Poor",88,2,2,524
+"Honeycrisp",2,"Poor",88,3,1,525
+"Honeycrisp",3,"Poor",88,3,2,525
+"Honeycrisp",1.5,"Poor",88,4,1,526
+"Pink Lady",2.5,"Excellent",88,4,2,526
+"Pink Lady",3,"Excellent",88,5,1,527
+"Gala",2.5,"Poor",88,5,2,527
+"Honeycrisp",2.5,"Poor",88,6,1,528
+"Fuji",3.5,"Average",88,6,2,528
+"Gala",1,"Excellent",89,1,1,529
+"Pink Lady",4,"Average",89,1,2,529
+"Gala",2,"Average",89,2,1,530
+"Red Delicious",3,"Excellent",89,2,2,530
+"Pink Lady",4,"Average",89,3,1,531
+"Red Delicious",1,"Excellent",89,3,2,531
+"Red Delicious",1,"Poor",89,4,1,532
+"Pink Lady",2,"Average",89,4,2,532
+"Pink Lady",2.5,"Excellent",89,5,1,533
+"Pink Lady",3.5,"Average",89,5,2,533
+"Fuji",2,"Poor",89,6,1,534
+"Honeycrisp",1.5,"Poor",89,6,2,534
+"Honeycrisp",4,"Average",90,1,1,535
+"Red Delicious",1,"Excellent",90,1,2,535
+"Red Delicious",1.5,"Average",90,2,1,536
+"Fuji",3,"Poor",90,2,2,536
+"Pink Lady",3,"Poor",90,3,1,537
+"Gala",2.5,"Average",90,3,2,537
+"Fuji",1,"Average",90,4,1,538
+"Honeycrisp",1,"Average",90,4,2,538
+"Fuji",1,"Excellent",90,5,1,539
+"Red Delicious",2,"Poor",90,5,2,539
+"Gala",2.5,"Average",90,6,1,540
+"Gala",1,"Poor",90,6,2,540
+"Fuji",2.5,"Excellent",91,1,1,541
+"Honeycrisp",2,"Average",91,1,2,541
+"Fuji",4,"Poor",91,2,1,542
+"Red Delicious",1,"Excellent",91,2,2,542
+"Fuji",4,"Poor",91,3,1,543
+"Red Delicious",2,"Excellent",91,3,2,543
+"Fuji",3,"Poor",91,4,1,544
+"Fuji",4,"Poor",91,4,2,544
+"Honeycrisp",2,"Excellent",91,5,1,545
+"Fuji",3,"Poor",91,5,2,545
+"Pink Lady",3.5,"Excellent",91,6,1,546
+"Fuji",1,"Poor",91,6,2,546
+"Gala",2,"Excellent",92,1,1,547
+"Honeycrisp",1,"Excellent",92,1,2,547
+"Gala",3.5,"Excellent",92,2,1,548
+"Pink Lady",2.5,"Poor",92,2,2,548
+"Red Delicious",2.5,"Average",92,3,1,549
+"Fuji",1,"Poor",92,3,2,549
+"Gala",3.5,"Poor",92,4,1,550
+"Red Delicious",1,"Excellent",92,4,2,550
+"Pink Lady",1.5,"Average",92,5,1,551
+"Fuji",2,"Poor",92,5,2,551
+"Red Delicious",1.5,"Poor",92,6,1,552
+"Gala",3,"Average",92,6,2,552
+"Red Delicious",2,"Excellent",93,1,1,553
+"Red Delicious",1,"Average",93,1,2,553
+"Honeycrisp",3.5,"Poor",93,2,1,554
+"Fuji",1,"Poor",93,2,2,554
+"Pink Lady",1.5,"Average",93,3,1,555
+"Gala",1,"Excellent",93,3,2,555
+"Honeycrisp",4,"Average",93,4,1,556
+"Pink Lady",3,"Poor",93,4,2,556
+"Pink Lady",3,"Average",93,5,1,557
+"Gala",1.5,"Excellent",93,5,2,557
+"Gala",3.5,"Average",93,6,1,558
+"Red Delicious",3,"Excellent",93,6,2,558
+"Fuji",1,"Excellent",94,1,1,559
+"Gala",4,"Poor",94,1,2,559
+"Gala",1.5,"Average",94,2,1,560
+"Honeycrisp",3.5,"Poor",94,2,2,560
+"Fuji",4,"Excellent",94,3,1,561
+"Honeycrisp",2,"Average",94,3,2,561
+"Fuji",3.5,"Average",94,4,1,562
+"Red Delicious",3,"Poor",94,4,2,562
+"Pink Lady",2.5,"Average",94,5,1,563
+"Pink Lady",3.5,"Average",94,5,2,563
+"Honeycrisp",3,"Average",94,6,1,564
+"Honeycrisp",1,"Average",94,6,2,564
+"Gala",1,"Average",95,1,1,565
+"Honeycrisp",3,"Average",95,1,2,565
+"Gala",2,"Excellent",95,2,1,566
+"Gala",1.5,"Poor",95,2,2,566
+"Fuji",3.5,"Average",95,3,1,567
+"Fuji",1.5,"Average",95,3,2,567
+"Fuji",3.5,"Excellent",95,4,1,568
+"Pink Lady",1.5,"Excellent",95,4,2,568
+"Pink Lady",4,"Average",95,5,1,569
+"Red Delicious",4,"Poor",95,5,2,569
+"Fuji",4,"Average",95,6,1,570
+"Fuji",2,"Average",95,6,2,570
+"Gala",1.5,"Excellent",96,1,1,571
+"Red Delicious",3,"Poor",96,1,2,571
+"Pink Lady",3,"Average",96,2,1,572
+"Red Delicious",1,"Poor",96,2,2,572
+"Honeycrisp",3,"Average",96,3,1,573
+"Honeycrisp",1.5,"Excellent",96,3,2,573
+"Honeycrisp",3,"Excellent",96,4,1,574
+"Gala",3,"Average",96,4,2,574
+"Pink Lady",3,"Average",96,5,1,575
+"Honeycrisp",3.5,"Average",96,5,2,575
+"Gala",1.5,"Excellent",96,6,1,576
+"Pink Lady",3.5,"Excellent",96,6,2,576
+"Red Delicious",3.5,"Average",97,1,1,577
+"Red Delicious",4,"Excellent",97,1,2,577
+"Fuji",1,"Average",97,2,1,578
+"Honeycrisp",3.5,"Poor",97,2,2,578
+"Pink Lady",2,"Average",97,3,1,579
+"Honeycrisp",3.5,"Excellent",97,3,2,579
+"Honeycrisp",1,"Excellent",97,4,1,580
+"Pink Lady",3,"Average",97,4,2,580
+"Red Delicious",2.5,"Poor",97,5,1,581
+"Gala",2.5,"Poor",97,5,2,581
+"Pink Lady",1,"Poor",97,6,1,582
+"Gala",3,"Excellent",97,6,2,582
+"Red Delicious",2.5,"Excellent",98,1,1,583
+"Pink Lady",1,"Excellent",98,1,2,583
+"Gala",1.5,"Average",98,2,1,584
+"Honeycrisp",2.5,"Poor",98,2,2,584
+"Fuji",1.5,"Excellent",98,3,1,585
+"Gala",4,"Excellent",98,3,2,585
+"Pink Lady",4,"Average",98,4,1,586
+"Red Delicious",3.5,"Excellent",98,4,2,586
+"Gala",4,"Excellent",98,5,1,587
+"Red Delicious",4,"Poor",98,5,2,587
+"Honeycrisp",1.5,"Average",98,6,1,588
+"Red Delicious",2.5,"Poor",98,6,2,588
+"Fuji",4,"Poor",99,1,1,589
+"Pink Lady",1.5,"Average",99,1,2,589
+"Red Delicious",3.5,"Excellent",99,2,1,590
+"Gala",3.5,"Poor",99,2,2,590
+"Red Delicious",2,"Average",99,3,1,591
+"Red Delicious",3,"Average",99,3,2,591
+"Pink Lady",1,"Average",99,4,1,592
+"Red Delicious",2,"Excellent",99,4,2,592
+"Honeycrisp",1,"Poor",99,5,1,593
+"Fuji",1.5,"Excellent",99,5,2,593
+"Gala",4,"Average",99,6,1,594
+"Gala",1.5,"Poor",99,6,2,594
+"Gala",1.5,"Excellent",100,1,1,595
+"Fuji",2.5,"Average",100,1,2,595
+"Pink Lady",1,"Average",100,2,1,596
+"Honeycrisp",2,"Average",100,2,2,596
+"Fuji",2.5,"Excellent",100,3,1,597
+"Red Delicious",1,"Average",100,3,2,597
+"Fuji",3,"Average",100,4,1,598
+"Fuji",3,"Average",100,4,2,598
+"Red Delicious",1.5,"Excellent",100,5,1,599
+"Fuji",1,"Excellent",100,5,2,599
+"Honeycrisp",2.5,"Excellent",100,6,1,600
+"Gala",2.5,"Excellent",100,6,2,600
+"Honeycrisp",3,"Average",101,1,1,601
+"Pink Lady",2,"Average",101,1,2,601
+"Gala",4,"Poor",101,2,1,602
+"Red Delicious",3.5,"Excellent",101,2,2,602
+"Red Delicious",2,"Average",101,3,1,603
+"Pink Lady",1.5,"Average",101,3,2,603
+"Pink Lady",1.5,"Excellent",101,4,1,604
+"Red Delicious",3,"Poor",101,4,2,604
+"Fuji",1,"Poor",101,5,1,605
+"Gala",4,"Excellent",101,5,2,605
+"Honeycrisp",3.5,"Poor",101,6,1,606
+"Honeycrisp",1.5,"Excellent",101,6,2,606
+"Honeycrisp",1.5,"Average",102,1,1,607
+"Pink Lady",2.5,"Excellent",102,1,2,607
+"Pink Lady",2,"Average",102,2,1,608
+"Fuji",1,"Excellent",102,2,2,608
+"Pink Lady",2.5,"Excellent",102,3,1,609
+"Pink Lady",3,"Excellent",102,3,2,609
+"Fuji",1,"Poor",102,4,1,610
+"Fuji",2,"Excellent",102,4,2,610
+"Pink Lady",1,"Excellent",102,5,1,611
+"Fuji",2.5,"Excellent",102,5,2,611
+"Pink Lady",3.5,"Excellent",102,6,1,612
+"Gala",3,"Poor",102,6,2,612
+"Pink Lady",3,"Poor",103,1,1,613
+"Honeycrisp",2.5,"Average",103,1,2,613
+"Red Delicious",2,"Poor",103,2,1,614
+"Red Delicious",2.5,"Poor",103,2,2,614
+"Honeycrisp",1,"Poor",103,3,1,615
+"Gala",3,"Poor",103,3,2,615
+"Fuji",3.5,"Average",103,4,1,616
+"Gala",2,"Average",103,4,2,616
+"Red Delicious",2.5,"Average",103,5,1,617
+"Red Delicious",3.5,"Average",103,5,2,617
+"Red Delicious",2,"Excellent",103,6,1,618
+"Fuji",3,"Excellent",103,6,2,618
+"Red Delicious",4,"Average",104,1,1,619
+"Pink Lady",2,"Poor",104,1,2,619
+"Gala",1,"Average",104,2,1,620
+"Red Delicious",2.5,"Excellent",104,2,2,620
+"Gala",1,"Excellent",104,3,1,621
+"Fuji",3,"Excellent",104,3,2,621
+"Gala",2.5,"Average",104,4,1,622
+"Honeycrisp",1,"Excellent",104,4,2,622
+"Gala",2,"Poor",104,5,1,623
+"Gala",4,"Poor",104,5,2,623
+"Red Delicious",3,"Average",104,6,1,624
+"Red Delicious",3,"Poor",104,6,2,624
+"Fuji",4,"Poor",105,1,1,625
+"Pink Lady",3,"Average",105,1,2,625
+"Honeycrisp",1,"Average",105,2,1,626
+"Honeycrisp",3,"Excellent",105,2,2,626
+"Fuji",2.5,"Excellent",105,3,1,627
+"Honeycrisp",2,"Poor",105,3,2,627
+"Honeycrisp",3,"Average",105,4,1,628
+"Gala",2.5,"Poor",105,4,2,628
+"Red Delicious",1,"Average",105,5,1,629
+"Fuji",2.5,"Poor",105,5,2,629
+"Fuji",1.5,"Average",105,6,1,630
+"Honeycrisp",3,"Average",105,6,2,630
+"Honeycrisp",1,"Average",106,1,1,631
+"Pink Lady",1,"Excellent",106,1,2,631
+"Red Delicious",4,"Poor",106,2,1,632
+"Gala",3,"Poor",106,2,2,632
+"Red Delicious",3.5,"Poor",106,3,1,633
+"Red Delicious",4,"Average",106,3,2,633
+"Red Delicious",3,"Excellent",106,4,1,634
+"Fuji",2,"Average",106,4,2,634
+"Honeycrisp",1,"Excellent",106,5,1,635
+"Honeycrisp",2,"Excellent",106,5,2,635
+"Red Delicious",4,"Poor",106,6,1,636
+"Pink Lady",4,"Average",106,6,2,636
+"Gala",1,"Poor",107,1,1,637
+"Fuji",1,"Poor",107,1,2,637
+"Fuji",3,"Excellent",107,2,1,638
+"Pink Lady",2,"Poor",107,2,2,638
+"Pink Lady",3.5,"Poor",107,3,1,639
+"Pink Lady",3.5,"Excellent",107,3,2,639
+"Red Delicious",3.5,"Average",107,4,1,640
+"Pink Lady",3,"Excellent",107,4,2,640
+"Pink Lady",4,"Average",107,5,1,641
+"Pink Lady",1.5,"Excellent",107,5,2,641
+"Red Delicious",2,"Average",107,6,1,642
+"Red Delicious",1.5,"Poor",107,6,2,642
+"Red Delicious",2.5,"Poor",108,1,1,643
+"Honeycrisp",1,"Poor",108,1,2,643
+"Fuji",3.5,"Poor",108,2,1,644
+"Honeycrisp",2.5,"Average",108,2,2,644
+"Fuji",3,"Excellent",108,3,1,645
+"Honeycrisp",1,"Excellent",108,3,2,645
+"Fuji",3,"Average",108,4,1,646
+"Fuji",3,"Excellent",108,4,2,646
+"Gala",3.5,"Excellent",108,5,1,647
+"Fuji",2,"Average",108,5,2,647
+"Red Delicious",2,"Excellent",108,6,1,648
+"Gala",2.5,"Excellent",108,6,2,648
+"Fuji",2.5,"Poor",109,1,1,649
+"Gala",1,"Excellent",109,1,2,649
+"Red Delicious",2,"Poor",109,2,1,650
+"Fuji",3.5,"Average",109,2,2,650
+"Red Delicious",3.5,"Poor",109,3,1,651
+"Gala",3.5,"Poor",109,3,2,651
+"Honeycrisp",4,"Excellent",109,4,1,652
+"Red Delicious",2,"Poor",109,4,2,652
+"Gala",3,"Average",109,5,1,653
+"Fuji",1.5,"Poor",109,5,2,653
+"Fuji",2.5,"Average",109,6,1,654
+"Honeycrisp",1,"Average",109,6,2,654
+"Pink Lady",2,"Poor",110,1,1,655
+"Red Delicious",4,"Excellent",110,1,2,655
+"Fuji",3.5,"Poor",110,2,1,656
+"Fuji",2,"Excellent",110,2,2,656
+"Gala",2.5,"Average",110,3,1,657
+"Honeycrisp",1.5,"Excellent",110,3,2,657
+"Honeycrisp",3,"Poor",110,4,1,658
+"Red Delicious",4,"Average",110,4,2,658
+"Fuji",1,"Excellent",110,5,1,659
+"Fuji",2,"Excellent",110,5,2,659
+"Pink Lady",4,"Average",110,6,1,660
+"Pink Lady",2,"Excellent",110,6,2,660
+"Honeycrisp",2,"Average",111,1,1,661
+"Pink Lady",2,"Poor",111,1,2,661
+"Honeycrisp",3,"Average",111,2,1,662
+"Pink Lady",1.5,"Poor",111,2,2,662
+"Pink Lady",3.5,"Poor",111,3,1,663
+"Fuji",1.5,"Average",111,3,2,663
+"Red Delicious",1.5,"Average",111,4,1,664
+"Gala",3.5,"Average",111,4,2,664
+"Gala",3.5,"Poor",111,5,1,665
+"Honeycrisp",1.5,"Excellent",111,5,2,665
+"Fuji",3.5,"Poor",111,6,1,666
+"Honeycrisp",4,"Poor",111,6,2,666
+"Red Delicious",2.5,"Average",112,1,1,667
+"Honeycrisp",4,"Average",112,1,2,667
+"Gala",1.5,"Excellent",112,2,1,668
+"Honeycrisp",2.5,"Poor",112,2,2,668
+"Honeycrisp",2.5,"Average",112,3,1,669
+"Pink Lady",4,"Average",112,3,2,669
+"Pink Lady",3,"Average",112,4,1,670
+"Honeycrisp",4,"Poor",112,4,2,670
+"Pink Lady",2,"Average",112,5,1,671
+"Fuji",2.5,"Excellent",112,5,2,671
+"Honeycrisp",1.5,"Average",112,6,1,672
+"Gala",2,"Average",112,6,2,672
+"Gala",3.5,"Excellent",113,1,1,673
+"Gala",1,"Excellent",113,1,2,673
+"Pink Lady",2,"Excellent",113,2,1,674
+"Red Delicious",1.5,"Excellent",113,2,2,674
+"Honeycrisp",1,"Average",113,3,1,675
+"Pink Lady",3,"Average",113,3,2,675
+"Honeycrisp",1,"Excellent",113,4,1,676
+"Gala",2,"Average",113,4,2,676
+"Fuji",1.5,"Excellent",113,5,1,677
+"Pink Lady",1,"Excellent",113,5,2,677
+"Fuji",1,"Poor",113,6,1,678
+"Honeycrisp",3,"Average",113,6,2,678
+"Pink Lady",3.5,"Excellent",114,1,1,679
+"Gala",1,"Poor",114,1,2,679
+"Pink Lady",3.5,"Excellent",114,2,1,680
+"Fuji",4,"Poor",114,2,2,680
+"Gala",1.5,"Average",114,3,1,681
+"Fuji",3,"Excellent",114,3,2,681
+"Red Delicious",1,"Average",114,4,1,682
+"Gala",4,"Excellent",114,4,2,682
+"Gala",2,"Excellent",114,5,1,683
+"Gala",3.5,"Average",114,5,2,683
+"Red Delicious",3.5,"Average",114,6,1,684
+"Pink Lady",1,"Excellent",114,6,2,684
+"Pink Lady",1,"Excellent",115,1,1,685
+"Fuji",3,"Average",115,1,2,685
+"Red Delicious",1,"Average",115,2,1,686
+"Gala",2,"Excellent",115,2,2,686
+"Gala",2.5,"Poor",115,3,1,687
+"Fuji",2.5,"Poor",115,3,2,687
+"Gala",2.5,"Poor",115,4,1,688
+"Gala",1.5,"Excellent",115,4,2,688
+"Pink Lady",3,"Excellent",115,5,1,689
+"Red Delicious",3,"Average",115,5,2,689
+"Fuji",3.5,"Excellent",115,6,1,690
+"Honeycrisp",1,"Poor",115,6,2,690
+"Gala",1,"Average",116,1,1,691
+"Pink Lady",2,"Excellent",116,1,2,691
+"Pink Lady",2.5,"Poor",116,2,1,692
+"Pink Lady",2,"Poor",116,2,2,692
+"Pink Lady",1,"Average",116,3,1,693
+"Fuji",3.5,"Average",116,3,2,693
+"Fuji",1.5,"Average",116,4,1,694
+"Honeycrisp",1.5,"Excellent",116,4,2,694
+"Honeycrisp",1.5,"Excellent",116,5,1,695
+"Gala",2.5,"Average",116,5,2,695
+"Pink Lady",2.5,"Poor",116,6,1,696
+"Honeycrisp",2,"Average",116,6,2,696
+"Pink Lady",2.5,"Average",117,1,1,697
+"Gala",4,"Average",117,1,2,697
+"Pink Lady",3.5,"Poor",117,2,1,698
+"Honeycrisp",3,"Average",117,2,2,698
+"Honeycrisp",4,"Excellent",117,3,1,699
+"Honeycrisp",1.5,"Poor",117,3,2,699
+"Fuji",3.5,"Excellent",117,4,1,700
+"Red Delicious",2,"Excellent",117,4,2,700
+"Fuji",3.5,"Excellent",117,5,1,701
+"Red Delicious",1,"Average",117,5,2,701
+"Red Delicious",2.5,"Poor",117,6,1,702
+"Red Delicious",1,"Average",117,6,2,702
+"Gala",3,"Average",118,1,1,703
+"Red Delicious",1.5,"Excellent",118,1,2,703
+"Fuji",4,"Excellent",118,2,1,704
+"Honeycrisp",1.5,"Excellent",118,2,2,704
+"Gala",3,"Excellent",118,3,1,705
+"Honeycrisp",2,"Excellent",118,3,2,705
+"Honeycrisp",2,"Poor",118,4,1,706
+"Red Delicious",2,"Poor",118,4,2,706
+"Gala",3,"Excellent",118,5,1,707
+"Gala",2,"Poor",118,5,2,707
+"Pink Lady",3,"Excellent",118,6,1,708
+"Gala",1,"Poor",118,6,2,708
+"Red Delicious",3.5,"Excellent",119,1,1,709
+"Red Delicious",2,"Average",119,1,2,709
+"Pink Lady",2.5,"Excellent",119,2,1,710
+"Pink Lady",2,"Poor",119,2,2,710
+"Pink Lady",3.5,"Poor",119,3,1,711
+"Gala",2,"Poor",119,3,2,711
+"Pink Lady",3.5,"Excellent",119,4,1,712
+"Red Delicious",1.5,"Excellent",119,4,2,712
+"Fuji",1,"Average",119,5,1,713
+"Gala",2,"Poor",119,5,2,713
+"Gala",3,"Poor",119,6,1,714
+"Pink Lady",1.5,"Poor",119,6,2,714
+"Pink Lady",3,"Average",120,1,1,715
+"Pink Lady",1.5,"Excellent",120,1,2,715
+"Honeycrisp",3,"Excellent",120,2,1,716
+"Fuji",3,"Average",120,2,2,716
+"Gala",1.5,"Average",120,3,1,717
+"Red Delicious",3,"Excellent",120,3,2,717
+"Gala",2,"Average",120,4,1,718
+"Red Delicious",3,"Excellent",120,4,2,718
+"Pink Lady",2.5,"Average",120,5,1,719
+"Gala",3.5,"Excellent",120,5,2,719
+"Honeycrisp",2,"Average",120,6,1,720
+"Fuji",2.5,"Excellent",120,6,2,720
+"Pink Lady",2,"Excellent",121,1,1,721
+"Pink Lady",3,"Poor",121,1,2,721
+"Pink Lady",2,"Poor",121,2,1,722
+"Red Delicious",4,"Average",121,2,2,722
+"Honeycrisp",4,"Average",121,3,1,723
+"Pink Lady",2,"Poor",121,3,2,723
+"Honeycrisp",3.5,"Excellent",121,4,1,724
+"Red Delicious",3.5,"Poor",121,4,2,724
+"Honeycrisp",2.5,"Poor",121,5,1,725
+"Pink Lady",4,"Poor",121,5,2,725
+"Honeycrisp",1,"Excellent",121,6,1,726
+"Gala",3,"Average",121,6,2,726
+"Gala",2,"Poor",122,1,1,727
+"Pink Lady",2.5,"Excellent",122,1,2,727
+"Gala",1.5,"Average",122,2,1,728
+"Red Delicious",3,"Poor",122,2,2,728
+"Pink Lady",2.5,"Poor",122,3,1,729
+"Fuji",3.5,"Excellent",122,3,2,729
+"Honeycrisp",2,"Excellent",122,4,1,730
+"Gala",3.5,"Average",122,4,2,730
+"Gala",2,"Average",122,5,1,731
+"Pink Lady",4,"Excellent",122,5,2,731
+"Fuji",1,"Poor",122,6,1,732
+"Fuji",1,"Excellent",122,6,2,732
+"Honeycrisp",3.5,"Average",123,1,1,733
+"Red Delicious",2.5,"Poor",123,1,2,733
+"Red Delicious",3,"Excellent",123,2,1,734
+"Pink Lady",2,"Excellent",123,2,2,734
+"Gala",4,"Excellent",123,3,1,735
+"Gala",1,"Poor",123,3,2,735
+"Gala",4,"Poor",123,4,1,736
+"Pink Lady",1.5,"Poor",123,4,2,736
+"Gala",1.5,"Average",123,5,1,737
+"Red Delicious",1,"Excellent",123,5,2,737
+"Red Delicious",1.5,"Average",123,6,1,738
+"Honeycrisp",1,"Average",123,6,2,738
+"Honeycrisp",4,"Poor",124,1,1,739
+"Pink Lady",2.5,"Poor",124,1,2,739
+"Fuji",3,"Poor",124,2,1,740
+"Gala",1,"Excellent",124,2,2,740
+"Gala",3.5,"Excellent",124,3,1,741
+"Honeycrisp",2,"Poor",124,3,2,741
+"Pink Lady",3,"Average",124,4,1,742
+"Honeycrisp",1.5,"Average",124,4,2,742
+"Honeycrisp",1.5,"Excellent",124,5,1,743
+"Gala",3,"Poor",124,5,2,743
+"Fuji",2,"Poor",124,6,1,744
+"Red Delicious",2,"Average",124,6,2,744
+"Fuji",1,"Average",125,1,1,745
+"Honeycrisp",3.5,"Average",125,1,2,745
+"Fuji",2,"Excellent",125,2,1,746
+"Pink Lady",3,"Excellent",125,2,2,746
+"Honeycrisp",2.5,"Excellent",125,3,1,747
+"Gala",2.5,"Average",125,3,2,747
+"Gala",3,"Average",125,4,1,748
+"Red Delicious",4,"Excellent",125,4,2,748
+"Fuji",3,"Average",125,5,1,749
+"Pink Lady",3,"Poor",125,5,2,749
+"Honeycrisp",3.5,"Poor",125,6,1,750
+"Gala",3.5,"Average",125,6,2,750
+"Red Delicious",2.5,"Excellent",126,1,1,751
+"Red Delicious",2,"Excellent",126,1,2,751
+"Honeycrisp",4,"Excellent",126,2,1,752
+"Red Delicious",4,"Excellent",126,2,2,752
+"Fuji",3,"Poor",126,3,1,753
+"Red Delicious",4,"Average",126,3,2,753
+"Red Delicious",1.5,"Average",126,4,1,754
+"Honeycrisp",2.5,"Excellent",126,4,2,754
+"Pink Lady",3,"Poor",126,5,1,755
+"Red Delicious",4,"Average",126,5,2,755
+"Pink Lady",3.5,"Poor",126,6,1,756
+"Pink Lady",1.5,"Excellent",126,6,2,756
+"Red Delicious",1,"Excellent",127,1,1,757
+"Red Delicious",2,"Excellent",127,1,2,757
+"Pink Lady",1.5,"Excellent",127,2,1,758
+"Gala",2.5,"Average",127,2,2,758
+"Gala",3.5,"Poor",127,3,1,759
+"Honeycrisp",4,"Average",127,3,2,759
+"Gala",1.5,"Poor",127,4,1,760
+"Red Delicious",2.5,"Poor",127,4,2,760
+"Fuji",3.5,"Excellent",127,5,1,761
+"Red Delicious",2.5,"Poor",127,5,2,761
+"Honeycrisp",4,"Average",127,6,1,762
+"Gala",1.5,"Average",127,6,2,762
+"Honeycrisp",3,"Poor",128,1,1,763
+"Honeycrisp",3.5,"Poor",128,1,2,763
+"Gala",2.5,"Poor",128,2,1,764
+"Fuji",4,"Excellent",128,2,2,764
+"Pink Lady",3,"Excellent",128,3,1,765
+"Honeycrisp",3,"Excellent",128,3,2,765
+"Fuji",1,"Poor",128,4,1,766
+"Red Delicious",2,"Excellent",128,4,2,766
+"Pink Lady",1,"Average",128,5,1,767
+"Pink Lady",3.5,"Poor",128,5,2,767
+"Gala",3.5,"Average",128,6,1,768
+"Pink Lady",1,"Average",128,6,2,768
+"Red Delicious",3.5,"Poor",129,1,1,769
+"Red Delicious",1.5,"Poor",129,1,2,769
+"Red Delicious",4,"Average",129,2,1,770
+"Red Delicious",3.5,"Poor",129,2,2,770
+"Honeycrisp",3,"Average",129,3,1,771
+"Red Delicious",1,"Average",129,3,2,771
+"Gala",1.5,"Excellent",129,4,1,772
+"Pink Lady",1,"Average",129,4,2,772
+"Fuji",2,"Excellent",129,5,1,773
+"Fuji",1,"Average",129,5,2,773
+"Pink Lady",3,"Excellent",129,6,1,774
+"Pink Lady",4,"Average",129,6,2,774
+"Fuji",1.5,"Poor",130,1,1,775
+"Pink Lady",4,"Excellent",130,1,2,775
+"Gala",2,"Poor",130,2,1,776
+"Honeycrisp",2,"Average",130,2,2,776
+"Gala",1.5,"Average",130,3,1,777
+"Gala",1.5,"Excellent",130,3,2,777
+"Honeycrisp",3,"Poor",130,4,1,778
+"Pink Lady",2.5,"Poor",130,4,2,778
+"Fuji",2,"Average",130,5,1,779
+"Gala",2.5,"Excellent",130,5,2,779
+"Fuji",2,"Poor",130,6,1,780
+"Honeycrisp",2.5,"Average",130,6,2,780
+"Pink Lady",2,"Average",131,1,1,781
+"Honeycrisp",3.5,"Excellent",131,1,2,781
+"Red Delicious",3,"Average",131,2,1,782
+"Fuji",1.5,"Average",131,2,2,782
+"Honeycrisp",3.5,"Excellent",131,3,1,783
+"Red Delicious",1,"Poor",131,3,2,783
+"Red Delicious",2,"Excellent",131,4,1,784
+"Honeycrisp",2,"Excellent",131,4,2,784
+"Pink Lady",3,"Poor",131,5,1,785
+"Honeycrisp",3.5,"Average",131,5,2,785
+"Red Delicious",3.5,"Excellent",131,6,1,786
+"Fuji",2.5,"Excellent",131,6,2,786
+"Red Delicious",3.5,"Average",132,1,1,787
+"Red Delicious",1,"Average",132,1,2,787
+"Red Delicious",3,"Average",132,2,1,788
+"Gala",3,"Average",132,2,2,788
+"Fuji",3.5,"Poor",132,3,1,789
+"Fuji",1,"Excellent",132,3,2,789
+"Pink Lady",3.5,"Average",132,4,1,790
+"Red Delicious",3.5,"Average",132,4,2,790
+"Fuji",3,"Poor",132,5,1,791
+"Red Delicious",2.5,"Excellent",132,5,2,791
+"Fuji",4,"Average",132,6,1,792
+"Red Delicious",4,"Excellent",132,6,2,792
+"Honeycrisp",3,"Poor",133,1,1,793
+"Fuji",3,"Poor",133,1,2,793
+"Red Delicious",2,"Excellent",133,2,1,794
+"Pink Lady",3.5,"Poor",133,2,2,794
+"Honeycrisp",1,"Poor",133,3,1,795
+"Honeycrisp",3.5,"Excellent",133,3,2,795
+"Honeycrisp",3.5,"Excellent",133,4,1,796
+"Fuji",2.5,"Poor",133,4,2,796
+"Fuji",1,"Excellent",133,5,1,797
+"Honeycrisp",3,"Poor",133,5,2,797
+"Red Delicious",2.5,"Excellent",133,6,1,798
+"Fuji",3,"Average",133,6,2,798
+"Gala",3.5,"Average",134,1,1,799
+"Pink Lady",1,"Poor",134,1,2,799
+"Honeycrisp",3,"Excellent",134,2,1,800
+"Red Delicious",3,"Average",134,2,2,800
+"Gala",1.5,"Average",134,3,1,801
+"Gala",4,"Poor",134,3,2,801
+"Fuji",1,"Excellent",134,4,1,802
+"Red Delicious",3,"Excellent",134,4,2,802
+"Fuji",2,"Poor",134,5,1,803
+"Red Delicious",4,"Poor",134,5,2,803
+"Honeycrisp",2,"Average",134,6,1,804
+"Honeycrisp",2.5,"Excellent",134,6,2,804
+"Honeycrisp",2,"Average",135,1,1,805
+"Gala",2,"Average",135,1,2,805
+"Gala",1.5,"Average",135,2,1,806
+"Fuji",4,"Average",135,2,2,806
+"Fuji",2.5,"Excellent",135,3,1,807
+"Gala",1.5,"Poor",135,3,2,807
+"Red Delicious",4,"Poor",135,4,1,808
+"Honeycrisp",4,"Excellent",135,4,2,808
+"Red Delicious",1.5,"Average",135,5,1,809
+"Fuji",2,"Poor",135,5,2,809
+"Honeycrisp",1,"Poor",135,6,1,810
+"Fuji",3,"Excellent",135,6,2,810
+"Honeycrisp",4,"Average",136,1,1,811
+"Fuji",4,"Excellent",136,1,2,811
+"Red Delicious",1,"Average",136,2,1,812
+"Gala",4,"Excellent",136,2,2,812
+"Gala",2,"Poor",136,3,1,813
+"Honeycrisp",4,"Excellent",136,3,2,813
+"Pink Lady",3.5,"Average",136,4,1,814
+"Gala",2,"Excellent",136,4,2,814
+"Fuji",3.5,"Poor",136,5,1,815
+"Fuji",2,"Average",136,5,2,815
+"Honeycrisp",2,"Poor",136,6,1,816
+"Gala",4,"Average",136,6,2,816
+"Fuji",3,"Poor",137,1,1,817
+"Honeycrisp",2,"Average",137,1,2,817
+"Gala",1.5,"Average",137,2,1,818
+"Honeycrisp",4,"Excellent",137,2,2,818
+"Honeycrisp",2.5,"Poor",137,3,1,819
+"Fuji",1.5,"Excellent",137,3,2,819
+"Fuji",2.5,"Poor",137,4,1,820
+"Honeycrisp",2.5,"Excellent",137,4,2,820
+"Pink Lady",2.5,"Average",137,5,1,821
+"Gala",3.5,"Average",137,5,2,821
+"Pink Lady",4,"Poor",137,6,1,822
+"Red Delicious",1.5,"Poor",137,6,2,822
+"Fuji",2,"Excellent",138,1,1,823
+"Fuji",3,"Excellent",138,1,2,823
+"Pink Lady",3.5,"Average",138,2,1,824
+"Honeycrisp",2.5,"Poor",138,2,2,824
+"Honeycrisp",1,"Excellent",138,3,1,825
+"Fuji",3,"Excellent",138,3,2,825
+"Gala",1,"Excellent",138,4,1,826
+"Honeycrisp",3.5,"Average",138,4,2,826
+"Red Delicious",2,"Average",138,5,1,827
+"Gala",2.5,"Excellent",138,5,2,827
+"Fuji",4,"Poor",138,6,1,828
+"Gala",3,"Average",138,6,2,828
+"Red Delicious",1,"Average",139,1,1,829
+"Fuji",2.5,"Poor",139,1,2,829
+"Pink Lady",2,"Excellent",139,2,1,830
+"Red Delicious",3,"Poor",139,2,2,830
+"Honeycrisp",1.5,"Excellent",139,3,1,831
+"Gala",3,"Average",139,3,2,831
+"Pink Lady",3,"Excellent",139,4,1,832
+"Red Delicious",2,"Poor",139,4,2,832
+"Honeycrisp",3,"Excellent",139,5,1,833
+"Gala",4,"Excellent",139,5,2,833
+"Gala",2,"Excellent",139,6,1,834
+"Fuji",4,"Poor",139,6,2,834
+"Pink Lady",1,"Poor",140,1,1,835
+"Red Delicious",2,"Excellent",140,1,2,835
+"Pink Lady",3,"Poor",140,2,1,836
+"Gala",3,"Average",140,2,2,836
+"Gala",2,"Poor",140,3,1,837
+"Red Delicious",3,"Poor",140,3,2,837
+"Honeycrisp",1,"Excellent",140,4,1,838
+"Pink Lady",2,"Poor",140,4,2,838
+"Red Delicious",3.5,"Excellent",140,5,1,839
+"Red Delicious",2,"Poor",140,5,2,839
+"Gala",2.5,"Average",140,6,1,840
+"Honeycrisp",4,"Excellent",140,6,2,840
+"Honeycrisp",2.5,"Excellent",141,1,1,841
+"Gala",2.5,"Excellent",141,1,2,841
+"Fuji",3,"Average",141,2,1,842
+"Gala",2.5,"Poor",141,2,2,842
+"Honeycrisp",3,"Poor",141,3,1,843
+"Pink Lady",1,"Poor",141,3,2,843
+"Red Delicious",2.5,"Excellent",141,4,1,844
+"Fuji",1.5,"Poor",141,4,2,844
+"Pink Lady",2,"Poor",141,5,1,845
+"Gala",4,"Poor",141,5,2,845
+"Fuji",4,"Excellent",141,6,1,846
+"Red Delicious",3.5,"Poor",141,6,2,846
+"Pink Lady",1.5,"Average",142,1,1,847
+"Pink Lady",3.5,"Excellent",142,1,2,847
+"Gala",2,"Poor",142,2,1,848
+"Gala",1.5,"Excellent",142,2,2,848
+"Honeycrisp",2,"Excellent",142,3,1,849
+"Pink Lady",3.5,"Average",142,3,2,849
+"Pink Lady",3,"Poor",142,4,1,850
+"Honeycrisp",3.5,"Excellent",142,4,2,850
+"Fuji",3.5,"Excellent",142,5,1,851
+"Honeycrisp",1,"Excellent",142,5,2,851
+"Pink Lady",2.5,"Poor",142,6,1,852
+"Fuji",1,"Excellent",142,6,2,852
+"Honeycrisp",3.5,"Excellent",143,1,1,853
+"Honeycrisp",3.5,"Excellent",143,1,2,853
+"Pink Lady",1.5,"Poor",143,2,1,854
+"Honeycrisp",2,"Average",143,2,2,854
+"Fuji",2.5,"Average",143,3,1,855
+"Honeycrisp",1,"Poor",143,3,2,855
+"Red Delicious",1.5,"Average",143,4,1,856
+"Fuji",4,"Average",143,4,2,856
+"Pink Lady",2.5,"Average",143,5,1,857
+"Gala",1,"Poor",143,5,2,857
+"Honeycrisp",1.5,"Excellent",143,6,1,858
+"Red Delicious",3.5,"Average",143,6,2,858
+"Fuji",1,"Average",144,1,1,859
+"Red Delicious",2.5,"Average",144,1,2,859
+"Gala",1,"Poor",144,2,1,860
+"Honeycrisp",2,"Poor",144,2,2,860
+"Pink Lady",1,"Average",144,3,1,861
+"Pink Lady",3,"Poor",144,3,2,861
+"Red Delicious",1,"Poor",144,4,1,862
+"Honeycrisp",3.5,"Poor",144,4,2,862
+"Pink Lady",1.5,"Average",144,5,1,863
+"Pink Lady",4,"Average",144,5,2,863
+"Red Delicious",2.5,"Average",144,6,1,864
+"Red Delicious",2,"Excellent",144,6,2,864
+"Gala",2,"Excellent",145,1,1,865
+"Red Delicious",4,"Average",145,1,2,865
+"Honeycrisp",2,"Excellent",145,2,1,866
+"Honeycrisp",4,"Average",145,2,2,866
+"Pink Lady",1,"Excellent",145,3,1,867
+"Red Delicious",1.5,"Poor",145,3,2,867
+"Honeycrisp",3,"Poor",145,4,1,868
+"Honeycrisp",4,"Poor",145,4,2,868
+"Honeycrisp",1,"Excellent",145,5,1,869
+"Honeycrisp",4,"Excellent",145,5,2,869
+"Honeycrisp",1,"Average",145,6,1,870
+"Gala",4,"Poor",145,6,2,870
+"Pink Lady",1,"Excellent",146,1,1,871
+"Red Delicious",1,"Average",146,1,2,871
+"Gala",3,"Poor",146,2,1,872
+"Fuji",2,"Poor",146,2,2,872
+"Gala",3.5,"Average",146,3,1,873
+"Gala",2,"Excellent",146,3,2,873
+"Red Delicious",1,"Excellent",146,4,1,874
+"Red Delicious",1,"Excellent",146,4,2,874
+"Pink Lady",1.5,"Average",146,5,1,875
+"Red Delicious",3.5,"Poor",146,5,2,875
+"Pink Lady",4,"Average",146,6,1,876
+"Fuji",3,"Average",146,6,2,876
+"Gala",3.5,"Excellent",147,1,1,877
+"Gala",3.5,"Average",147,1,2,877
+"Fuji",2.5,"Excellent",147,2,1,878
+"Gala",1,"Poor",147,2,2,878
+"Honeycrisp",3,"Average",147,3,1,879
+"Pink Lady",1,"Poor",147,3,2,879
+"Gala",2,"Average",147,4,1,880
+"Fuji",2,"Average",147,4,2,880
+"Red Delicious",3.5,"Poor",147,5,1,881
+"Red Delicious",2,"Average",147,5,2,881
+"Red Delicious",4,"Poor",147,6,1,882
+"Gala",3,"Average",147,6,2,882
+"Honeycrisp",2,"Average",148,1,1,883
+"Honeycrisp",2.5,"Average",148,1,2,883
+"Fuji",3.5,"Excellent",148,2,1,884
+"Fuji",3.5,"Poor",148,2,2,884
+"Red Delicious",1,"Excellent",148,3,1,885
+"Fuji",3.5,"Poor",148,3,2,885
+"Gala",2.5,"Average",148,4,1,886
+"Fuji",2.5,"Excellent",148,4,2,886
+"Red Delicious",1.5,"Average",148,5,1,887
+"Pink Lady",1,"Poor",148,5,2,887
+"Pink Lady",3,"Average",148,6,1,888
+"Fuji",3.5,"Excellent",148,6,2,888
+"Fuji",3,"Excellent",149,1,1,889
+"Red Delicious",1.5,"Excellent",149,1,2,889
+"Pink Lady",2,"Excellent",149,2,1,890
+"Pink Lady",3,"Excellent",149,2,2,890
+"Red Delicious",3.5,"Poor",149,3,1,891
+"Pink Lady",4,"Average",149,3,2,891
+"Pink Lady",1,"Average",149,4,1,892
+"Fuji",3,"Poor",149,4,2,892
+"Honeycrisp",1.5,"Poor",149,5,1,893
+"Pink Lady",3.5,"Excellent",149,5,2,893
+"Pink Lady",4,"Excellent",149,6,1,894
+"Gala",3,"Excellent",149,6,2,894
+"Pink Lady",3.5,"Excellent",150,1,1,895
+"Gala",3.5,"Average",150,1,2,895
+"Red Delicious",1.5,"Average",150,2,1,896
+"Fuji",3.5,"Average",150,2,2,896
+"Red Delicious",2.5,"Poor",150,3,1,897
+"Fuji",2.5,"Average",150,3,2,897
+"Pink Lady",2.5,"Poor",150,4,1,898
+"Gala",3.5,"Average",150,4,2,898
+"Honeycrisp",2,"Average",150,5,1,899
+"Pink Lady",2,"Excellent",150,5,2,899
+"Red Delicious",1,"Poor",150,6,1,900
+"Red Delicious",3,"Excellent",150,6,2,900
+"Red Delicious",3.5,"Average",151,1,1,901
+"Pink Lady",2.5,"Excellent",151,1,2,901
+"Red Delicious",1,"Poor",151,2,1,902
+"Fuji",4,"Average",151,2,2,902
+"Fuji",4,"Poor",151,3,1,903
+"Red Delicious",2,"Average",151,3,2,903
+"Fuji",1,"Poor",151,4,1,904
+"Fuji",1.5,"Poor",151,4,2,904
+"Gala",2,"Poor",151,5,1,905
+"Honeycrisp",2.5,"Excellent",151,5,2,905
+"Honeycrisp",3.5,"Average",151,6,1,906
+"Fuji",1.5,"Average",151,6,2,906
+"Pink Lady",1.5,"Average",152,1,1,907
+"Fuji",2,"Excellent",152,1,2,907
+"Gala",4,"Poor",152,2,1,908
+"Honeycrisp",1.5,"Poor",152,2,2,908
+"Honeycrisp",2,"Average",152,3,1,909
+"Red Delicious",2,"Poor",152,3,2,909
+"Gala",3.5,"Average",152,4,1,910
+"Fuji",2,"Excellent",152,4,2,910
+"Gala",2.5,"Excellent",152,5,1,911
+"Gala",3.5,"Poor",152,5,2,911
+"Fuji",1,"Excellent",152,6,1,912
+"Red Delicious",4,"Average",152,6,2,912
+"Gala",3.5,"Average",153,1,1,913
+"Fuji",3.5,"Average",153,1,2,913
+"Fuji",2,"Excellent",153,2,1,914
+"Pink Lady",3.5,"Excellent",153,2,2,914
+"Pink Lady",4,"Excellent",153,3,1,915
+"Fuji",2,"Excellent",153,3,2,915
+"Red Delicious",3,"Poor",153,4,1,916
+"Red Delicious",3.5,"Poor",153,4,2,916
+"Gala",2,"Average",153,5,1,917
+"Honeycrisp",1.5,"Poor",153,5,2,917
+"Honeycrisp",2.5,"Average",153,6,1,918
+"Red Delicious",2.5,"Excellent",153,6,2,918
+"Gala",3.5,"Poor",154,1,1,919
+"Honeycrisp",2.5,"Poor",154,1,2,919
+"Red Delicious",1.5,"Poor",154,2,1,920
+"Honeycrisp",3.5,"Excellent",154,2,2,920
+"Red Delicious",2,"Excellent",154,3,1,921
+"Gala",2.5,"Excellent",154,3,2,921
+"Honeycrisp",1.5,"Excellent",154,4,1,922
+"Fuji",1,"Average",154,4,2,922
+"Fuji",1.5,"Excellent",154,5,1,923
+"Gala",3,"Poor",154,5,2,923
+"Honeycrisp",3.5,"Poor",154,6,1,924
+"Red Delicious",1,"Average",154,6,2,924
+"Red Delicious",3.5,"Average",155,1,1,925
+"Pink Lady",1.5,"Excellent",155,1,2,925
+"Fuji",3,"Poor",155,2,1,926
+"Pink Lady",3,"Excellent",155,2,2,926
+"Pink Lady",2,"Excellent",155,3,1,927
+"Gala",1,"Poor",155,3,2,927
+"Honeycrisp",2,"Poor",155,4,1,928
+"Pink Lady",3.5,"Excellent",155,4,2,928
+"Honeycrisp",1,"Average",155,5,1,929
+"Pink Lady",2.5,"Average",155,5,2,929
+"Gala",3,"Excellent",155,6,1,930
+"Red Delicious",3.5,"Excellent",155,6,2,930
+"Gala",3,"Poor",156,1,1,931
+"Pink Lady",4,"Poor",156,1,2,931
+"Fuji",1,"Poor",156,2,1,932
+"Pink Lady",1,"Average",156,2,2,932
+"Honeycrisp",4,"Excellent",156,3,1,933
+"Pink Lady",3,"Excellent",156,3,2,933
+"Gala",2,"Poor",156,4,1,934
+"Pink Lady",3.5,"Average",156,4,2,934
+"Red Delicious",1.5,"Excellent",156,5,1,935
+"Fuji",2,"Average",156,5,2,935
+"Pink Lady",1.5,"Average",156,6,1,936
+"Fuji",3.5,"Poor",156,6,2,936
+"Fuji",1,"Poor",157,1,1,937
+"Pink Lady",3.5,"Average",157,1,2,937
+"Honeycrisp",1.5,"Average",157,2,1,938
+"Honeycrisp",3,"Excellent",157,2,2,938
+"Gala",2,"Average",157,3,1,939
+"Gala",1.5,"Excellent",157,3,2,939
+"Red Delicious",2,"Excellent",157,4,1,940
+"Honeycrisp",3,"Poor",157,4,2,940
+"Honeycrisp",2,"Average",157,5,1,941
+"Gala",2,"Excellent",157,5,2,941
+"Pink Lady",2.5,"Average",157,6,1,942
+"Fuji",3,"Excellent",157,6,2,942
+"Pink Lady",2,"Poor",158,1,1,943
+"Pink Lady",3.5,"Poor",158,1,2,943
+"Fuji",3,"Average",158,2,1,944
+"Honeycrisp",3.5,"Excellent",158,2,2,944
+"Red Delicious",1,"Excellent",158,3,1,945
+"Fuji",1,"Poor",158,3,2,945
+"Pink Lady",3,"Excellent",158,4,1,946
+"Pink Lady",2.5,"Poor",158,4,2,946
+"Fuji",3,"Excellent",158,5,1,947
+"Fuji",1.5,"Average",158,5,2,947
+"Honeycrisp",1.5,"Poor",158,6,1,948
+"Fuji",4,"Excellent",158,6,2,948
+"Fuji",4,"Excellent",159,1,1,949
+"Pink Lady",4,"Excellent",159,1,2,949
+"Honeycrisp",2,"Average",159,2,1,950
+"Pink Lady",4,"Excellent",159,2,2,950
+"Fuji",2.5,"Average",159,3,1,951
+"Honeycrisp",4,"Average",159,3,2,951
+"Fuji",2.5,"Excellent",159,4,1,952
+"Pink Lady",3,"Poor",159,4,2,952
+"Honeycrisp",1.5,"Poor",159,5,1,953
+"Pink Lady",1,"Excellent",159,5,2,953
+"Fuji",1.5,"Average",159,6,1,954
+"Fuji",3,"Poor",159,6,2,954
+"Pink Lady",2.5,"Average",160,1,1,955
+"Honeycrisp",1,"Poor",160,1,2,955
+"Gala",3,"Poor",160,2,1,956
+"Red Delicious",2,"Excellent",160,2,2,956
+"Pink Lady",1,"Poor",160,3,1,957
+"Honeycrisp",1.5,"Average",160,3,2,957
+"Red Delicious",3.5,"Poor",160,4,1,958
+"Gala",1.5,"Excellent",160,4,2,958
+"Fuji",3,"Excellent",160,5,1,959
+"Red Delicious",1,"Excellent",160,5,2,959
+"Fuji",4,"Average",160,6,1,960
+"Gala",2.5,"Poor",160,6,2,960
+"Red Delicious",3.5,"Average",161,1,1,961
+"Honeycrisp",1.5,"Poor",161,1,2,961
+"Honeycrisp",3,"Poor",161,2,1,962
+"Pink Lady",3,"Poor",161,2,2,962
+"Honeycrisp",3.5,"Poor",161,3,1,963
+"Fuji",3.5,"Poor",161,3,2,963
+"Fuji",2,"Excellent",161,4,1,964
+"Pink Lady",3.5,"Average",161,4,2,964
+"Honeycrisp",2.5,"Average",161,5,1,965
+"Fuji",1,"Average",161,5,2,965
+"Gala",1.5,"Average",161,6,1,966
+"Red Delicious",1,"Average",161,6,2,966
+"Red Delicious",2.5,"Average",162,1,1,967
+"Red Delicious",1,"Average",162,1,2,967
+"Red Delicious",3.5,"Poor",162,2,1,968
+"Fuji",1,"Excellent",162,2,2,968
+"Gala",2,"Excellent",162,3,1,969
+"Pink Lady",2.5,"Average",162,3,2,969
+"Red Delicious",2.5,"Average",162,4,1,970
+"Red Delicious",3,"Excellent",162,4,2,970
+"Pink Lady",4,"Average",162,5,1,971
+"Gala",2.5,"Poor",162,5,2,971
+"Red Delicious",1.5,"Poor",162,6,1,972
+"Gala",1.5,"Poor",162,6,2,972
+"Honeycrisp",1.5,"Poor",163,1,1,973
+"Red Delicious",3.5,"Average",163,1,2,973
+"Honeycrisp",2.5,"Average",163,2,1,974
+"Pink Lady",1,"Excellent",163,2,2,974
+"Gala",2,"Poor",163,3,1,975
+"Red Delicious",3,"Excellent",163,3,2,975
+"Gala",4,"Poor",163,4,1,976
+"Pink Lady",1,"Poor",163,4,2,976
+"Honeycrisp",1.5,"Average",163,5,1,977
+"Fuji",3,"Poor",163,5,2,977
+"Fuji",2.5,"Poor",163,6,1,978
+"Honeycrisp",3.5,"Average",163,6,2,978
+"Pink Lady",3,"Average",164,1,1,979
+"Red Delicious",3,"Excellent",164,1,2,979
+"Honeycrisp",2,"Excellent",164,2,1,980
+"Fuji",2,"Poor",164,2,2,980
+"Fuji",3.5,"Average",164,3,1,981
+"Honeycrisp",2.5,"Excellent",164,3,2,981
+"Fuji",2.5,"Average",164,4,1,982
+"Red Delicious",4,"Poor",164,4,2,982
+"Pink Lady",1,"Poor",164,5,1,983
+"Red Delicious",2.5,"Poor",164,5,2,983
+"Pink Lady",3,"Poor",164,6,1,984
+"Pink Lady",1,"Average",164,6,2,984
+"Red Delicious",3.5,"Average",165,1,1,985
+"Pink Lady",3,"Poor",165,1,2,985
+"Honeycrisp",1,"Excellent",165,2,1,986
+"Gala",4,"Average",165,2,2,986
+"Fuji",1,"Poor",165,3,1,987
+"Red Delicious",3.5,"Poor",165,3,2,987
+"Fuji",2,"Excellent",165,4,1,988
+"Red Delicious",4,"Excellent",165,4,2,988
+"Gala",1,"Excellent",165,5,1,989
+"Pink Lady",3,"Excellent",165,5,2,989
+"Honeycrisp",1,"Excellent",165,6,1,990
+"Pink Lady",2,"Excellent",165,6,2,990
+"Fuji",1,"Average",166,1,1,991
+"Pink Lady",2,"Average",166,1,2,991
+"Red Delicious",1,"Average",166,2,1,992
+"Pink Lady",3,"Poor",166,2,2,992
+"Honeycrisp",4,"Poor",166,3,1,993
+"Fuji",4,"Poor",166,3,2,993
+"Red Delicious",3.5,"Poor",166,4,1,994
+"Fuji",2.5,"Poor",166,4,2,994
+"Pink Lady",1.5,"Excellent",166,5,1,995
+"Pink Lady",1,"Average",166,5,2,995
+"Gala",4,"Excellent",166,6,1,996
+"Honeycrisp",4,"Excellent",166,6,2,996
+"Gala",4,"Poor",167,1,1,997
+"Fuji",3,"Excellent",167,1,2,997
+"Fuji",2.5,"Average",167,2,1,998
+"Red Delicious",2,"Poor",167,2,2,998
+"Honeycrisp",2.5,"Excellent",167,3,1,999
+"Pink Lady",1,"Average",167,3,2,999
+"Fuji",3,"Average",167,4,1,1000
+"Fuji",3,"Poor",167,4,2,1000
+"Fuji",1,"Excellent",167,5,1,1001
+"Honeycrisp",1.5,"Excellent",167,5,2,1001
+"Red Delicious",1.5,"Poor",167,6,1,1002
+"Fuji",4,"Average",167,6,2,1002
+"Fuji",1.5,"Average",168,1,1,1003
+"Honeycrisp",3.5,"Excellent",168,1,2,1003
+"Red Delicious",2.5,"Poor",168,2,1,1004
+"Gala",3.5,"Excellent",168,2,2,1004
+"Pink Lady",1,"Average",168,3,1,1005
+"Pink Lady",4,"Average",168,3,2,1005
+"Fuji",3,"Excellent",168,4,1,1006
+"Gala",2.5,"Average",168,4,2,1006
+"Gala",4,"Average",168,5,1,1007
+"Pink Lady",4,"Excellent",168,5,2,1007
+"Fuji",3.5,"Excellent",168,6,1,1008
+"Pink Lady",1.5,"Poor",168,6,2,1008
+"Gala",4,"Excellent",169,1,1,1009
+"Honeycrisp",3,"Excellent",169,1,2,1009
+"Pink Lady",1.5,"Excellent",169,2,1,1010
+"Fuji",4,"Average",169,2,2,1010
+"Gala",2,"Poor",169,3,1,1011
+"Gala",1.5,"Average",169,3,2,1011
+"Fuji",2.5,"Poor",169,4,1,1012
+"Red Delicious",1.5,"Poor",169,4,2,1012
+"Gala",1,"Poor",169,5,1,1013
+"Fuji",3,"Average",169,5,2,1013
+"Pink Lady",1.5,"Poor",169,6,1,1014
+"Fuji",1,"Average",169,6,2,1014
+"Pink Lady",2.5,"Average",170,1,1,1015
+"Gala",2.5,"Average",170,1,2,1015
+"Red Delicious",2.5,"Average",170,2,1,1016
+"Honeycrisp",1.5,"Average",170,2,2,1016
+"Fuji",3,"Poor",170,3,1,1017
+"Honeycrisp",3.5,"Average",170,3,2,1017
+"Gala",2,"Average",170,4,1,1018
+"Fuji",1.5,"Poor",170,4,2,1018
+"Gala",3,"Poor",170,5,1,1019
+"Honeycrisp",1,"Excellent",170,5,2,1019
+"Pink Lady",3,"Excellent",170,6,1,1020
+"Pink Lady",3.5,"Excellent",170,6,2,1020
+"Pink Lady",3,"Poor",171,1,1,1021
+"Gala",1.5,"Poor",171,1,2,1021
+"Honeycrisp",1,"Average",171,2,1,1022
+"Gala",3,"Poor",171,2,2,1022
+"Gala",1.5,"Poor",171,3,1,1023
+"Gala",1,"Poor",171,3,2,1023
+"Pink Lady",1,"Poor",171,4,1,1024
+"Pink Lady",1.5,"Average",171,4,2,1024
+"Red Delicious",3.5,"Poor",171,5,1,1025
+"Gala",3.5,"Average",171,5,2,1025
+"Fuji",1,"Excellent",171,6,1,1026
+"Red Delicious",2.5,"Excellent",171,6,2,1026
+"Honeycrisp",2,"Average",172,1,1,1027
+"Pink Lady",3.5,"Average",172,1,2,1027
+"Red Delicious",1.5,"Poor",172,2,1,1028
+"Gala",1.5,"Excellent",172,2,2,1028
+"Pink Lady",2.5,"Average",172,3,1,1029
+"Gala",4,"Average",172,3,2,1029
+"Honeycrisp",3.5,"Average",172,4,1,1030
+"Gala",2.5,"Excellent",172,4,2,1030
+"Gala",1.5,"Excellent",172,5,1,1031
+"Fuji",3.5,"Excellent",172,5,2,1031
+"Gala",2,"Poor",172,6,1,1032
+"Red Delicious",2,"Poor",172,6,2,1032
+"Fuji",3.5,"Average",173,1,1,1033
+"Fuji",3.5,"Poor",173,1,2,1033
+"Pink Lady",4,"Average",173,2,1,1034
+"Pink Lady",3.5,"Poor",173,2,2,1034
+"Red Delicious",2,"Poor",173,3,1,1035
+"Pink Lady",2,"Average",173,3,2,1035
+"Pink Lady",2.5,"Average",173,4,1,1036
+"Gala",1.5,"Average",173,4,2,1036
+"Gala",2.5,"Average",173,5,1,1037
+"Pink Lady",2.5,"Excellent",173,5,2,1037
+"Honeycrisp",2,"Average",173,6,1,1038
+"Gala",4,"Excellent",173,6,2,1038
+"Honeycrisp",3,"Excellent",174,1,1,1039
+"Pink Lady",1.5,"Poor",174,1,2,1039
+"Fuji",2.5,"Excellent",174,2,1,1040
+"Fuji",1,"Poor",174,2,2,1040
+"Pink Lady",4,"Excellent",174,3,1,1041
+"Honeycrisp",1,"Excellent",174,3,2,1041
+"Gala",2.5,"Average",174,4,1,1042
+"Pink Lady",2.5,"Poor",174,4,2,1042
+"Pink Lady",3.5,"Excellent",174,5,1,1043
+"Honeycrisp",3.5,"Poor",174,5,2,1043
+"Honeycrisp",3,"Poor",174,6,1,1044
+"Fuji",4,"Average",174,6,2,1044
+"Pink Lady",3.5,"Poor",175,1,1,1045
+"Honeycrisp",2.5,"Poor",175,1,2,1045
+"Gala",3,"Excellent",175,2,1,1046
+"Red Delicious",3,"Poor",175,2,2,1046
+"Honeycrisp",1.5,"Poor",175,3,1,1047
+"Fuji",2,"Average",175,3,2,1047
+"Red Delicious",1,"Average",175,4,1,1048
+"Fuji",2,"Excellent",175,4,2,1048
+"Pink Lady",2.5,"Average",175,5,1,1049
+"Gala",2.5,"Poor",175,5,2,1049
+"Honeycrisp",4,"Average",175,6,1,1050
+"Gala",4,"Poor",175,6,2,1050
+"Honeycrisp",2,"Average",176,1,1,1051
+"Red Delicious",3.5,"Average",176,1,2,1051
+"Fuji",1.5,"Excellent",176,2,1,1052
+"Gala",1.5,"Excellent",176,2,2,1052
+"Red Delicious",2.5,"Average",176,3,1,1053
+"Fuji",3,"Average",176,3,2,1053
+"Gala",3,"Excellent",176,4,1,1054
+"Fuji",3.5,"Poor",176,4,2,1054
+"Pink Lady",3,"Excellent",176,5,1,1055
+"Red Delicious",3,"Excellent",176,5,2,1055
+"Gala",1.5,"Poor",176,6,1,1056
+"Fuji",3.5,"Average",176,6,2,1056
+"Honeycrisp",4,"Poor",177,1,1,1057
+"Pink Lady",1,"Poor",177,1,2,1057
+"Red Delicious",2.5,"Excellent",177,2,1,1058
+"Red Delicious",1.5,"Excellent",177,2,2,1058
+"Fuji",3,"Poor",177,3,1,1059
+"Fuji",4,"Average",177,3,2,1059
+"Honeycrisp",1.5,"Average",177,4,1,1060
+"Red Delicious",3,"Average",177,4,2,1060
+"Pink Lady",3.5,"Average",177,5,1,1061
+"Gala",2.5,"Average",177,5,2,1061
+"Pink Lady",4,"Excellent",177,6,1,1062
+"Gala",3.5,"Excellent",177,6,2,1062
+"Honeycrisp",4,"Average",178,1,1,1063
+"Pink Lady",3,"Average",178,1,2,1063
+"Gala",2.5,"Excellent",178,2,1,1064
+"Red Delicious",1.5,"Poor",178,2,2,1064
+"Honeycrisp",2.5,"Average",178,3,1,1065
+"Fuji",2.5,"Average",178,3,2,1065
+"Red Delicious",1,"Average",178,4,1,1066
+"Honeycrisp",2,"Excellent",178,4,2,1066
+"Honeycrisp",2.5,"Average",178,5,1,1067
+"Honeycrisp",2.5,"Average",178,5,2,1067
+"Pink Lady",1,"Average",178,6,1,1068
+"Gala",1.5,"Average",178,6,2,1068
+"Pink Lady",2.5,"Average",179,1,1,1069
+"Gala",2,"Excellent",179,1,2,1069
+"Pink Lady",3,"Excellent",179,2,1,1070
+"Honeycrisp",2,"Excellent",179,2,2,1070
+"Gala",3,"Excellent",179,3,1,1071
+"Honeycrisp",3,"Excellent",179,3,2,1071
+"Fuji",3.5,"Excellent",179,4,1,1072
+"Pink Lady",1.5,"Excellent",179,4,2,1072
+"Red Delicious",1,"Average",179,5,1,1073
+"Pink Lady",1.5,"Average",179,5,2,1073
+"Gala",1,"Excellent",179,6,1,1074
+"Red Delicious",3.5,"Poor",179,6,2,1074
+"Honeycrisp",3.5,"Average",180,1,1,1075
+"Gala",1.5,"Poor",180,1,2,1075
+"Gala",3,"Average",180,2,1,1076
+"Gala",1,"Excellent",180,2,2,1076
+"Gala",4,"Average",180,3,1,1077
+"Fuji",2,"Excellent",180,3,2,1077
+"Honeycrisp",2,"Excellent",180,4,1,1078
+"Honeycrisp",4,"Poor",180,4,2,1078
+"Gala",2.5,"Excellent",180,5,1,1079
+"Gala",3,"Poor",180,5,2,1079
+"Red Delicious",2.5,"Excellent",180,6,1,1080
+"Fuji",1,"Average",180,6,2,1080
+"Red Delicious",2.5,"Poor",181,1,1,1081
+"Honeycrisp",1,"Average",181,1,2,1081
+"Fuji",2,"Excellent",181,2,1,1082
+"Pink Lady",3,"Poor",181,2,2,1082
+"Gala",2,"Excellent",181,3,1,1083
+"Pink Lady",2,"Average",181,3,2,1083
+"Fuji",3.5,"Excellent",181,4,1,1084
+"Pink Lady",3,"Excellent",181,4,2,1084
+"Honeycrisp",3.5,"Average",181,5,1,1085
+"Fuji",1,"Excellent",181,5,2,1085
+"Honeycrisp",2,"Excellent",181,6,1,1086
+"Pink Lady",1,"Excellent",181,6,2,1086
+"Fuji",3.5,"Excellent",182,1,1,1087
+"Honeycrisp",2,"Excellent",182,1,2,1087
+"Gala",3,"Poor",182,2,1,1088
+"Fuji",1.5,"Excellent",182,2,2,1088
+"Fuji",2,"Average",182,3,1,1089
+"Fuji",2,"Poor",182,3,2,1089
+"Honeycrisp",3.5,"Excellent",182,4,1,1090
+"Red Delicious",3,"Excellent",182,4,2,1090
+"Pink Lady",1,"Average",182,5,1,1091
+"Pink Lady",3.5,"Poor",182,5,2,1091
+"Honeycrisp",3,"Average",182,6,1,1092
+"Red Delicious",2.5,"Poor",182,6,2,1092
+"Gala",3,"Excellent",183,1,1,1093
+"Red Delicious",1,"Average",183,1,2,1093
+"Gala",4,"Average",183,2,1,1094
+"Fuji",1.5,"Poor",183,2,2,1094
+"Fuji",1.5,"Poor",183,3,1,1095
+"Gala",2,"Poor",183,3,2,1095
+"Honeycrisp",1.5,"Excellent",183,4,1,1096
+"Fuji",2,"Excellent",183,4,2,1096
+"Red Delicious",2,"Poor",183,5,1,1097
+"Gala",1,"Average",183,5,2,1097
+"Pink Lady",1.5,"Excellent",183,6,1,1098
+"Honeycrisp",3.5,"Excellent",183,6,2,1098
+"Red Delicious",2.5,"Excellent",184,1,1,1099
+"Pink Lady",4,"Excellent",184,1,2,1099
+"Pink Lady",1.5,"Poor",184,2,1,1100
+"Gala",3,"Poor",184,2,2,1100
+"Gala",1.5,"Excellent",184,3,1,1101
+"Red Delicious",2.5,"Poor",184,3,2,1101
+"Pink Lady",2,"Average",184,4,1,1102
+"Fuji",1.5,"Average",184,4,2,1102
+"Gala",2.5,"Poor",184,5,1,1103
+"Gala",1,"Average",184,5,2,1103
+"Gala",1,"Excellent",184,6,1,1104
+"Red Delicious",1.5,"Average",184,6,2,1104
+"Fuji",3.5,"Average",185,1,1,1105
+"Gala",1,"Average",185,1,2,1105
+"Honeycrisp",1,"Excellent",185,2,1,1106
+"Gala",3.5,"Average",185,2,2,1106
+"Honeycrisp",1.5,"Average",185,3,1,1107
+"Gala",1.5,"Average",185,3,2,1107
+"Gala",4,"Poor",185,4,1,1108
+"Red Delicious",3,"Average",185,4,2,1108
+"Red Delicious",2.5,"Poor",185,5,1,1109
+"Fuji",2.5,"Poor",185,5,2,1109
+"Fuji",1.5,"Poor",185,6,1,1110
+"Red Delicious",4,"Excellent",185,6,2,1110
+"Gala",3.5,"Poor",186,1,1,1111
+"Gala",2.5,"Average",186,1,2,1111
+"Pink Lady",1.5,"Average",186,2,1,1112
+"Red Delicious",1.5,"Poor",186,2,2,1112
+"Honeycrisp",3,"Excellent",186,3,1,1113
+"Red Delicious",3,"Excellent",186,3,2,1113
+"Fuji",1.5,"Excellent",186,4,1,1114
+"Pink Lady",1.5,"Excellent",186,4,2,1114
+"Red Delicious",1,"Excellent",186,5,1,1115
+"Gala",1.5,"Poor",186,5,2,1115
+"Pink Lady",1,"Average",186,6,1,1116
+"Gala",4,"Poor",186,6,2,1116
+"Gala",1.5,"Average",187,1,1,1117
+"Red Delicious",2,"Excellent",187,1,2,1117
+"Fuji",3,"Excellent",187,2,1,1118
+"Fuji",4,"Excellent",187,2,2,1118
+"Gala",1,"Excellent",187,3,1,1119
+"Honeycrisp",2,"Average",187,3,2,1119
+"Pink Lady",1.5,"Poor",187,4,1,1120
+"Pink Lady",3.5,"Average",187,4,2,1120
+"Gala",3,"Excellent",187,5,1,1121
+"Fuji",3,"Average",187,5,2,1121
+"Gala",1.5,"Average",187,6,1,1122
+"Fuji",4,"Excellent",187,6,2,1122
+"Honeycrisp",1.5,"Average",188,1,1,1123
+"Honeycrisp",2,"Poor",188,1,2,1123
+"Red Delicious",4,"Poor",188,2,1,1124
+"Gala",1.5,"Excellent",188,2,2,1124
+"Pink Lady",2,"Poor",188,3,1,1125
+"Pink Lady",2,"Poor",188,3,2,1125
+"Red Delicious",1,"Excellent",188,4,1,1126
+"Fuji",2,"Average",188,4,2,1126
+"Fuji",2.5,"Average",188,5,1,1127
+"Pink Lady",4,"Poor",188,5,2,1127
+"Gala",3.5,"Poor",188,6,1,1128
+"Honeycrisp",4,"Excellent",188,6,2,1128
+"Honeycrisp",3.5,"Excellent",189,1,1,1129
+"Honeycrisp",3,"Average",189,1,2,1129
+"Gala",4,"Poor",189,2,1,1130
+"Fuji",1,"Excellent",189,2,2,1130
+"Honeycrisp",2,"Average",189,3,1,1131
+"Pink Lady",1.5,"Poor",189,3,2,1131
+"Honeycrisp",1,"Excellent",189,4,1,1132
+"Pink Lady",1.5,"Average",189,4,2,1132
+"Red Delicious",1,"Average",189,5,1,1133
+"Gala",2,"Poor",189,5,2,1133
+"Fuji",3,"Average",189,6,1,1134
+"Pink Lady",3,"Poor",189,6,2,1134
+"Pink Lady",2,"Average",190,1,1,1135
+"Gala",1,"Poor",190,1,2,1135
+"Honeycrisp",3.5,"Poor",190,2,1,1136
+"Pink Lady",2,"Average",190,2,2,1136
+"Pink Lady",1.5,"Excellent",190,3,1,1137
+"Honeycrisp",1,"Excellent",190,3,2,1137
+"Red Delicious",1.5,"Excellent",190,4,1,1138
+"Red Delicious",3,"Excellent",190,4,2,1138
+"Honeycrisp",1.5,"Excellent",190,5,1,1139
+"Red Delicious",1,"Excellent",190,5,2,1139
+"Red Delicious",1,"Poor",190,6,1,1140
+"Pink Lady",3,"Average",190,6,2,1140
+"Pink Lady",3.5,"Poor",191,1,1,1141
+"Pink Lady",2.5,"Average",191,1,2,1141
+"Gala",2,"Average",191,2,1,1142
+"Pink Lady",1.5,"Excellent",191,2,2,1142
+"Gala",1,"Average",191,3,1,1143
+"Red Delicious",1.5,"Excellent",191,3,2,1143
+"Honeycrisp",1.5,"Poor",191,4,1,1144
+"Honeycrisp",1,"Poor",191,4,2,1144
+"Honeycrisp",1,"Excellent",191,5,1,1145
+"Red Delicious",3.5,"Excellent",191,5,2,1145
+"Honeycrisp",3,"Excellent",191,6,1,1146
+"Pink Lady",4,"Excellent",191,6,2,1146
+"Honeycrisp",2,"Excellent",192,1,1,1147
+"Pink Lady",1.5,"Excellent",192,1,2,1147
+"Pink Lady",2.5,"Average",192,2,1,1148
+"Honeycrisp",4,"Poor",192,2,2,1148
+"Fuji",1,"Excellent",192,3,1,1149
+"Pink Lady",4,"Poor",192,3,2,1149
+"Red Delicious",1.5,"Excellent",192,4,1,1150
+"Fuji",1.5,"Average",192,4,2,1150
+"Fuji",1.5,"Poor",192,5,1,1151
+"Honeycrisp",4,"Excellent",192,5,2,1151
+"Fuji",2,"Poor",192,6,1,1152
+"Red Delicious",3,"Average",192,6,2,1152
+"Honeycrisp",3,"Average",193,1,1,1153
+"Red Delicious",3.5,"Poor",193,1,2,1153
+"Fuji",3.5,"Average",193,2,1,1154
+"Gala",1.5,"Excellent",193,2,2,1154
+"Gala",3,"Average",193,3,1,1155
+"Pink Lady",3.5,"Poor",193,3,2,1155
+"Pink Lady",1,"Average",193,4,1,1156
+"Red Delicious",2,"Poor",193,4,2,1156
+"Honeycrisp",1.5,"Average",193,5,1,1157
+"Gala",3.5,"Average",193,5,2,1157
+"Fuji",2,"Excellent",193,6,1,1158
+"Gala",1.5,"Average",193,6,2,1158
+"Gala",2.5,"Average",194,1,1,1159
+"Honeycrisp",1,"Average",194,1,2,1159
+"Fuji",2.5,"Average",194,2,1,1160
+"Gala",1.5,"Excellent",194,2,2,1160
+"Red Delicious",2.5,"Average",194,3,1,1161
+"Pink Lady",2,"Poor",194,3,2,1161
+"Fuji",3.5,"Poor",194,4,1,1162
+"Pink Lady",2,"Average",194,4,2,1162
+"Fuji",1.5,"Average",194,5,1,1163
+"Fuji",1.5,"Average",194,5,2,1163
+"Fuji",4,"Average",194,6,1,1164
+"Fuji",1.5,"Poor",194,6,2,1164
+"Honeycrisp",3,"Poor",195,1,1,1165
+"Honeycrisp",4,"Poor",195,1,2,1165
+"Pink Lady",2,"Excellent",195,2,1,1166
+"Gala",2.5,"Poor",195,2,2,1166
+"Honeycrisp",3.5,"Average",195,3,1,1167
+"Pink Lady",3.5,"Average",195,3,2,1167
+"Gala",2.5,"Average",195,4,1,1168
+"Gala",1.5,"Average",195,4,2,1168
+"Fuji",2,"Average",195,5,1,1169
+"Gala",1.5,"Average",195,5,2,1169
+"Fuji",4,"Average",195,6,1,1170
+"Gala",4,"Average",195,6,2,1170
+"Honeycrisp",3,"Excellent",196,1,1,1171
+"Red Delicious",4,"Excellent",196,1,2,1171
+"Pink Lady",2.5,"Excellent",196,2,1,1172
+"Red Delicious",3,"Poor",196,2,2,1172
+"Honeycrisp",2,"Poor",196,3,1,1173
+"Red Delicious",1.5,"Poor",196,3,2,1173
+"Gala",1,"Excellent",196,4,1,1174
+"Gala",3.5,"Excellent",196,4,2,1174
+"Fuji",1.5,"Excellent",196,5,1,1175
+"Gala",1,"Average",196,5,2,1175
+"Honeycrisp",1.5,"Average",196,6,1,1176
+"Fuji",1.5,"Excellent",196,6,2,1176
+"Honeycrisp",4,"Excellent",197,1,1,1177
+"Honeycrisp",2,"Poor",197,1,2,1177
+"Red Delicious",4,"Excellent",197,2,1,1178
+"Honeycrisp",4,"Poor",197,2,2,1178
+"Fuji",4,"Poor",197,3,1,1179
+"Pink Lady",1.5,"Excellent",197,3,2,1179
+"Red Delicious",1,"Excellent",197,4,1,1180
+"Fuji",1.5,"Poor",197,4,2,1180
+"Gala",1,"Poor",197,5,1,1181
+"Gala",3.5,"Average",197,5,2,1181
+"Fuji",3.5,"Excellent",197,6,1,1182
+"Pink Lady",2,"Average",197,6,2,1182
+"Fuji",3.5,"Excellent",198,1,1,1183
+"Pink Lady",2,"Average",198,1,2,1183
+"Gala",1.5,"Excellent",198,2,1,1184
+"Gala",2.5,"Excellent",198,2,2,1184
+"Honeycrisp",3,"Excellent",198,3,1,1185
+"Gala",3.5,"Excellent",198,3,2,1185
+"Fuji",3.5,"Excellent",198,4,1,1186
+"Red Delicious",1.5,"Excellent",198,4,2,1186
+"Pink Lady",1,"Average",198,5,1,1187
+"Fuji",4,"Average",198,5,2,1187
+"Fuji",2,"Poor",198,6,1,1188
+"Pink Lady",1.5,"Average",198,6,2,1188
+"Red Delicious",1.5,"Excellent",199,1,1,1189
+"Pink Lady",4,"Average",199,1,2,1189
+"Gala",3.5,"Excellent",199,2,1,1190
+"Gala",1.5,"Poor",199,2,2,1190
+"Gala",3,"Excellent",199,3,1,1191
+"Fuji",2.5,"Poor",199,3,2,1191
+"Gala",3,"Poor",199,4,1,1192
+"Gala",1.5,"Poor",199,4,2,1192
+"Honeycrisp",1,"Average",199,5,1,1193
+"Red Delicious",4,"Average",199,5,2,1193
+"Honeycrisp",3.5,"Poor",199,6,1,1194
+"Gala",3.5,"Average",199,6,2,1194
+"Pink Lady",1.5,"Poor",200,1,1,1195
+"Red Delicious",4,"Average",200,1,2,1195
+"Red Delicious",3.5,"Poor",200,2,1,1196
+"Fuji",3,"Excellent",200,2,2,1196
+"Fuji",2,"Excellent",200,3,1,1197
+"Red Delicious",4,"Average",200,3,2,1197
+"Red Delicious",3,"Poor",200,4,1,1198
+"Fuji",4,"Poor",200,4,2,1198
+"Gala",1,"Excellent",200,5,1,1199
+"Gala",1,"Average",200,5,2,1199
+"Red Delicious",3.5,"Poor",200,6,1,1200
+"Honeycrisp",1.5,"Average",200,6,2,1200
+"Pink Lady",2.5,"Poor",201,1,1,1201
+"Fuji",1,"Poor",201,1,2,1201
+"Honeycrisp",4,"Excellent",201,2,1,1202
+"Honeycrisp",2,"Poor",201,2,2,1202
+"Gala",1,"Poor",201,3,1,1203
+"Red Delicious",1.5,"Average",201,3,2,1203
+"Red Delicious",2,"Excellent",201,4,1,1204
+"Red Delicious",1.5,"Excellent",201,4,2,1204
+"Honeycrisp",1.5,"Excellent",201,5,1,1205
+"Gala",4,"Average",201,5,2,1205
+"Fuji",3,"Poor",201,6,1,1206
+"Honeycrisp",3,"Excellent",201,6,2,1206
+"Honeycrisp",1,"Average",202,1,1,1207
+"Fuji",1,"Average",202,1,2,1207
+"Gala",2,"Poor",202,2,1,1208
+"Gala",2.5,"Poor",202,2,2,1208
+"Pink Lady",3.5,"Poor",202,3,1,1209
+"Gala",1,"Excellent",202,3,2,1209
+"Red Delicious",2.5,"Average",202,4,1,1210
+"Gala",3.5,"Average",202,4,2,1210
+"Red Delicious",3,"Poor",202,5,1,1211
+"Red Delicious",1.5,"Poor",202,5,2,1211
+"Red Delicious",1.5,"Excellent",202,6,1,1212
+"Gala",2,"Excellent",202,6,2,1212
+"Gala",1,"Poor",203,1,1,1213
+"Fuji",1,"Excellent",203,1,2,1213
+"Fuji",3,"Excellent",203,2,1,1214
+"Red Delicious",2.5,"Poor",203,2,2,1214
+"Red Delicious",2,"Average",203,3,1,1215
+"Pink Lady",1.5,"Poor",203,3,2,1215
+"Gala",4,"Excellent",203,4,1,1216
+"Red Delicious",2.5,"Poor",203,4,2,1216
+"Red Delicious",1,"Excellent",203,5,1,1217
+"Gala",2.5,"Poor",203,5,2,1217
+"Honeycrisp",1.5,"Average",203,6,1,1218
+"Fuji",3,"Poor",203,6,2,1218
+"Gala",1.5,"Poor",204,1,1,1219
+"Red Delicious",2.5,"Poor",204,1,2,1219
+"Gala",1,"Average",204,2,1,1220
+"Pink Lady",2,"Excellent",204,2,2,1220
+"Red Delicious",2.5,"Excellent",204,3,1,1221
+"Pink Lady",4,"Poor",204,3,2,1221
+"Pink Lady",3,"Poor",204,4,1,1222
+"Red Delicious",3,"Excellent",204,4,2,1222
+"Red Delicious",3.5,"Poor",204,5,1,1223
+"Pink Lady",1,"Poor",204,5,2,1223
+"Pink Lady",2,"Average",204,6,1,1224
+"Fuji",2.5,"Excellent",204,6,2,1224
+"Pink Lady",3.5,"Excellent",205,1,1,1225
+"Honeycrisp",2.5,"Poor",205,1,2,1225
+"Red Delicious",1,"Poor",205,2,1,1226
+"Gala",1.5,"Excellent",205,2,2,1226
+"Honeycrisp",1,"Excellent",205,3,1,1227
+"Honeycrisp",4,"Average",205,3,2,1227
+"Fuji",3,"Excellent",205,4,1,1228
+"Pink Lady",4,"Excellent",205,4,2,1228
+"Pink Lady",1,"Average",205,5,1,1229
+"Fuji",3,"Poor",205,5,2,1229
+"Gala",3.5,"Poor",205,6,1,1230
+"Red Delicious",2.5,"Poor",205,6,2,1230
+"Fuji",4,"Average",206,1,1,1231
+"Honeycrisp",3,"Poor",206,1,2,1231
+"Gala",2.5,"Excellent",206,2,1,1232
+"Gala",4,"Excellent",206,2,2,1232
+"Red Delicious",1.5,"Poor",206,3,1,1233
+"Pink Lady",1,"Excellent",206,3,2,1233
+"Red Delicious",1.5,"Excellent",206,4,1,1234
+"Red Delicious",3,"Average",206,4,2,1234
+"Honeycrisp",4,"Average",206,5,1,1235
+"Gala",1.5,"Average",206,5,2,1235
+"Gala",2,"Poor",206,6,1,1236
+"Fuji",1.5,"Poor",206,6,2,1236
+"Fuji",4,"Excellent",207,1,1,1237
+"Red Delicious",2,"Excellent",207,1,2,1237
+"Honeycrisp",2,"Average",207,2,1,1238
+"Honeycrisp",2.5,"Average",207,2,2,1238
+"Honeycrisp",4,"Excellent",207,3,1,1239
+"Gala",3,"Poor",207,3,2,1239
+"Gala",3,"Excellent",207,4,1,1240
+"Fuji",1,"Poor",207,4,2,1240
+"Red Delicious",2,"Excellent",207,5,1,1241
+"Red Delicious",2.5,"Poor",207,5,2,1241
+"Red Delicious",3,"Average",207,6,1,1242
+"Fuji",1.5,"Poor",207,6,2,1242
+"Fuji",1.5,"Average",208,1,1,1243
+"Pink Lady",1.5,"Excellent",208,1,2,1243
+"Pink Lady",1.5,"Average",208,2,1,1244
+"Red Delicious",1,"Average",208,2,2,1244
+"Fuji",4,"Excellent",208,3,1,1245
+"Pink Lady",1,"Poor",208,3,2,1245
+"Gala",3.5,"Average",208,4,1,1246
+"Pink Lady",1.5,"Average",208,4,2,1246
+"Pink Lady",2,"Average",208,5,1,1247
+"Fuji",1.5,"Excellent",208,5,2,1247
+"Red Delicious",1.5,"Excellent",208,6,1,1248
+"Honeycrisp",1.5,"Average",208,6,2,1248
+"Fuji",3,"Poor",209,1,1,1249
+"Gala",1,"Poor",209,1,2,1249
+"Gala",1.5,"Average",209,2,1,1250
+"Pink Lady",3.5,"Excellent",209,2,2,1250
+"Fuji",1.5,"Excellent",209,3,1,1251
+"Honeycrisp",1.5,"Average",209,3,2,1251
+"Gala",1,"Poor",209,4,1,1252
+"Gala",3.5,"Poor",209,4,2,1252
+"Fuji",2.5,"Excellent",209,5,1,1253
+"Honeycrisp",4,"Excellent",209,5,2,1253
+"Red Delicious",4,"Excellent",209,6,1,1254
+"Red Delicious",3,"Excellent",209,6,2,1254
+"Honeycrisp",1.5,"Excellent",210,1,1,1255
+"Red Delicious",4,"Excellent",210,1,2,1255
+"Gala",1.5,"Average",210,2,1,1256
+"Fuji",2.5,"Poor",210,2,2,1256
+"Honeycrisp",4,"Average",210,3,1,1257
+"Red Delicious",1,"Poor",210,3,2,1257
+"Fuji",2.5,"Average",210,4,1,1258
+"Gala",3,"Poor",210,4,2,1258
+"Gala",2,"Excellent",210,5,1,1259
+"Fuji",2,"Excellent",210,5,2,1259
+"Red Delicious",4,"Average",210,6,1,1260
+"Fuji",1.5,"Excellent",210,6,2,1260
+"Gala",1,"Average",211,1,1,1261
+"Fuji",2.5,"Poor",211,1,2,1261
+"Gala",3,"Excellent",211,2,1,1262
+"Fuji",3.5,"Excellent",211,2,2,1262
+"Red Delicious",3,"Poor",211,3,1,1263
+"Fuji",2,"Excellent",211,3,2,1263
+"Red Delicious",2,"Excellent",211,4,1,1264
+"Gala",4,"Average",211,4,2,1264
+"Gala",3.5,"Poor",211,5,1,1265
+"Gala",3,"Poor",211,5,2,1265
+"Fuji",4,"Excellent",211,6,1,1266
+"Gala",3,"Excellent",211,6,2,1266
+"Gala",2,"Excellent",212,1,1,1267
+"Fuji",4,"Poor",212,1,2,1267
+"Pink Lady",3.5,"Average",212,2,1,1268
+"Pink Lady",4,"Excellent",212,2,2,1268
+"Pink Lady",3.5,"Average",212,3,1,1269
+"Honeycrisp",4,"Excellent",212,3,2,1269
+"Red Delicious",4,"Average",212,4,1,1270
+"Red Delicious",3.5,"Average",212,4,2,1270
+"Fuji",2,"Poor",212,5,1,1271
+"Gala",3,"Excellent",212,5,2,1271
+"Fuji",3,"Average",212,6,1,1272
+"Gala",4,"Poor",212,6,2,1272
+"Fuji",2.5,"Average",213,1,1,1273
+"Pink Lady",2.5,"Excellent",213,1,2,1273
+"Red Delicious",1,"Average",213,2,1,1274
+"Pink Lady",1.5,"Excellent",213,2,2,1274
+"Red Delicious",4,"Excellent",213,3,1,1275
+"Red Delicious",4,"Average",213,3,2,1275
+"Red Delicious",2,"Poor",213,4,1,1276
+"Red Delicious",1.5,"Average",213,4,2,1276
+"Honeycrisp",4,"Excellent",213,5,1,1277
+"Gala",4,"Poor",213,5,2,1277
+"Pink Lady",4,"Average",213,6,1,1278
+"Fuji",3.5,"Poor",213,6,2,1278
+"Gala",2.5,"Average",214,1,1,1279
+"Red Delicious",4,"Poor",214,1,2,1279
+"Pink Lady",2.5,"Average",214,2,1,1280
+"Pink Lady",1,"Poor",214,2,2,1280
+"Red Delicious",3,"Average",214,3,1,1281
+"Honeycrisp",1.5,"Average",214,3,2,1281
+"Honeycrisp",1.5,"Excellent",214,4,1,1282
+"Honeycrisp",1,"Poor",214,4,2,1282
+"Gala",1,"Average",214,5,1,1283
+"Fuji",1,"Average",214,5,2,1283
+"Gala",1.5,"Average",214,6,1,1284
+"Red Delicious",1,"Average",214,6,2,1284
+"Fuji",1.5,"Poor",215,1,1,1285
+"Honeycrisp",4,"Average",215,1,2,1285
+"Fuji",4,"Poor",215,2,1,1286
+"Gala",4,"Poor",215,2,2,1286
+"Fuji",1,"Excellent",215,3,1,1287
+"Red Delicious",3.5,"Excellent",215,3,2,1287
+"Pink Lady",1.5,"Average",215,4,1,1288
+"Fuji",3,"Excellent",215,4,2,1288
+"Pink Lady",2,"Excellent",215,5,1,1289
+"Fuji",4,"Average",215,5,2,1289
+"Gala",2,"Poor",215,6,1,1290
+"Pink Lady",1.5,"Poor",215,6,2,1290
+"Red Delicious",4,"Excellent",216,1,1,1291
+"Honeycrisp",3.5,"Excellent",216,1,2,1291
+"Pink Lady",3,"Poor",216,2,1,1292
+"Pink Lady",2.5,"Poor",216,2,2,1292
+"Red Delicious",1,"Average",216,3,1,1293
+"Pink Lady",4,"Excellent",216,3,2,1293
+"Fuji",1.5,"Poor",216,4,1,1294
+"Fuji",3,"Average",216,4,2,1294
+"Honeycrisp",2,"Poor",216,5,1,1295
+"Gala",1.5,"Average",216,5,2,1295
+"Fuji",2,"Poor",216,6,1,1296
+"Gala",3,"Average",216,6,2,1296
+"Red Delicious",3,"Poor",217,1,1,1297
+"Red Delicious",1,"Average",217,1,2,1297
+"Fuji",3,"Poor",217,2,1,1298
+"Red Delicious",4,"Poor",217,2,2,1298
+"Gala",3,"Average",217,3,1,1299
+"Gala",3,"Average",217,3,2,1299
+"Red Delicious",2.5,"Average",217,4,1,1300
+"Red Delicious",4,"Average",217,4,2,1300
+"Red Delicious",3.5,"Poor",217,5,1,1301
+"Pink Lady",4,"Poor",217,5,2,1301
+"Pink Lady",2,"Poor",217,6,1,1302
+"Pink Lady",2,"Poor",217,6,2,1302
+"Pink Lady",2,"Excellent",218,1,1,1303
+"Honeycrisp",3.5,"Poor",218,1,2,1303
+"Pink Lady",3.5,"Poor",218,2,1,1304
+"Fuji",3,"Poor",218,2,2,1304
+"Pink Lady",1.5,"Average",218,3,1,1305
+"Fuji",3,"Excellent",218,3,2,1305
+"Gala",1.5,"Excellent",218,4,1,1306
+"Red Delicious",1,"Average",218,4,2,1306
+"Pink Lady",2,"Average",218,5,1,1307
+"Honeycrisp",4,"Excellent",218,5,2,1307
+"Fuji",2.5,"Excellent",218,6,1,1308
+"Pink Lady",2.5,"Poor",218,6,2,1308
+"Honeycrisp",3,"Excellent",219,1,1,1309
+"Gala",3,"Average",219,1,2,1309
+"Honeycrisp",1,"Excellent",219,2,1,1310
+"Pink Lady",1,"Poor",219,2,2,1310
+"Honeycrisp",2,"Poor",219,3,1,1311
+"Pink Lady",1.5,"Excellent",219,3,2,1311
+"Fuji",2,"Average",219,4,1,1312
+"Red Delicious",2.5,"Excellent",219,4,2,1312
+"Fuji",4,"Poor",219,5,1,1313
+"Pink Lady",3.5,"Poor",219,5,2,1313
+"Fuji",1,"Excellent",219,6,1,1314
+"Pink Lady",2.5,"Excellent",219,6,2,1314
+"Pink Lady",3.5,"Poor",220,1,1,1315
+"Red Delicious",3.5,"Poor",220,1,2,1315
+"Red Delicious",3.5,"Excellent",220,2,1,1316
+"Red Delicious",1.5,"Poor",220,2,2,1316
+"Pink Lady",3.5,"Excellent",220,3,1,1317
+"Gala",2.5,"Excellent",220,3,2,1317
+"Honeycrisp",1.5,"Excellent",220,4,1,1318
+"Red Delicious",2,"Excellent",220,4,2,1318
+"Gala",2.5,"Excellent",220,5,1,1319
+"Fuji",1.5,"Average",220,5,2,1319
+"Honeycrisp",1,"Excellent",220,6,1,1320
+"Red Delicious",3.5,"Poor",220,6,2,1320
+"Gala",4,"Average",221,1,1,1321
+"Pink Lady",3,"Excellent",221,1,2,1321
+"Red Delicious",3,"Excellent",221,2,1,1322
+"Honeycrisp",3,"Excellent",221,2,2,1322
+"Honeycrisp",1.5,"Average",221,3,1,1323
+"Honeycrisp",4,"Excellent",221,3,2,1323
+"Red Delicious",1,"Average",221,4,1,1324
+"Pink Lady",2,"Excellent",221,4,2,1324
+"Honeycrisp",3,"Average",221,5,1,1325
+"Pink Lady",3.5,"Average",221,5,2,1325
+"Pink Lady",4,"Average",221,6,1,1326
+"Honeycrisp",3.5,"Poor",221,6,2,1326
+"Red Delicious",3,"Excellent",222,1,1,1327
+"Fuji",1,"Poor",222,1,2,1327
+"Gala",4,"Excellent",222,2,1,1328
+"Red Delicious",3,"Average",222,2,2,1328
+"Gala",2,"Poor",222,3,1,1329
+"Gala",3,"Poor",222,3,2,1329
+"Pink Lady",2,"Average",222,4,1,1330
+"Fuji",3.5,"Average",222,4,2,1330
+"Red Delicious",3,"Excellent",222,5,1,1331
+"Honeycrisp",3.5,"Average",222,5,2,1331
+"Gala",4,"Average",222,6,1,1332
+"Gala",1.5,"Excellent",222,6,2,1332
+"Gala",4,"Average",223,1,1,1333
+"Pink Lady",3,"Average",223,1,2,1333
+"Pink Lady",3,"Excellent",223,2,1,1334
+"Honeycrisp",2,"Average",223,2,2,1334
+"Fuji",1.5,"Average",223,3,1,1335
+"Pink Lady",4,"Excellent",223,3,2,1335
+"Red Delicious",3,"Poor",223,4,1,1336
+"Honeycrisp",3.5,"Average",223,4,2,1336
+"Gala",3.5,"Average",223,5,1,1337
+"Red Delicious",4,"Average",223,5,2,1337
+"Gala",4,"Poor",223,6,1,1338
+"Gala",1,"Excellent",223,6,2,1338
+"Fuji",2.5,"Poor",224,1,1,1339
+"Honeycrisp",3.5,"Excellent",224,1,2,1339
+"Pink Lady",3.5,"Average",224,2,1,1340
+"Honeycrisp",2.5,"Average",224,2,2,1340
+"Gala",2.5,"Excellent",224,3,1,1341
+"Pink Lady",1.5,"Excellent",224,3,2,1341
+"Gala",1,"Poor",224,4,1,1342
+"Fuji",2,"Average",224,4,2,1342
+"Pink Lady",1.5,"Excellent",224,5,1,1343
+"Honeycrisp",1.5,"Poor",224,5,2,1343
+"Honeycrisp",3,"Poor",224,6,1,1344
+"Fuji",2.5,"Average",224,6,2,1344
+"Fuji",2.5,"Poor",225,1,1,1345
+"Pink Lady",1,"Poor",225,1,2,1345
+"Pink Lady",1.5,"Poor",225,2,1,1346
+"Red Delicious",4,"Poor",225,2,2,1346
+"Pink Lady",4,"Average",225,3,1,1347
+"Gala",3,"Poor",225,3,2,1347
+"Red Delicious",3.5,"Average",225,4,1,1348
+"Fuji",2,"Excellent",225,4,2,1348
+"Honeycrisp",1,"Poor",225,5,1,1349
+"Gala",4,"Excellent",225,5,2,1349
+"Honeycrisp",1.5,"Average",225,6,1,1350
+"Red Delicious",4,"Excellent",225,6,2,1350
+"Pink Lady",1.5,"Excellent",226,1,1,1351
+"Gala",4,"Excellent",226,1,2,1351
+"Gala",3,"Excellent",226,2,1,1352
+"Gala",2,"Average",226,2,2,1352
+"Pink Lady",1.5,"Poor",226,3,1,1353
+"Fuji",3.5,"Excellent",226,3,2,1353
+"Fuji",2,"Poor",226,4,1,1354
+"Honeycrisp",4,"Average",226,4,2,1354
+"Honeycrisp",1,"Average",226,5,1,1355
+"Pink Lady",2,"Average",226,5,2,1355
+"Gala",2,"Poor",226,6,1,1356
+"Red Delicious",2,"Poor",226,6,2,1356
+"Honeycrisp",3.5,"Average",227,1,1,1357
+"Honeycrisp",4,"Excellent",227,1,2,1357
+"Honeycrisp",1,"Excellent",227,2,1,1358
+"Fuji",1,"Poor",227,2,2,1358
+"Fuji",4,"Excellent",227,3,1,1359
+"Honeycrisp",2.5,"Poor",227,3,2,1359
+"Pink Lady",1,"Poor",227,4,1,1360
+"Pink Lady",3,"Poor",227,4,2,1360
+"Gala",2.5,"Average",227,5,1,1361
+"Pink Lady",1.5,"Average",227,5,2,1361
+"Red Delicious",1.5,"Average",227,6,1,1362
+"Gala",2,"Excellent",227,6,2,1362
+"Red Delicious",2.5,"Excellent",228,1,1,1363
+"Gala",3.5,"Poor",228,1,2,1363
+"Pink Lady",3,"Average",228,2,1,1364
+"Gala",1.5,"Poor",228,2,2,1364
+"Honeycrisp",1.5,"Excellent",228,3,1,1365
+"Gala",1.5,"Poor",228,3,2,1365
+"Honeycrisp",1,"Average",228,4,1,1366
+"Fuji",3.5,"Average",228,4,2,1366
+"Pink Lady",3,"Poor",228,5,1,1367
+"Pink Lady",2,"Average",228,5,2,1367
+"Pink Lady",1.5,"Excellent",228,6,1,1368
+"Red Delicious",2.5,"Excellent",228,6,2,1368
+"Red Delicious",1,"Excellent",229,1,1,1369
+"Pink Lady",3.5,"Poor",229,1,2,1369
+"Gala",4,"Average",229,2,1,1370
+"Gala",2.5,"Excellent",229,2,2,1370
+"Pink Lady",2,"Excellent",229,3,1,1371
+"Pink Lady",2.5,"Average",229,3,2,1371
+"Fuji",2.5,"Excellent",229,4,1,1372
+"Pink Lady",3,"Excellent",229,4,2,1372
+"Red Delicious",3.5,"Poor",229,5,1,1373
+"Red Delicious",3,"Average",229,5,2,1373
+"Gala",2.5,"Average",229,6,1,1374
+"Honeycrisp",3,"Poor",229,6,2,1374
+"Gala",4,"Average",230,1,1,1375
+"Red Delicious",4,"Poor",230,1,2,1375
+"Honeycrisp",3.5,"Excellent",230,2,1,1376
+"Honeycrisp",2,"Poor",230,2,2,1376
+"Honeycrisp",3.5,"Poor",230,3,1,1377
+"Honeycrisp",3.5,"Poor",230,3,2,1377
+"Red Delicious",1,"Poor",230,4,1,1378
+"Gala",1,"Excellent",230,4,2,1378
+"Fuji",1,"Poor",230,5,1,1379
+"Pink Lady",1.5,"Poor",230,5,2,1379
+"Honeycrisp",3,"Excellent",230,6,1,1380
+"Fuji",2.5,"Average",230,6,2,1380
+"Pink Lady",2.5,"Excellent",231,1,1,1381
+"Red Delicious",3.5,"Poor",231,1,2,1381
+"Pink Lady",1,"Excellent",231,2,1,1382
+"Fuji",3,"Excellent",231,2,2,1382
+"Gala",3.5,"Excellent",231,3,1,1383
+"Fuji",2,"Average",231,3,2,1383
+"Honeycrisp",4,"Average",231,4,1,1384
+"Pink Lady",2.5,"Average",231,4,2,1384
+"Fuji",2.5,"Average",231,5,1,1385
+"Honeycrisp",2.5,"Excellent",231,5,2,1385
+"Pink Lady",3.5,"Average",231,6,1,1386
+"Pink Lady",2,"Excellent",231,6,2,1386
+"Pink Lady",2.5,"Poor",232,1,1,1387
+"Gala",3.5,"Average",232,1,2,1387
+"Red Delicious",2.5,"Average",232,2,1,1388
+"Honeycrisp",1,"Excellent",232,2,2,1388
+"Fuji",1,"Excellent",232,3,1,1389
+"Pink Lady",2.5,"Excellent",232,3,2,1389
+"Honeycrisp",4,"Excellent",232,4,1,1390
+"Pink Lady",3.5,"Average",232,4,2,1390
+"Fuji",3.5,"Excellent",232,5,1,1391
+"Gala",1.5,"Average",232,5,2,1391
+"Gala",1,"Excellent",232,6,1,1392
+"Red Delicious",4,"Average",232,6,2,1392
+"Pink Lady",3,"Average",233,1,1,1393
+"Fuji",1,"Poor",233,1,2,1393
+"Fuji",1.5,"Excellent",233,2,1,1394
+"Honeycrisp",3.5,"Excellent",233,2,2,1394
+"Honeycrisp",3.5,"Excellent",233,3,1,1395
+"Pink Lady",1.5,"Average",233,3,2,1395
+"Honeycrisp",1.5,"Excellent",233,4,1,1396
+"Red Delicious",4,"Poor",233,4,2,1396
+"Gala",1.5,"Excellent",233,5,1,1397
+"Red Delicious",2.5,"Excellent",233,5,2,1397
+"Gala",3,"Poor",233,6,1,1398
+"Red Delicious",4,"Poor",233,6,2,1398
+"Red Delicious",3,"Average",234,1,1,1399
+"Honeycrisp",1,"Excellent",234,1,2,1399
+"Red Delicious",4,"Average",234,2,1,1400
+"Fuji",3.5,"Excellent",234,2,2,1400
+"Gala",3,"Poor",234,3,1,1401
+"Pink Lady",4,"Poor",234,3,2,1401
+"Fuji",1,"Excellent",234,4,1,1402
+"Red Delicious",2,"Poor",234,4,2,1402
+"Honeycrisp",2.5,"Poor",234,5,1,1403
+"Pink Lady",1.5,"Poor",234,5,2,1403
+"Fuji",1.5,"Average",234,6,1,1404
+"Pink Lady",1.5,"Excellent",234,6,2,1404
+"Gala",1.5,"Average",235,1,1,1405
+"Red Delicious",1,"Poor",235,1,2,1405
+"Pink Lady",3.5,"Poor",235,2,1,1406
+"Gala",1.5,"Average",235,2,2,1406
+"Pink Lady",4,"Average",235,3,1,1407
+"Fuji",4,"Excellent",235,3,2,1407
+"Fuji",4,"Poor",235,4,1,1408
+"Gala",1.5,"Average",235,4,2,1408
+"Gala",1.5,"Poor",235,5,1,1409
+"Gala",3,"Poor",235,5,2,1409
+"Pink Lady",3.5,"Average",235,6,1,1410
+"Pink Lady",4,"Poor",235,6,2,1410
+"Fuji",2.5,"Poor",236,1,1,1411
+"Honeycrisp",4,"Average",236,1,2,1411
+"Gala",1.5,"Poor",236,2,1,1412
+"Fuji",2,"Average",236,2,2,1412
+"Red Delicious",3,"Excellent",236,3,1,1413
+"Gala",1,"Average",236,3,2,1413
+"Honeycrisp",2,"Average",236,4,1,1414
+"Honeycrisp",2.5,"Average",236,4,2,1414
+"Fuji",3,"Poor",236,5,1,1415
+"Fuji",3,"Excellent",236,5,2,1415
+"Fuji",3,"Excellent",236,6,1,1416
+"Pink Lady",2,"Poor",236,6,2,1416
+"Gala",2,"Average",237,1,1,1417
+"Fuji",1.5,"Excellent",237,1,2,1417
+"Gala",4,"Average",237,2,1,1418
+"Pink Lady",2.5,"Excellent",237,2,2,1418
+"Honeycrisp",4,"Average",237,3,1,1419
+"Gala",1.5,"Poor",237,3,2,1419
+"Pink Lady",1,"Excellent",237,4,1,1420
+"Gala",3.5,"Excellent",237,4,2,1420
+"Honeycrisp",1.5,"Excellent",237,5,1,1421
+"Pink Lady",2,"Poor",237,5,2,1421
+"Fuji",4,"Excellent",237,6,1,1422
+"Gala",3,"Poor",237,6,2,1422
+"Fuji",1.5,"Average",238,1,1,1423
+"Red Delicious",4,"Average",238,1,2,1423
+"Fuji",4,"Poor",238,2,1,1424
+"Honeycrisp",1.5,"Poor",238,2,2,1424
+"Gala",4,"Poor",238,3,1,1425
+"Fuji",3.5,"Average",238,3,2,1425
+"Fuji",2,"Excellent",238,4,1,1426
+"Red Delicious",2.5,"Average",238,4,2,1426
+"Fuji",2.5,"Poor",238,5,1,1427
+"Gala",2,"Excellent",238,5,2,1427
+"Pink Lady",1.5,"Excellent",238,6,1,1428
+"Red Delicious",2,"Poor",238,6,2,1428
+"Honeycrisp",2.5,"Average",239,1,1,1429
+"Pink Lady",1.5,"Excellent",239,1,2,1429
+"Pink Lady",3,"Average",239,2,1,1430
+"Fuji",1,"Excellent",239,2,2,1430
+"Gala",3,"Average",239,3,1,1431
+"Gala",4,"Poor",239,3,2,1431
+"Pink Lady",2.5,"Excellent",239,4,1,1432
+"Red Delicious",3.5,"Excellent",239,4,2,1432
+"Pink Lady",1,"Poor",239,5,1,1433
+"Honeycrisp",1,"Average",239,5,2,1433
+"Fuji",1.5,"Poor",239,6,1,1434
+"Red Delicious",2,"Excellent",239,6,2,1434
+"Pink Lady",3.5,"Excellent",240,1,1,1435
+"Honeycrisp",4,"Poor",240,1,2,1435
+"Pink Lady",1.5,"Poor",240,2,1,1436
+"Pink Lady",3,"Average",240,2,2,1436
+"Red Delicious",4,"Average",240,3,1,1437
+"Pink Lady",2,"Poor",240,3,2,1437
+"Gala",3.5,"Poor",240,4,1,1438
+"Gala",3,"Excellent",240,4,2,1438
+"Pink Lady",3,"Excellent",240,5,1,1439
+"Fuji",2,"Average",240,5,2,1439
+"Pink Lady",2.5,"Average",240,6,1,1440
+"Fuji",3,"Excellent",240,6,2,1440
+"Fuji",4,"Excellent",241,1,1,1441
+"Fuji",2.5,"Poor",241,1,2,1441
+"Red Delicious",4,"Average",241,2,1,1442
+"Pink Lady",2.5,"Excellent",241,2,2,1442
+"Red Delicious",1.5,"Poor",241,3,1,1443
+"Pink Lady",1.5,"Poor",241,3,2,1443
+"Gala",3.5,"Excellent",241,4,1,1444
+"Honeycrisp",2.5,"Excellent",241,4,2,1444
+"Honeycrisp",2.5,"Poor",241,5,1,1445
+"Fuji",1,"Excellent",241,5,2,1445
+"Gala",3.5,"Average",241,6,1,1446
+"Fuji",1,"Excellent",241,6,2,1446
+"Fuji",2,"Excellent",242,1,1,1447
+"Pink Lady",1,"Average",242,1,2,1447
+"Honeycrisp",2.5,"Average",242,2,1,1448
+"Fuji",3.5,"Average",242,2,2,1448
+"Gala",4,"Excellent",242,3,1,1449
+"Gala",3.5,"Average",242,3,2,1449
+"Red Delicious",1,"Average",242,4,1,1450
+"Honeycrisp",1.5,"Average",242,4,2,1450
+"Pink Lady",3,"Poor",242,5,1,1451
+"Gala",3.5,"Poor",242,5,2,1451
+"Pink Lady",3.5,"Poor",242,6,1,1452
+"Red Delicious",4,"Poor",242,6,2,1452
+"Honeycrisp",1.5,"Excellent",243,1,1,1453
+"Red Delicious",1.5,"Excellent",243,1,2,1453
+"Gala",2,"Excellent",243,2,1,1454
+"Red Delicious",2,"Excellent",243,2,2,1454
+"Fuji",4,"Poor",243,3,1,1455
+"Fuji",2.5,"Average",243,3,2,1455
+"Red Delicious",1,"Average",243,4,1,1456
+"Pink Lady",2,"Average",243,4,2,1456
+"Fuji",2.5,"Poor",243,5,1,1457
+"Pink Lady",4,"Average",243,5,2,1457
+"Honeycrisp",3.5,"Average",243,6,1,1458
+"Honeycrisp",1.5,"Average",243,6,2,1458
+"Red Delicious",4,"Poor",244,1,1,1459
+"Gala",1,"Average",244,1,2,1459
+"Pink Lady",3.5,"Poor",244,2,1,1460
+"Gala",1.5,"Average",244,2,2,1460
+"Gala",4,"Average",244,3,1,1461
+"Red Delicious",1.5,"Excellent",244,3,2,1461
+"Pink Lady",1.5,"Average",244,4,1,1462
+"Pink Lady",1,"Poor",244,4,2,1462
+"Fuji",1,"Excellent",244,5,1,1463
+"Fuji",1.5,"Excellent",244,5,2,1463
+"Pink Lady",1.5,"Poor",244,6,1,1464
+"Pink Lady",1,"Average",244,6,2,1464
+"Pink Lady",2,"Average",245,1,1,1465
+"Gala",3.5,"Excellent",245,1,2,1465
+"Red Delicious",3.5,"Poor",245,2,1,1466
+"Red Delicious",1,"Average",245,2,2,1466
+"Gala",3.5,"Excellent",245,3,1,1467
+"Pink Lady",1,"Poor",245,3,2,1467
+"Gala",1,"Average",245,4,1,1468
+"Honeycrisp",2,"Excellent",245,4,2,1468
+"Red Delicious",1,"Poor",245,5,1,1469
+"Honeycrisp",3,"Excellent",245,5,2,1469
+"Gala",3,"Average",245,6,1,1470
+"Gala",1,"Poor",245,6,2,1470
+"Gala",4,"Poor",246,1,1,1471
+"Honeycrisp",1,"Excellent",246,1,2,1471
+"Honeycrisp",1,"Poor",246,2,1,1472
+"Honeycrisp",2,"Poor",246,2,2,1472
+"Pink Lady",2.5,"Poor",246,3,1,1473
+"Red Delicious",1,"Excellent",246,3,2,1473
+"Honeycrisp",2,"Poor",246,4,1,1474
+"Fuji",4,"Average",246,4,2,1474
+"Red Delicious",1,"Average",246,5,1,1475
+"Honeycrisp",1.5,"Excellent",246,5,2,1475
+"Gala",4,"Poor",246,6,1,1476
+"Fuji",1.5,"Average",246,6,2,1476
+"Red Delicious",2.5,"Excellent",247,1,1,1477
+"Honeycrisp",1,"Poor",247,1,2,1477
+"Gala",2,"Average",247,2,1,1478
+"Red Delicious",3,"Average",247,2,2,1478
+"Red Delicious",2.5,"Poor",247,3,1,1479
+"Gala",4,"Poor",247,3,2,1479
+"Honeycrisp",4,"Excellent",247,4,1,1480
+"Pink Lady",1.5,"Excellent",247,4,2,1480
+"Gala",3,"Excellent",247,5,1,1481
+"Fuji",2,"Average",247,5,2,1481
+"Gala",3.5,"Average",247,6,1,1482
+"Pink Lady",3,"Average",247,6,2,1482
+"Red Delicious",2.5,"Poor",248,1,1,1483
+"Pink Lady",3.5,"Poor",248,1,2,1483
+"Gala",1.5,"Poor",248,2,1,1484
+"Fuji",2,"Poor",248,2,2,1484
+"Honeycrisp",1,"Poor",248,3,1,1485
+"Fuji",3,"Poor",248,3,2,1485
+"Gala",1.5,"Poor",248,4,1,1486
+"Red Delicious",1.5,"Poor",248,4,2,1486
+"Honeycrisp",4,"Excellent",248,5,1,1487
+"Fuji",3.5,"Average",248,5,2,1487
+"Fuji",2.5,"Excellent",248,6,1,1488
+"Honeycrisp",2.5,"Excellent",248,6,2,1488
+"Gala",1.5,"Poor",249,1,1,1489
+"Honeycrisp",2.5,"Poor",249,1,2,1489
+"Pink Lady",1.5,"Poor",249,2,1,1490
+"Fuji",2,"Poor",249,2,2,1490
+"Fuji",3,"Excellent",249,3,1,1491
+"Pink Lady",4,"Excellent",249,3,2,1491
+"Gala",1,"Excellent",249,4,1,1492
+"Gala",3,"Average",249,4,2,1492
+"Gala",3.5,"Excellent",249,5,1,1493
+"Pink Lady",3,"Average",249,5,2,1493
+"Honeycrisp",4,"Average",249,6,1,1494
+"Gala",3,"Excellent",249,6,2,1494
+"Fuji",1,"Poor",250,1,1,1495
+"Pink Lady",2,"Excellent",250,1,2,1495
+"Fuji",1,"Poor",250,2,1,1496
+"Pink Lady",1.5,"Excellent",250,2,2,1496
+"Fuji",4,"Poor",250,3,1,1497
+"Red Delicious",1,"Average",250,3,2,1497
+"Honeycrisp",2.5,"Excellent",250,4,1,1498
+"Honeycrisp",2,"Excellent",250,4,2,1498
+"Honeycrisp",2.5,"Excellent",250,5,1,1499
+"Honeycrisp",1,"Average",250,5,2,1499
+"Red Delicious",1,"Excellent",250,6,1,1500
+"Honeycrisp",2.5,"Average",250,6,2,1500
+"Red Delicious",3,"Poor",251,1,1,1501
+"Fuji",4,"Average",251,1,2,1501
+"Honeycrisp",2,"Average",251,2,1,1502
+"Honeycrisp",2,"Average",251,2,2,1502
+"Pink Lady",2,"Excellent",251,3,1,1503
+"Fuji",1,"Poor",251,3,2,1503
+"Gala",4,"Excellent",251,4,1,1504
+"Honeycrisp",1,"Excellent",251,4,2,1504
+"Red Delicious",3.5,"Excellent",251,5,1,1505
+"Pink Lady",1.5,"Excellent",251,5,2,1505
+"Fuji",3,"Average",251,6,1,1506
+"Gala",3.5,"Excellent",251,6,2,1506
+"Red Delicious",1.5,"Average",252,1,1,1507
+"Gala",1.5,"Excellent",252,1,2,1507
+"Gala",1,"Poor",252,2,1,1508
+"Red Delicious",1,"Excellent",252,2,2,1508
+"Pink Lady",1.5,"Poor",252,3,1,1509
+"Honeycrisp",2.5,"Average",252,3,2,1509
+"Gala",2,"Poor",252,4,1,1510
+"Honeycrisp",1,"Average",252,4,2,1510
+"Honeycrisp",3,"Excellent",252,5,1,1511
+"Gala",2,"Average",252,5,2,1511
+"Pink Lady",2.5,"Poor",252,6,1,1512
+"Gala",1,"Average",252,6,2,1512
+"Pink Lady",1.5,"Poor",253,1,1,1513
+"Fuji",2,"Poor",253,1,2,1513
+"Pink Lady",4,"Excellent",253,2,1,1514
+"Pink Lady",3,"Poor",253,2,2,1514
+"Gala",1.5,"Poor",253,3,1,1515
+"Pink Lady",2.5,"Average",253,3,2,1515
+"Fuji",4,"Excellent",253,4,1,1516
+"Fuji",4,"Average",253,4,2,1516
+"Pink Lady",4,"Poor",253,5,1,1517
+"Pink Lady",1,"Average",253,5,2,1517
+"Gala",3.5,"Average",253,6,1,1518
+"Honeycrisp",3.5,"Average",253,6,2,1518
+"Fuji",1.5,"Excellent",254,1,1,1519
+"Gala",3,"Excellent",254,1,2,1519
+"Red Delicious",3,"Excellent",254,2,1,1520
+"Gala",1.5,"Average",254,2,2,1520
+"Fuji",3,"Poor",254,3,1,1521
+"Gala",1,"Excellent",254,3,2,1521
+"Red Delicious",1.5,"Excellent",254,4,1,1522
+"Fuji",4,"Average",254,4,2,1522
+"Honeycrisp",1,"Average",254,5,1,1523
+"Fuji",1.5,"Excellent",254,5,2,1523
+"Fuji",2,"Poor",254,6,1,1524
+"Gala",1,"Poor",254,6,2,1524
+"Pink Lady",1.5,"Excellent",255,1,1,1525
+"Gala",1,"Poor",255,1,2,1525
+"Fuji",2.5,"Average",255,2,1,1526
+"Fuji",3,"Average",255,2,2,1526
+"Gala",3.5,"Average",255,3,1,1527
+"Fuji",3.5,"Poor",255,3,2,1527
+"Honeycrisp",2.5,"Poor",255,4,1,1528
+"Red Delicious",4,"Excellent",255,4,2,1528
+"Honeycrisp",1.5,"Average",255,5,1,1529
+"Fuji",2.5,"Average",255,5,2,1529
+"Red Delicious",1,"Poor",255,6,1,1530
+"Gala",3.5,"Excellent",255,6,2,1530
+"Honeycrisp",3,"Excellent",256,1,1,1531
+"Red Delicious",1.5,"Average",256,1,2,1531
+"Pink Lady",1,"Poor",256,2,1,1532
+"Gala",3,"Poor",256,2,2,1532
+"Gala",1.5,"Average",256,3,1,1533
+"Red Delicious",4,"Excellent",256,3,2,1533
+"Fuji",4,"Average",256,4,1,1534
+"Honeycrisp",2.5,"Excellent",256,4,2,1534
+"Pink Lady",2,"Excellent",256,5,1,1535
+"Honeycrisp",1.5,"Excellent",256,5,2,1535
+"Fuji",2,"Average",256,6,1,1536
+"Red Delicious",4,"Average",256,6,2,1536
+"Honeycrisp",2,"Excellent",257,1,1,1537
+"Fuji",1.5,"Excellent",257,1,2,1537
+"Red Delicious",1.5,"Average",257,2,1,1538
+"Red Delicious",1,"Average",257,2,2,1538
+"Gala",1,"Average",257,3,1,1539
+"Fuji",3.5,"Average",257,3,2,1539
+"Gala",3.5,"Excellent",257,4,1,1540
+"Gala",2.5,"Poor",257,4,2,1540
+"Honeycrisp",3,"Poor",257,5,1,1541
+"Gala",1.5,"Excellent",257,5,2,1541
+"Pink Lady",4,"Excellent",257,6,1,1542
+"Red Delicious",2.5,"Poor",257,6,2,1542
+"Honeycrisp",2.5,"Poor",258,1,1,1543
+"Gala",3.5,"Excellent",258,1,2,1543
+"Pink Lady",2.5,"Average",258,2,1,1544
+"Pink Lady",3,"Excellent",258,2,2,1544
+"Pink Lady",1.5,"Average",258,3,1,1545
+"Pink Lady",2,"Excellent",258,3,2,1545
+"Gala",1.5,"Average",258,4,1,1546
+"Honeycrisp",2,"Poor",258,4,2,1546
+"Pink Lady",2.5,"Poor",258,5,1,1547
+"Pink Lady",3,"Average",258,5,2,1547
+"Fuji",1,"Poor",258,6,1,1548
+"Red Delicious",4,"Excellent",258,6,2,1548
+"Honeycrisp",3,"Poor",259,1,1,1549
+"Gala",2.5,"Average",259,1,2,1549
+"Fuji",2,"Average",259,2,1,1550
+"Pink Lady",1.5,"Poor",259,2,2,1550
+"Honeycrisp",1,"Poor",259,3,1,1551
+"Honeycrisp",1.5,"Average",259,3,2,1551
+"Fuji",1.5,"Poor",259,4,1,1552
+"Honeycrisp",4,"Poor",259,4,2,1552
+"Honeycrisp",2,"Average",259,5,1,1553
+"Red Delicious",1,"Poor",259,5,2,1553
+"Pink Lady",2.5,"Poor",259,6,1,1554
+"Pink Lady",1.5,"Poor",259,6,2,1554
+"Gala",4,"Average",260,1,1,1555
+"Fuji",2,"Average",260,1,2,1555
+"Red Delicious",1,"Poor",260,2,1,1556
+"Honeycrisp",4,"Average",260,2,2,1556
+"Red Delicious",4,"Average",260,3,1,1557
+"Pink Lady",1.5,"Poor",260,3,2,1557
+"Gala",1,"Excellent",260,4,1,1558
+"Fuji",1,"Poor",260,4,2,1558
+"Red Delicious",1,"Excellent",260,5,1,1559
+"Fuji",4,"Poor",260,5,2,1559
+"Fuji",2,"Average",260,6,1,1560
+"Red Delicious",2,"Excellent",260,6,2,1560
+"Gala",1.5,"Excellent",261,1,1,1561
+"Red Delicious",3.5,"Excellent",261,1,2,1561
+"Red Delicious",1.5,"Poor",261,2,1,1562
+"Gala",1,"Excellent",261,2,2,1562
+"Fuji",1,"Average",261,3,1,1563
+"Gala",2.5,"Poor",261,3,2,1563
+"Gala",1,"Poor",261,4,1,1564
+"Honeycrisp",1,"Excellent",261,4,2,1564
+"Red Delicious",4,"Excellent",261,5,1,1565
+"Red Delicious",3.5,"Average",261,5,2,1565
+"Pink Lady",2.5,"Poor",261,6,1,1566
+"Gala",2.5,"Average",261,6,2,1566
+"Gala",1,"Excellent",262,1,1,1567
+"Red Delicious",4,"Excellent",262,1,2,1567
+"Pink Lady",2,"Excellent",262,2,1,1568
+"Pink Lady",1.5,"Average",262,2,2,1568
+"Honeycrisp",3.5,"Poor",262,3,1,1569
+"Pink Lady",2.5,"Excellent",262,3,2,1569
+"Honeycrisp",3.5,"Average",262,4,1,1570
+"Red Delicious",3,"Average",262,4,2,1570
+"Red Delicious",1.5,"Poor",262,5,1,1571
+"Red Delicious",3.5,"Average",262,5,2,1571
+"Pink Lady",4,"Excellent",262,6,1,1572
+"Honeycrisp",2.5,"Poor",262,6,2,1572
+"Gala",3,"Excellent",263,1,1,1573
+"Honeycrisp",4,"Poor",263,1,2,1573
+"Red Delicious",3.5,"Poor",263,2,1,1574
+"Fuji",1,"Poor",263,2,2,1574
+"Red Delicious",3,"Average",263,3,1,1575
+"Honeycrisp",1,"Poor",263,3,2,1575
+"Fuji",4,"Excellent",263,4,1,1576
+"Honeycrisp",1,"Poor",263,4,2,1576
+"Red Delicious",3,"Average",263,5,1,1577
+"Honeycrisp",2,"Average",263,5,2,1577
+"Red Delicious",3.5,"Average",263,6,1,1578
+"Red Delicious",4,"Excellent",263,6,2,1578
+"Gala",1,"Poor",264,1,1,1579
+"Gala",3,"Excellent",264,1,2,1579
+"Honeycrisp",1.5,"Average",264,2,1,1580
+"Fuji",4,"Average",264,2,2,1580
+"Gala",2,"Average",264,3,1,1581
+"Honeycrisp",2,"Poor",264,3,2,1581
+"Gala",3.5,"Average",264,4,1,1582
+"Gala",4,"Poor",264,4,2,1582
+"Fuji",4,"Poor",264,5,1,1583
+"Gala",3,"Excellent",264,5,2,1583
+"Fuji",2,"Excellent",264,6,1,1584
+"Fuji",2,"Excellent",264,6,2,1584
+"Honeycrisp",2,"Average",265,1,1,1585
+"Fuji",2.5,"Average",265,1,2,1585
+"Honeycrisp",3,"Poor",265,2,1,1586
+"Pink Lady",2,"Excellent",265,2,2,1586
+"Pink Lady",2,"Poor",265,3,1,1587
+"Red Delicious",3.5,"Excellent",265,3,2,1587
+"Gala",2,"Poor",265,4,1,1588
+"Honeycrisp",2.5,"Average",265,4,2,1588
+"Fuji",1.5,"Excellent",265,5,1,1589
+"Honeycrisp",4,"Poor",265,5,2,1589
+"Pink Lady",4,"Average",265,6,1,1590
+"Fuji",4,"Excellent",265,6,2,1590
+"Pink Lady",4,"Average",266,1,1,1591
+"Honeycrisp",3.5,"Poor",266,1,2,1591
+"Honeycrisp",2.5,"Excellent",266,2,1,1592
+"Pink Lady",4,"Poor",266,2,2,1592
+"Pink Lady",3,"Excellent",266,3,1,1593
+"Honeycrisp",4,"Average",266,3,2,1593
+"Gala",1,"Poor",266,4,1,1594
+"Fuji",4,"Excellent",266,4,2,1594
+"Red Delicious",4,"Poor",266,5,1,1595
+"Honeycrisp",4,"Average",266,5,2,1595
+"Red Delicious",2.5,"Excellent",266,6,1,1596
+"Red Delicious",3,"Average",266,6,2,1596
+"Gala",3,"Average",267,1,1,1597
+"Fuji",4,"Poor",267,1,2,1597
+"Honeycrisp",2.5,"Excellent",267,2,1,1598
+"Gala",4,"Excellent",267,2,2,1598
+"Red Delicious",3.5,"Average",267,3,1,1599
+"Gala",2,"Excellent",267,3,2,1599
+"Gala",2.5,"Excellent",267,4,1,1600
+"Honeycrisp",2.5,"Excellent",267,4,2,1600
+"Fuji",3.5,"Poor",267,5,1,1601
+"Red Delicious",2.5,"Excellent",267,5,2,1601
+"Fuji",1.5,"Excellent",267,6,1,1602
+"Pink Lady",3.5,"Poor",267,6,2,1602
+"Red Delicious",3.5,"Poor",268,1,1,1603
+"Red Delicious",4,"Excellent",268,1,2,1603
+"Gala",1.5,"Average",268,2,1,1604
+"Pink Lady",2.5,"Excellent",268,2,2,1604
+"Fuji",3,"Excellent",268,3,1,1605
+"Red Delicious",4,"Excellent",268,3,2,1605
+"Red Delicious",4,"Poor",268,4,1,1606
+"Red Delicious",4,"Average",268,4,2,1606
+"Red Delicious",1.5,"Excellent",268,5,1,1607
+"Honeycrisp",3.5,"Excellent",268,5,2,1607
+"Pink Lady",4,"Average",268,6,1,1608
+"Fuji",2,"Poor",268,6,2,1608
+"Pink Lady",2.5,"Excellent",269,1,1,1609
+"Pink Lady",2,"Average",269,1,2,1609
+"Pink Lady",4,"Poor",269,2,1,1610
+"Pink Lady",2,"Average",269,2,2,1610
+"Gala",4,"Average",269,3,1,1611
+"Pink Lady",3.5,"Poor",269,3,2,1611
+"Honeycrisp",3.5,"Average",269,4,1,1612
+"Pink Lady",1.5,"Poor",269,4,2,1612
+"Red Delicious",2,"Average",269,5,1,1613
+"Red Delicious",3.5,"Poor",269,5,2,1613
+"Red Delicious",2.5,"Excellent",269,6,1,1614
+"Pink Lady",2.5,"Average",269,6,2,1614
+"Fuji",2,"Poor",270,1,1,1615
+"Gala",3,"Excellent",270,1,2,1615
+"Gala",1.5,"Poor",270,2,1,1616
+"Fuji",3.5,"Excellent",270,2,2,1616
+"Fuji",3.5,"Excellent",270,3,1,1617
+"Red Delicious",1.5,"Average",270,3,2,1617
+"Gala",4,"Average",270,4,1,1618
+"Fuji",3.5,"Excellent",270,4,2,1618
+"Gala",1,"Poor",270,5,1,1619
+"Pink Lady",2,"Poor",270,5,2,1619
+"Pink Lady",3,"Excellent",270,6,1,1620
+"Red Delicious",4,"Excellent",270,6,2,1620
+"Gala",4,"Average",271,1,1,1621
+"Red Delicious",2,"Excellent",271,1,2,1621
+"Pink Lady",2,"Average",271,2,1,1622
+"Gala",2.5,"Poor",271,2,2,1622
+"Pink Lady",1.5,"Poor",271,3,1,1623
+"Red Delicious",3.5,"Average",271,3,2,1623
+"Gala",1,"Excellent",271,4,1,1624
+"Pink Lady",2.5,"Excellent",271,4,2,1624
+"Red Delicious",1.5,"Poor",271,5,1,1625
+"Pink Lady",3.5,"Average",271,5,2,1625
+"Gala",2.5,"Average",271,6,1,1626
+"Fuji",2.5,"Excellent",271,6,2,1626
+"Pink Lady",3.5,"Poor",272,1,1,1627
+"Red Delicious",1.5,"Average",272,1,2,1627
+"Pink Lady",1,"Poor",272,2,1,1628
+"Fuji",4,"Excellent",272,2,2,1628
+"Gala",2.5,"Average",272,3,1,1629
+"Pink Lady",1.5,"Poor",272,3,2,1629
+"Fuji",2.5,"Excellent",272,4,1,1630
+"Fuji",3,"Poor",272,4,2,1630
+"Fuji",2.5,"Poor",272,5,1,1631
+"Pink Lady",3,"Poor",272,5,2,1631
+"Fuji",4,"Poor",272,6,1,1632
+"Pink Lady",1,"Poor",272,6,2,1632
+"Gala",1.5,"Excellent",273,1,1,1633
+"Gala",3.5,"Average",273,1,2,1633
+"Gala",1,"Poor",273,2,1,1634
+"Pink Lady",2,"Poor",273,2,2,1634
+"Pink Lady",4,"Poor",273,3,1,1635
+"Honeycrisp",4,"Average",273,3,2,1635
+"Red Delicious",3,"Average",273,4,1,1636
+"Pink Lady",3.5,"Excellent",273,4,2,1636
+"Red Delicious",2.5,"Excellent",273,5,1,1637
+"Fuji",1,"Excellent",273,5,2,1637
+"Honeycrisp",4,"Average",273,6,1,1638
+"Gala",4,"Excellent",273,6,2,1638
+"Gala",2.5,"Average",274,1,1,1639
+"Fuji",2,"Average",274,1,2,1639
+"Red Delicious",3.5,"Poor",274,2,1,1640
+"Fuji",4,"Poor",274,2,2,1640
+"Fuji",3.5,"Poor",274,3,1,1641
+"Red Delicious",4,"Poor",274,3,2,1641
+"Fuji",2,"Excellent",274,4,1,1642
+"Gala",4,"Poor",274,4,2,1642
+"Honeycrisp",3.5,"Poor",274,5,1,1643
+"Pink Lady",1,"Poor",274,5,2,1643
+"Gala",3.5,"Poor",274,6,1,1644
+"Gala",2.5,"Average",274,6,2,1644
+"Red Delicious",3.5,"Average",275,1,1,1645
+"Gala",2.5,"Poor",275,1,2,1645
+"Pink Lady",4,"Average",275,2,1,1646
+"Honeycrisp",1.5,"Poor",275,2,2,1646
+"Pink Lady",4,"Poor",275,3,1,1647
+"Red Delicious",2,"Excellent",275,3,2,1647
+"Gala",2.5,"Excellent",275,4,1,1648
+"Fuji",2,"Excellent",275,4,2,1648
+"Red Delicious",2.5,"Poor",275,5,1,1649
+"Red Delicious",1.5,"Excellent",275,5,2,1649
+"Pink Lady",3,"Excellent",275,6,1,1650
+"Gala",3,"Average",275,6,2,1650
+"Pink Lady",4,"Excellent",276,1,1,1651
+"Pink Lady",1.5,"Poor",276,1,2,1651
+"Fuji",1,"Average",276,2,1,1652
+"Fuji",4,"Excellent",276,2,2,1652
+"Gala",4,"Excellent",276,3,1,1653
+"Red Delicious",2.5,"Average",276,3,2,1653
+"Pink Lady",4,"Excellent",276,4,1,1654
+"Fuji",3.5,"Poor",276,4,2,1654
+"Gala",4,"Excellent",276,5,1,1655
+"Honeycrisp",4,"Average",276,5,2,1655
+"Pink Lady",2.5,"Average",276,6,1,1656
+"Honeycrisp",3,"Excellent",276,6,2,1656
+"Fuji",2.5,"Poor",277,1,1,1657
+"Honeycrisp",3.5,"Poor",277,1,2,1657
+"Fuji",1,"Poor",277,2,1,1658
+"Pink Lady",1,"Poor",277,2,2,1658
+"Fuji",1.5,"Average",277,3,1,1659
+"Red Delicious",1.5,"Poor",277,3,2,1659
+"Fuji",3.5,"Excellent",277,4,1,1660
+"Fuji",4,"Average",277,4,2,1660
+"Honeycrisp",2,"Excellent",277,5,1,1661
+"Fuji",3.5,"Average",277,5,2,1661
+"Honeycrisp",1.5,"Excellent",277,6,1,1662
+"Pink Lady",4,"Excellent",277,6,2,1662
+"Red Delicious",3,"Poor",278,1,1,1663
+"Gala",1,"Average",278,1,2,1663
+"Red Delicious",3,"Excellent",278,2,1,1664
+"Fuji",2.5,"Average",278,2,2,1664
+"Honeycrisp",3,"Excellent",278,3,1,1665
+"Fuji",2.5,"Excellent",278,3,2,1665
+"Fuji",2.5,"Average",278,4,1,1666
+"Fuji",3,"Average",278,4,2,1666
+"Honeycrisp",1.5,"Average",278,5,1,1667
+"Honeycrisp",1,"Excellent",278,5,2,1667
+"Red Delicious",1.5,"Excellent",278,6,1,1668
+"Fuji",2,"Poor",278,6,2,1668
+"Fuji",1.5,"Average",279,1,1,1669
+"Honeycrisp",3,"Excellent",279,1,2,1669
+"Red Delicious",4,"Average",279,2,1,1670
+"Honeycrisp",4,"Poor",279,2,2,1670
+"Pink Lady",2,"Excellent",279,3,1,1671
+"Pink Lady",2,"Average",279,3,2,1671
+"Red Delicious",1,"Average",279,4,1,1672
+"Red Delicious",4,"Poor",279,4,2,1672
+"Red Delicious",1.5,"Excellent",279,5,1,1673
+"Honeycrisp",1.5,"Excellent",279,5,2,1673
+"Gala",1.5,"Poor",279,6,1,1674
+"Fuji",1.5,"Poor",279,6,2,1674
+"Gala",3,"Excellent",280,1,1,1675
+"Honeycrisp",3.5,"Poor",280,1,2,1675
+"Fuji",1,"Excellent",280,2,1,1676
+"Fuji",2.5,"Average",280,2,2,1676
+"Gala",2.5,"Excellent",280,3,1,1677
+"Gala",2,"Average",280,3,2,1677
+"Fuji",3,"Poor",280,4,1,1678
+"Red Delicious",1,"Excellent",280,4,2,1678
+"Gala",4,"Excellent",280,5,1,1679
+"Red Delicious",3.5,"Excellent",280,5,2,1679
+"Red Delicious",2,"Poor",280,6,1,1680
+"Fuji",2.5,"Excellent",280,6,2,1680
+"Gala",2.5,"Excellent",281,1,1,1681
+"Red Delicious",2.5,"Excellent",281,1,2,1681
+"Gala",2,"Poor",281,2,1,1682
+"Gala",1,"Poor",281,2,2,1682
+"Gala",3.5,"Excellent",281,3,1,1683
+"Red Delicious",1,"Average",281,3,2,1683
+"Fuji",1,"Poor",281,4,1,1684
+"Red Delicious",1,"Average",281,4,2,1684
+"Red Delicious",1,"Average",281,5,1,1685
+"Red Delicious",4,"Excellent",281,5,2,1685
+"Fuji",1.5,"Average",281,6,1,1686
+"Honeycrisp",2.5,"Poor",281,6,2,1686
+"Honeycrisp",3.5,"Poor",282,1,1,1687
+"Red Delicious",2,"Average",282,1,2,1687
+"Honeycrisp",2.5,"Average",282,2,1,1688
+"Red Delicious",1,"Average",282,2,2,1688
+"Gala",3,"Excellent",282,3,1,1689
+"Honeycrisp",3,"Excellent",282,3,2,1689
+"Red Delicious",4,"Average",282,4,1,1690
+"Pink Lady",2.5,"Poor",282,4,2,1690
+"Gala",4,"Poor",282,5,1,1691
+"Fuji",3.5,"Poor",282,5,2,1691
+"Pink Lady",2.5,"Poor",282,6,1,1692
+"Red Delicious",2,"Excellent",282,6,2,1692
+"Pink Lady",3,"Excellent",283,1,1,1693
+"Fuji",3,"Poor",283,1,2,1693
+"Gala",1,"Excellent",283,2,1,1694
+"Red Delicious",1,"Poor",283,2,2,1694
+"Honeycrisp",2,"Excellent",283,3,1,1695
+"Gala",2.5,"Average",283,3,2,1695
+"Gala",3.5,"Average",283,4,1,1696
+"Pink Lady",2,"Poor",283,4,2,1696
+"Gala",3,"Poor",283,5,1,1697
+"Honeycrisp",3,"Excellent",283,5,2,1697
+"Fuji",2.5,"Excellent",283,6,1,1698
+"Pink Lady",3.5,"Average",283,6,2,1698
+"Red Delicious",3,"Excellent",284,1,1,1699
+"Fuji",3,"Average",284,1,2,1699
+"Red Delicious",2,"Poor",284,2,1,1700
+"Pink Lady",4,"Average",284,2,2,1700
+"Honeycrisp",3.5,"Excellent",284,3,1,1701
+"Fuji",2.5,"Excellent",284,3,2,1701
+"Pink Lady",1.5,"Average",284,4,1,1702
+"Gala",1,"Average",284,4,2,1702
+"Honeycrisp",3.5,"Excellent",284,5,1,1703
+"Pink Lady",2.5,"Excellent",284,5,2,1703
+"Pink Lady",2,"Excellent",284,6,1,1704
+"Pink Lady",1,"Poor",284,6,2,1704
+"Red Delicious",2.5,"Average",285,1,1,1705
+"Pink Lady",1,"Excellent",285,1,2,1705
+"Red Delicious",1.5,"Average",285,2,1,1706
+"Red Delicious",3.5,"Excellent",285,2,2,1706
+"Pink Lady",2.5,"Average",285,3,1,1707
+"Fuji",3,"Poor",285,3,2,1707
+"Honeycrisp",1.5,"Poor",285,4,1,1708
+"Fuji",2,"Poor",285,4,2,1708
+"Fuji",2.5,"Excellent",285,5,1,1709
+"Honeycrisp",4,"Average",285,5,2,1709
+"Pink Lady",1.5,"Poor",285,6,1,1710
+"Red Delicious",3,"Average",285,6,2,1710
+"Honeycrisp",1.5,"Poor",286,1,1,1711
+"Gala",3.5,"Average",286,1,2,1711
+"Gala",2.5,"Excellent",286,2,1,1712
+"Honeycrisp",2,"Poor",286,2,2,1712
+"Fuji",3,"Poor",286,3,1,1713
+"Honeycrisp",2.5,"Poor",286,3,2,1713
+"Fuji",3.5,"Excellent",286,4,1,1714
+"Red Delicious",4,"Poor",286,4,2,1714
+"Fuji",1.5,"Poor",286,5,1,1715
+"Pink Lady",1,"Poor",286,5,2,1715
+"Pink Lady",2.5,"Average",286,6,1,1716
+"Honeycrisp",1,"Excellent",286,6,2,1716
+"Pink Lady",2.5,"Poor",287,1,1,1717
+"Fuji",2,"Excellent",287,1,2,1717
+"Fuji",2.5,"Average",287,2,1,1718
+"Red Delicious",2,"Average",287,2,2,1718
+"Fuji",4,"Excellent",287,3,1,1719
+"Pink Lady",3.5,"Average",287,3,2,1719
+"Pink Lady",2.5,"Poor",287,4,1,1720
+"Red Delicious",4,"Excellent",287,4,2,1720
+"Pink Lady",4,"Excellent",287,5,1,1721
+"Red Delicious",4,"Excellent",287,5,2,1721
+"Honeycrisp",3,"Average",287,6,1,1722
+"Fuji",2,"Average",287,6,2,1722
+"Red Delicious",3.5,"Average",288,1,1,1723
+"Fuji",4,"Poor",288,1,2,1723
+"Red Delicious",2.5,"Poor",288,2,1,1724
+"Gala",2.5,"Average",288,2,2,1724
+"Red Delicious",1.5,"Poor",288,3,1,1725
+"Red Delicious",3.5,"Poor",288,3,2,1725
+"Fuji",3.5,"Average",288,4,1,1726
+"Honeycrisp",2.5,"Poor",288,4,2,1726
+"Red Delicious",1,"Poor",288,5,1,1727
+"Fuji",2,"Average",288,5,2,1727
+"Fuji",2,"Poor",288,6,1,1728
+"Pink Lady",3,"Poor",288,6,2,1728
+"Pink Lady",4,"Excellent",289,1,1,1729
+"Pink Lady",4,"Poor",289,1,2,1729
+"Pink Lady",3.5,"Poor",289,2,1,1730
+"Pink Lady",2,"Average",289,2,2,1730
+"Gala",3,"Poor",289,3,1,1731
+"Red Delicious",2.5,"Poor",289,3,2,1731
+"Gala",2.5,"Average",289,4,1,1732
+"Fuji",1.5,"Poor",289,4,2,1732
+"Honeycrisp",4,"Average",289,5,1,1733
+"Pink Lady",2.5,"Average",289,5,2,1733
+"Gala",2,"Excellent",289,6,1,1734
+"Gala",1.5,"Average",289,6,2,1734
+"Red Delicious",3.5,"Poor",290,1,1,1735
+"Honeycrisp",4,"Average",290,1,2,1735
+"Honeycrisp",1,"Excellent",290,2,1,1736
+"Honeycrisp",1,"Poor",290,2,2,1736
+"Red Delicious",2,"Poor",290,3,1,1737
+"Fuji",2.5,"Excellent",290,3,2,1737
+"Pink Lady",3.5,"Poor",290,4,1,1738
+"Pink Lady",3.5,"Poor",290,4,2,1738
+"Honeycrisp",1.5,"Excellent",290,5,1,1739
+"Red Delicious",2.5,"Poor",290,5,2,1739
+"Fuji",3.5,"Average",290,6,1,1740
+"Pink Lady",1.5,"Poor",290,6,2,1740
+"Gala",2.5,"Average",291,1,1,1741
+"Gala",2.5,"Average",291,1,2,1741
+"Pink Lady",1,"Excellent",291,2,1,1742
+"Gala",3.5,"Excellent",291,2,2,1742
+"Gala",3.5,"Excellent",291,3,1,1743
+"Gala",4,"Average",291,3,2,1743
+"Fuji",3,"Poor",291,4,1,1744
+"Pink Lady",4,"Excellent",291,4,2,1744
+"Gala",1,"Excellent",291,5,1,1745
+"Red Delicious",3.5,"Poor",291,5,2,1745
+"Gala",3,"Excellent",291,6,1,1746
+"Pink Lady",3.5,"Excellent",291,6,2,1746
+"Fuji",4,"Excellent",292,1,1,1747
+"Gala",2,"Poor",292,1,2,1747
+"Gala",1,"Average",292,2,1,1748
+"Red Delicious",3.5,"Poor",292,2,2,1748
+"Gala",3,"Average",292,3,1,1749
+"Red Delicious",3.5,"Excellent",292,3,2,1749
+"Fuji",3.5,"Excellent",292,4,1,1750
+"Red Delicious",3,"Excellent",292,4,2,1750
+"Gala",2.5,"Excellent",292,5,1,1751
+"Red Delicious",3.5,"Average",292,5,2,1751
+"Gala",2,"Excellent",292,6,1,1752
+"Pink Lady",2.5,"Excellent",292,6,2,1752
+"Honeycrisp",1,"Poor",293,1,1,1753
+"Fuji",2,"Poor",293,1,2,1753
+"Red Delicious",1,"Excellent",293,2,1,1754
+"Pink Lady",4,"Average",293,2,2,1754
+"Honeycrisp",3.5,"Poor",293,3,1,1755
+"Honeycrisp",2.5,"Poor",293,3,2,1755
+"Red Delicious",1.5,"Average",293,4,1,1756
+"Honeycrisp",3.5,"Poor",293,4,2,1756
+"Pink Lady",4,"Poor",293,5,1,1757
+"Honeycrisp",2.5,"Average",293,5,2,1757
+"Pink Lady",1,"Average",293,6,1,1758
+"Gala",2.5,"Excellent",293,6,2,1758
+"Red Delicious",2.5,"Average",294,1,1,1759
+"Honeycrisp",2.5,"Average",294,1,2,1759
+"Honeycrisp",1.5,"Average",294,2,1,1760
+"Pink Lady",1,"Average",294,2,2,1760
+"Gala",3,"Excellent",294,3,1,1761
+"Fuji",3.5,"Average",294,3,2,1761
+"Fuji",3.5,"Excellent",294,4,1,1762
+"Red Delicious",3,"Poor",294,4,2,1762
+"Fuji",4,"Excellent",294,5,1,1763
+"Red Delicious",3,"Poor",294,5,2,1763
+"Pink Lady",4,"Average",294,6,1,1764
+"Pink Lady",1.5,"Average",294,6,2,1764
+"Gala",1.5,"Excellent",295,1,1,1765
+"Pink Lady",3,"Average",295,1,2,1765
+"Red Delicious",1,"Excellent",295,2,1,1766
+"Fuji",1.5,"Excellent",295,2,2,1766
+"Honeycrisp",2.5,"Poor",295,3,1,1767
+"Red Delicious",1.5,"Excellent",295,3,2,1767
+"Gala",3.5,"Poor",295,4,1,1768
+"Honeycrisp",3,"Average",295,4,2,1768
+"Pink Lady",2,"Poor",295,5,1,1769
+"Red Delicious",4,"Average",295,5,2,1769
+"Red Delicious",1.5,"Excellent",295,6,1,1770
+"Pink Lady",4,"Poor",295,6,2,1770
+"Gala",3.5,"Poor",296,1,1,1771
+"Pink Lady",1,"Excellent",296,1,2,1771
+"Gala",3.5,"Average",296,2,1,1772
+"Pink Lady",1.5,"Average",296,2,2,1772
+"Honeycrisp",2.5,"Poor",296,3,1,1773
+"Pink Lady",2,"Excellent",296,3,2,1773
+"Honeycrisp",3.5,"Average",296,4,1,1774
+"Pink Lady",1.5,"Poor",296,4,2,1774
+"Gala",2,"Excellent",296,5,1,1775
+"Pink Lady",1.5,"Poor",296,5,2,1775
+"Fuji",1.5,"Average",296,6,1,1776
+"Gala",1.5,"Excellent",296,6,2,1776
+"Gala",4,"Average",297,1,1,1777
+"Red Delicious",1,"Poor",297,1,2,1777
+"Red Delicious",1,"Average",297,2,1,1778
+"Gala",1,"Excellent",297,2,2,1778
+"Fuji",1.5,"Poor",297,3,1,1779
+"Fuji",2.5,"Average",297,3,2,1779
+"Honeycrisp",1,"Excellent",297,4,1,1780
+"Honeycrisp",1.5,"Poor",297,4,2,1780
+"Gala",3.5,"Excellent",297,5,1,1781
+"Red Delicious",3,"Poor",297,5,2,1781
+"Pink Lady",3.5,"Excellent",297,6,1,1782
+"Red Delicious",3.5,"Poor",297,6,2,1782
+"Fuji",4,"Poor",298,1,1,1783
+"Fuji",3.5,"Poor",298,1,2,1783
+"Gala",2.5,"Poor",298,2,1,1784
+"Fuji",2,"Average",298,2,2,1784
+"Red Delicious",3,"Excellent",298,3,1,1785
+"Red Delicious",4,"Poor",298,3,2,1785
+"Gala",2.5,"Average",298,4,1,1786
+"Pink Lady",3,"Excellent",298,4,2,1786
+"Red Delicious",2,"Excellent",298,5,1,1787
+"Honeycrisp",1.5,"Poor",298,5,2,1787
+"Honeycrisp",2.5,"Excellent",298,6,1,1788
+"Pink Lady",2.5,"Poor",298,6,2,1788
+"Red Delicious",3,"Average",299,1,1,1789
+"Red Delicious",1,"Poor",299,1,2,1789
+"Pink Lady",2,"Excellent",299,2,1,1790
+"Fuji",3,"Poor",299,2,2,1790
+"Honeycrisp",1,"Poor",299,3,1,1791
+"Red Delicious",1.5,"Excellent",299,3,2,1791
+"Red Delicious",4,"Poor",299,4,1,1792
+"Red Delicious",1,"Excellent",299,4,2,1792
+"Gala",1,"Average",299,5,1,1793
+"Honeycrisp",3,"Average",299,5,2,1793
+"Pink Lady",3,"Poor",299,6,1,1794
+"Pink Lady",3.5,"Average",299,6,2,1794
+"Red Delicious",2,"Excellent",300,1,1,1795
+"Red Delicious",2.5,"Poor",300,1,2,1795
+"Gala",1.5,"Excellent",300,2,1,1796
+"Fuji",1.5,"Average",300,2,2,1796
+"Pink Lady",1.5,"Average",300,3,1,1797
+"Honeycrisp",3.5,"Average",300,3,2,1797
+"Fuji",1.5,"Excellent",300,4,1,1798
+"Fuji",1.5,"Average",300,4,2,1798
+"Pink Lady",3.5,"Poor",300,5,1,1799
+"Red Delicious",1,"Average",300,5,2,1799
+"Honeycrisp",1,"Excellent",300,6,1,1800
+"Honeycrisp",1,"Average",300,6,2,1800
+"Honeycrisp",3.5,"Average",301,1,1,1801
+"Honeycrisp",4,"Poor",301,1,2,1801
+"Gala",4,"Average",301,2,1,1802
+"Pink Lady",4,"Excellent",301,2,2,1802
+"Pink Lady",1,"Poor",301,3,1,1803
+"Pink Lady",1,"Average",301,3,2,1803
+"Honeycrisp",2,"Excellent",301,4,1,1804
+"Honeycrisp",4,"Average",301,4,2,1804
+"Pink Lady",3,"Poor",301,5,1,1805
+"Honeycrisp",3,"Average",301,5,2,1805
+"Honeycrisp",2,"Poor",301,6,1,1806
+"Gala",1.5,"Excellent",301,6,2,1806
+"Pink Lady",2,"Poor",302,1,1,1807
+"Gala",2.5,"Excellent",302,1,2,1807
+"Red Delicious",3,"Average",302,2,1,1808
+"Gala",3,"Average",302,2,2,1808
+"Honeycrisp",1.5,"Poor",302,3,1,1809
+"Pink Lady",4,"Average",302,3,2,1809
+"Red Delicious",3,"Average",302,4,1,1810
+"Honeycrisp",2,"Average",302,4,2,1810
+"Fuji",3.5,"Average",302,5,1,1811
+"Honeycrisp",3.5,"Excellent",302,5,2,1811
+"Gala",1,"Average",302,6,1,1812
+"Red Delicious",2.5,"Poor",302,6,2,1812
+"Honeycrisp",3,"Poor",303,1,1,1813
+"Pink Lady",3.5,"Poor",303,1,2,1813
+"Pink Lady",3,"Excellent",303,2,1,1814
+"Pink Lady",2.5,"Poor",303,2,2,1814
+"Honeycrisp",1.5,"Average",303,3,1,1815
+"Pink Lady",3,"Poor",303,3,2,1815
+"Pink Lady",3.5,"Excellent",303,4,1,1816
+"Fuji",3.5,"Excellent",303,4,2,1816
+"Gala",4,"Excellent",303,5,1,1817
+"Pink Lady",1,"Average",303,5,2,1817
+"Red Delicious",3,"Average",303,6,1,1818
+"Honeycrisp",4,"Average",303,6,2,1818
+"Pink Lady",2.5,"Excellent",304,1,1,1819
+"Gala",1,"Excellent",304,1,2,1819
+"Gala",3,"Excellent",304,2,1,1820
+"Honeycrisp",1.5,"Poor",304,2,2,1820
+"Red Delicious",4,"Average",304,3,1,1821
+"Red Delicious",1.5,"Average",304,3,2,1821
+"Gala",1,"Excellent",304,4,1,1822
+"Red Delicious",1.5,"Average",304,4,2,1822
+"Honeycrisp",1.5,"Average",304,5,1,1823
+"Honeycrisp",1.5,"Average",304,5,2,1823
+"Fuji",2,"Average",304,6,1,1824
+"Fuji",3,"Poor",304,6,2,1824
+"Gala",1,"Excellent",305,1,1,1825
+"Fuji",3,"Poor",305,1,2,1825
+"Gala",1,"Excellent",305,2,1,1826
+"Gala",3,"Excellent",305,2,2,1826
+"Gala",2,"Excellent",305,3,1,1827
+"Gala",3.5,"Poor",305,3,2,1827
+"Pink Lady",1,"Excellent",305,4,1,1828
+"Pink Lady",2.5,"Excellent",305,4,2,1828
+"Gala",2,"Average",305,5,1,1829
+"Gala",1,"Excellent",305,5,2,1829
+"Pink Lady",1.5,"Poor",305,6,1,1830
+"Gala",2.5,"Poor",305,6,2,1830
+"Red Delicious",1.5,"Poor",306,1,1,1831
+"Honeycrisp",3,"Excellent",306,1,2,1831
+"Fuji",2,"Excellent",306,2,1,1832
+"Honeycrisp",1,"Average",306,2,2,1832
+"Fuji",3,"Poor",306,3,1,1833
+"Pink Lady",3,"Average",306,3,2,1833
+"Fuji",2,"Poor",306,4,1,1834
+"Pink Lady",3.5,"Average",306,4,2,1834
+"Honeycrisp",2.5,"Average",306,5,1,1835
+"Red Delicious",3,"Average",306,5,2,1835
+"Honeycrisp",3,"Average",306,6,1,1836
+"Gala",2,"Poor",306,6,2,1836
+"Gala",1.5,"Excellent",307,1,1,1837
+"Pink Lady",3,"Excellent",307,1,2,1837
+"Pink Lady",1.5,"Average",307,2,1,1838
+"Fuji",3,"Poor",307,2,2,1838
+"Pink Lady",3.5,"Average",307,3,1,1839
+"Fuji",4,"Average",307,3,2,1839
+"Fuji",1,"Excellent",307,4,1,1840
+"Gala",2.5,"Average",307,4,2,1840
+"Red Delicious",2.5,"Average",307,5,1,1841
+"Red Delicious",3.5,"Poor",307,5,2,1841
+"Red Delicious",1,"Poor",307,6,1,1842
+"Pink Lady",2.5,"Poor",307,6,2,1842
+"Honeycrisp",1,"Excellent",308,1,1,1843
+"Pink Lady",2.5,"Poor",308,1,2,1843
+"Pink Lady",3,"Average",308,2,1,1844
+"Honeycrisp",1.5,"Excellent",308,2,2,1844
+"Gala",2,"Excellent",308,3,1,1845
+"Pink Lady",1.5,"Poor",308,3,2,1845
+"Fuji",1,"Excellent",308,4,1,1846
+"Fuji",4,"Average",308,4,2,1846
+"Honeycrisp",1,"Average",308,5,1,1847
+"Pink Lady",3,"Excellent",308,5,2,1847
+"Gala",2.5,"Poor",308,6,1,1848
+"Red Delicious",2.5,"Poor",308,6,2,1848
+"Fuji",2.5,"Excellent",309,1,1,1849
+"Fuji",1,"Excellent",309,1,2,1849
+"Red Delicious",3.5,"Excellent",309,2,1,1850
+"Red Delicious",3,"Poor",309,2,2,1850
+"Red Delicious",1.5,"Poor",309,3,1,1851
+"Gala",1.5,"Poor",309,3,2,1851
+"Red Delicious",1.5,"Average",309,4,1,1852
+"Fuji",4,"Average",309,4,2,1852
+"Fuji",2.5,"Average",309,5,1,1853
+"Red Delicious",2.5,"Poor",309,5,2,1853
+"Pink Lady",2.5,"Excellent",309,6,1,1854
+"Red Delicious",1.5,"Poor",309,6,2,1854
+"Honeycrisp",1.5,"Average",310,1,1,1855
+"Pink Lady",3,"Average",310,1,2,1855
+"Fuji",1,"Poor",310,2,1,1856
+"Red Delicious",1.5,"Average",310,2,2,1856
+"Gala",1.5,"Average",310,3,1,1857
+"Honeycrisp",4,"Poor",310,3,2,1857
+"Fuji",1,"Average",310,4,1,1858
+"Red Delicious",1,"Poor",310,4,2,1858
+"Fuji",3,"Excellent",310,5,1,1859
+"Red Delicious",3.5,"Excellent",310,5,2,1859
+"Honeycrisp",4,"Average",310,6,1,1860
+"Red Delicious",3.5,"Average",310,6,2,1860
+"Gala",4,"Poor",311,1,1,1861
+"Gala",3,"Excellent",311,1,2,1861
+"Gala",2.5,"Excellent",311,2,1,1862
+"Pink Lady",3.5,"Excellent",311,2,2,1862
+"Pink Lady",4,"Average",311,3,1,1863
+"Gala",1,"Excellent",311,3,2,1863
+"Red Delicious",2,"Poor",311,4,1,1864
+"Pink Lady",2,"Excellent",311,4,2,1864
+"Fuji",3,"Average",311,5,1,1865
+"Fuji",4,"Poor",311,5,2,1865
+"Gala",2,"Poor",311,6,1,1866
+"Honeycrisp",4,"Poor",311,6,2,1866
+"Honeycrisp",2.5,"Excellent",312,1,1,1867
+"Fuji",4,"Poor",312,1,2,1867
+"Gala",3.5,"Average",312,2,1,1868
+"Pink Lady",2.5,"Excellent",312,2,2,1868
+"Red Delicious",1,"Excellent",312,3,1,1869
+"Red Delicious",1,"Average",312,3,2,1869
+"Red Delicious",1.5,"Poor",312,4,1,1870
+"Gala",2,"Average",312,4,2,1870
+"Pink Lady",3,"Poor",312,5,1,1871
+"Pink Lady",1,"Excellent",312,5,2,1871
+"Fuji",3.5,"Poor",312,6,1,1872
+"Gala",1.5,"Average",312,6,2,1872
+"Pink Lady",2.5,"Excellent",313,1,1,1873
+"Honeycrisp",4,"Poor",313,1,2,1873
+"Gala",2,"Average",313,2,1,1874
+"Gala",3,"Excellent",313,2,2,1874
+"Fuji",3,"Poor",313,3,1,1875
+"Honeycrisp",2,"Excellent",313,3,2,1875
+"Pink Lady",2.5,"Poor",313,4,1,1876
+"Fuji",3,"Average",313,4,2,1876
+"Fuji",1.5,"Poor",313,5,1,1877
+"Gala",4,"Average",313,5,2,1877
+"Red Delicious",2.5,"Poor",313,6,1,1878
+"Honeycrisp",3,"Excellent",313,6,2,1878
+"Pink Lady",2,"Average",314,1,1,1879
+"Red Delicious",4,"Average",314,1,2,1879
+"Red Delicious",1,"Poor",314,2,1,1880
+"Honeycrisp",3.5,"Average",314,2,2,1880
+"Pink Lady",2.5,"Excellent",314,3,1,1881
+"Red Delicious",2,"Poor",314,3,2,1881
+"Gala",3,"Average",314,4,1,1882
+"Red Delicious",4,"Average",314,4,2,1882
+"Red Delicious",1,"Average",314,5,1,1883
+"Red Delicious",1.5,"Excellent",314,5,2,1883
+"Gala",1,"Excellent",314,6,1,1884
+"Red Delicious",2.5,"Average",314,6,2,1884
+"Gala",4,"Excellent",315,1,1,1885
+"Fuji",3.5,"Average",315,1,2,1885
+"Fuji",1.5,"Poor",315,2,1,1886
+"Red Delicious",1.5,"Excellent",315,2,2,1886
+"Gala",3.5,"Excellent",315,3,1,1887
+"Pink Lady",3,"Excellent",315,3,2,1887
+"Red Delicious",2,"Poor",315,4,1,1888
+"Pink Lady",1.5,"Poor",315,4,2,1888
+"Red Delicious",1,"Average",315,5,1,1889
+"Fuji",1,"Average",315,5,2,1889
+"Gala",2.5,"Poor",315,6,1,1890
+"Gala",2.5,"Excellent",315,6,2,1890
+"Gala",2,"Excellent",316,1,1,1891
+"Honeycrisp",3.5,"Average",316,1,2,1891
+"Honeycrisp",1,"Poor",316,2,1,1892
+"Pink Lady",1,"Poor",316,2,2,1892
+"Gala",4,"Poor",316,3,1,1893
+"Gala",1.5,"Average",316,3,2,1893
+"Red Delicious",4,"Average",316,4,1,1894
+"Gala",3.5,"Poor",316,4,2,1894
+"Gala",3,"Excellent",316,5,1,1895
+"Honeycrisp",3,"Excellent",316,5,2,1895
+"Gala",3,"Average",316,6,1,1896
+"Gala",2.5,"Average",316,6,2,1896
+"Red Delicious",3.5,"Poor",317,1,1,1897
+"Red Delicious",3.5,"Poor",317,1,2,1897
+"Honeycrisp",1,"Excellent",317,2,1,1898
+"Fuji",2,"Average",317,2,2,1898
+"Pink Lady",1,"Excellent",317,3,1,1899
+"Fuji",3,"Poor",317,3,2,1899
+"Gala",3,"Average",317,4,1,1900
+"Honeycrisp",1.5,"Poor",317,4,2,1900
+"Pink Lady",1.5,"Poor",317,5,1,1901
+"Red Delicious",3,"Poor",317,5,2,1901
+"Pink Lady",2,"Excellent",317,6,1,1902
+"Red Delicious",3.5,"Excellent",317,6,2,1902
+"Red Delicious",4,"Average",318,1,1,1903
+"Fuji",1,"Poor",318,1,2,1903
+"Honeycrisp",2,"Poor",318,2,1,1904
+"Fuji",1,"Excellent",318,2,2,1904
+"Red Delicious",4,"Poor",318,3,1,1905
+"Red Delicious",1.5,"Excellent",318,3,2,1905
+"Red Delicious",3.5,"Average",318,4,1,1906
+"Pink Lady",2,"Excellent",318,4,2,1906
+"Red Delicious",1.5,"Average",318,5,1,1907
+"Red Delicious",3,"Poor",318,5,2,1907
+"Honeycrisp",3,"Excellent",318,6,1,1908
+"Fuji",3,"Average",318,6,2,1908
+"Fuji",2.5,"Excellent",319,1,1,1909
+"Gala",2.5,"Average",319,1,2,1909
+"Honeycrisp",3.5,"Poor",319,2,1,1910
+"Red Delicious",3.5,"Average",319,2,2,1910
+"Pink Lady",3,"Average",319,3,1,1911
+"Fuji",2.5,"Average",319,3,2,1911
+"Pink Lady",4,"Excellent",319,4,1,1912
+"Red Delicious",2.5,"Average",319,4,2,1912
+"Gala",3.5,"Average",319,5,1,1913
+"Honeycrisp",1.5,"Average",319,5,2,1913
+"Pink Lady",2,"Excellent",319,6,1,1914
+"Honeycrisp",3,"Average",319,6,2,1914
+"Honeycrisp",2,"Average",320,1,1,1915
+"Honeycrisp",3,"Average",320,1,2,1915
+"Honeycrisp",1.5,"Poor",320,2,1,1916
+"Red Delicious",3.5,"Average",320,2,2,1916
+"Pink Lady",1,"Average",320,3,1,1917
+"Honeycrisp",3.5,"Excellent",320,3,2,1917
+"Honeycrisp",2.5,"Excellent",320,4,1,1918
+"Honeycrisp",1.5,"Average",320,4,2,1918
+"Fuji",3.5,"Poor",320,5,1,1919
+"Pink Lady",2.5,"Poor",320,5,2,1919
+"Pink Lady",2.5,"Average",320,6,1,1920
+"Red Delicious",1.5,"Poor",320,6,2,1920
+"Pink Lady",4,"Poor",321,1,1,1921
+"Honeycrisp",2,"Poor",321,1,2,1921
+"Fuji",1,"Excellent",321,2,1,1922
+"Red Delicious",1,"Average",321,2,2,1922
+"Red Delicious",3.5,"Average",321,3,1,1923
+"Gala",2,"Average",321,3,2,1923
+"Pink Lady",1,"Excellent",321,4,1,1924
+"Gala",3.5,"Excellent",321,4,2,1924
+"Red Delicious",2.5,"Excellent",321,5,1,1925
+"Fuji",1.5,"Excellent",321,5,2,1925
+"Pink Lady",3.5,"Poor",321,6,1,1926
+"Gala",4,"Poor",321,6,2,1926
+"Pink Lady",2,"Average",322,1,1,1927
+"Gala",3,"Poor",322,1,2,1927
+"Red Delicious",4,"Poor",322,2,1,1928
+"Red Delicious",2.5,"Excellent",322,2,2,1928
+"Honeycrisp",3,"Excellent",322,3,1,1929
+"Honeycrisp",3.5,"Excellent",322,3,2,1929
+"Gala",3,"Average",322,4,1,1930
+"Fuji",3.5,"Excellent",322,4,2,1930
+"Pink Lady",3,"Poor",322,5,1,1931
+"Red Delicious",2.5,"Poor",322,5,2,1931
+"Gala",2.5,"Excellent",322,6,1,1932
+"Honeycrisp",3.5,"Poor",322,6,2,1932
+"Gala",3,"Average",323,1,1,1933
+"Gala",1,"Average",323,1,2,1933
+"Pink Lady",3.5,"Poor",323,2,1,1934
+"Honeycrisp",4,"Excellent",323,2,2,1934
+"Fuji",1,"Poor",323,3,1,1935
+"Honeycrisp",2.5,"Average",323,3,2,1935
+"Honeycrisp",2,"Poor",323,4,1,1936
+"Red Delicious",2,"Average",323,4,2,1936
+"Fuji",2,"Excellent",323,5,1,1937
+"Fuji",4,"Poor",323,5,2,1937
+"Red Delicious",3,"Average",323,6,1,1938
+"Honeycrisp",1.5,"Excellent",323,6,2,1938
+"Fuji",1.5,"Excellent",324,1,1,1939
+"Pink Lady",1.5,"Poor",324,1,2,1939
+"Fuji",1,"Poor",324,2,1,1940
+"Fuji",3.5,"Excellent",324,2,2,1940
+"Honeycrisp",2,"Excellent",324,3,1,1941
+"Gala",3.5,"Poor",324,3,2,1941
+"Pink Lady",1,"Poor",324,4,1,1942
+"Fuji",3,"Average",324,4,2,1942
+"Pink Lady",2,"Excellent",324,5,1,1943
+"Honeycrisp",2.5,"Excellent",324,5,2,1943
+"Gala",4,"Excellent",324,6,1,1944
+"Fuji",2,"Poor",324,6,2,1944
+"Honeycrisp",1,"Average",325,1,1,1945
+"Honeycrisp",2.5,"Excellent",325,1,2,1945
+"Fuji",2.5,"Excellent",325,2,1,1946
+"Gala",3,"Poor",325,2,2,1946
+"Gala",2.5,"Excellent",325,3,1,1947
+"Fuji",1.5,"Excellent",325,3,2,1947
+"Honeycrisp",2.5,"Poor",325,4,1,1948
+"Pink Lady",1,"Average",325,4,2,1948
+"Red Delicious",3.5,"Average",325,5,1,1949
+"Red Delicious",1.5,"Average",325,5,2,1949
+"Honeycrisp",4,"Average",325,6,1,1950
+"Gala",3,"Poor",325,6,2,1950
+"Red Delicious",3.5,"Excellent",326,1,1,1951
+"Honeycrisp",2.5,"Poor",326,1,2,1951
+"Red Delicious",1,"Poor",326,2,1,1952
+"Fuji",1.5,"Excellent",326,2,2,1952
+"Fuji",2.5,"Poor",326,3,1,1953
+"Fuji",2,"Poor",326,3,2,1953
+"Red Delicious",3,"Average",326,4,1,1954
+"Honeycrisp",2.5,"Excellent",326,4,2,1954
+"Red Delicious",2,"Average",326,5,1,1955
+"Red Delicious",2.5,"Average",326,5,2,1955
+"Pink Lady",1.5,"Poor",326,6,1,1956
+"Fuji",1.5,"Average",326,6,2,1956
+"Gala",4,"Poor",327,1,1,1957
+"Gala",2.5,"Excellent",327,1,2,1957
+"Gala",2.5,"Poor",327,2,1,1958
+"Gala",3.5,"Excellent",327,2,2,1958
+"Honeycrisp",1,"Excellent",327,3,1,1959
+"Red Delicious",1.5,"Poor",327,3,2,1959
+"Fuji",3.5,"Excellent",327,4,1,1960
+"Honeycrisp",1,"Poor",327,4,2,1960
+"Red Delicious",1,"Poor",327,5,1,1961
+"Pink Lady",1,"Excellent",327,5,2,1961
+"Pink Lady",1.5,"Excellent",327,6,1,1962
+"Gala",1,"Average",327,6,2,1962
+"Honeycrisp",4,"Poor",328,1,1,1963
+"Honeycrisp",4,"Excellent",328,1,2,1963
+"Red Delicious",3,"Poor",328,2,1,1964
+"Gala",4,"Average",328,2,2,1964
+"Honeycrisp",2.5,"Average",328,3,1,1965
+"Pink Lady",1,"Poor",328,3,2,1965
+"Pink Lady",1,"Average",328,4,1,1966
+"Red Delicious",4,"Poor",328,4,2,1966
+"Fuji",3,"Excellent",328,5,1,1967
+"Fuji",3.5,"Poor",328,5,2,1967
+"Pink Lady",3,"Average",328,6,1,1968
+"Gala",4,"Average",328,6,2,1968
+"Fuji",1,"Poor",329,1,1,1969
+"Gala",1.5,"Excellent",329,1,2,1969
+"Fuji",4,"Excellent",329,2,1,1970
+"Fuji",4,"Average",329,2,2,1970
+"Pink Lady",3,"Poor",329,3,1,1971
+"Pink Lady",2,"Poor",329,3,2,1971
+"Gala",4,"Excellent",329,4,1,1972
+"Honeycrisp",1.5,"Average",329,4,2,1972
+"Gala",1,"Poor",329,5,1,1973
+"Gala",3,"Excellent",329,5,2,1973
+"Honeycrisp",1,"Average",329,6,1,1974
+"Honeycrisp",3,"Average",329,6,2,1974
+"Gala",4,"Poor",330,1,1,1975
+"Gala",3,"Excellent",330,1,2,1975
+"Pink Lady",4,"Excellent",330,2,1,1976
+"Gala",1,"Average",330,2,2,1976
+"Fuji",2,"Excellent",330,3,1,1977
+"Red Delicious",3.5,"Average",330,3,2,1977
+"Honeycrisp",1,"Excellent",330,4,1,1978
+"Pink Lady",1,"Excellent",330,4,2,1978
+"Red Delicious",1.5,"Poor",330,5,1,1979
+"Fuji",3.5,"Poor",330,5,2,1979
+"Red Delicious",1.5,"Excellent",330,6,1,1980
+"Gala",1,"Average",330,6,2,1980
+"Pink Lady",3.5,"Excellent",331,1,1,1981
+"Gala",3.5,"Average",331,1,2,1981
+"Red Delicious",2.5,"Poor",331,2,1,1982
+"Red Delicious",2.5,"Excellent",331,2,2,1982
+"Honeycrisp",2,"Excellent",331,3,1,1983
+"Fuji",3,"Poor",331,3,2,1983
+"Honeycrisp",2,"Average",331,4,1,1984
+"Fuji",2.5,"Excellent",331,4,2,1984
+"Honeycrisp",1.5,"Average",331,5,1,1985
+"Gala",3.5,"Poor",331,5,2,1985
+"Gala",2,"Excellent",331,6,1,1986
+"Honeycrisp",3,"Average",331,6,2,1986
+"Honeycrisp",4,"Average",332,1,1,1987
+"Red Delicious",1,"Excellent",332,1,2,1987
+"Fuji",3.5,"Average",332,2,1,1988
+"Honeycrisp",3.5,"Poor",332,2,2,1988
+"Red Delicious",1.5,"Average",332,3,1,1989
+"Gala",1,"Average",332,3,2,1989
+"Fuji",4,"Excellent",332,4,1,1990
+"Pink Lady",3,"Poor",332,4,2,1990
+"Honeycrisp",3.5,"Excellent",332,5,1,1991
+"Pink Lady",2,"Poor",332,5,2,1991
+"Fuji",3,"Average",332,6,1,1992
+"Fuji",3,"Excellent",332,6,2,1992
+"Fuji",2,"Poor",333,1,1,1993
+"Red Delicious",3,"Excellent",333,1,2,1993
+"Honeycrisp",1,"Poor",333,2,1,1994
+"Fuji",3.5,"Poor",333,2,2,1994
+"Red Delicious",1,"Excellent",333,3,1,1995
+"Pink Lady",3,"Poor",333,3,2,1995
+"Pink Lady",4,"Poor",333,4,1,1996
+"Gala",3,"Excellent",333,4,2,1996
+"Gala",2.5,"Average",333,5,1,1997
+"Red Delicious",3.5,"Poor",333,5,2,1997
+"Pink Lady",2,"Excellent",333,6,1,1998
+"Gala",3.5,"Poor",333,6,2,1998
+"Honeycrisp",2.5,"Average",334,1,1,1999
+"Honeycrisp",4,"Average",334,1,2,1999
+"Gala",4,"Poor",334,2,1,2000
+"Fuji",1,"Poor",334,2,2,2000
+"Gala",2,"Poor",334,3,1,2001
+"Red Delicious",2,"Average",334,3,2,2001
+"Fuji",2,"Excellent",334,4,1,2002
+"Pink Lady",2,"Excellent",334,4,2,2002
+"Pink Lady",3.5,"Poor",334,5,1,2003
+"Pink Lady",2.5,"Excellent",334,5,2,2003
+"Red Delicious",1.5,"Excellent",334,6,1,2004
+"Honeycrisp",2.5,"Average",334,6,2,2004
+"Gala",1,"Excellent",335,1,1,2005
+"Gala",1.5,"Excellent",335,1,2,2005
+"Fuji",3.5,"Poor",335,2,1,2006
+"Red Delicious",2.5,"Excellent",335,2,2,2006
+"Honeycrisp",1,"Average",335,3,1,2007
+"Gala",4,"Average",335,3,2,2007
+"Gala",1.5,"Excellent",335,4,1,2008
+"Pink Lady",1,"Poor",335,4,2,2008
+"Pink Lady",2.5,"Poor",335,5,1,2009
+"Fuji",3.5,"Poor",335,5,2,2009
+"Honeycrisp",2.5,"Poor",335,6,1,2010
+"Honeycrisp",2,"Excellent",335,6,2,2010
+"Fuji",3.5,"Average",336,1,1,2011
+"Honeycrisp",3.5,"Excellent",336,1,2,2011
+"Gala",3,"Poor",336,2,1,2012
+"Pink Lady",3,"Excellent",336,2,2,2012
+"Red Delicious",1.5,"Poor",336,3,1,2013
+"Pink Lady",2,"Average",336,3,2,2013
+"Gala",4,"Average",336,4,1,2014
+"Fuji",3,"Excellent",336,4,2,2014
+"Pink Lady",3.5,"Average",336,5,1,2015
+"Gala",1,"Poor",336,5,2,2015
+"Honeycrisp",3.5,"Poor",336,6,1,2016
+"Fuji",1.5,"Excellent",336,6,2,2016
+"Fuji",3.5,"Average",337,1,1,2017
+"Red Delicious",1.5,"Excellent",337,1,2,2017
+"Honeycrisp",3,"Excellent",337,2,1,2018
+"Gala",3,"Excellent",337,2,2,2018
+"Fuji",3,"Average",337,3,1,2019
+"Pink Lady",2,"Average",337,3,2,2019
+"Pink Lady",3.5,"Poor",337,4,1,2020
+"Gala",2,"Poor",337,4,2,2020
+"Honeycrisp",3.5,"Poor",337,5,1,2021
+"Pink Lady",3.5,"Average",337,5,2,2021
+"Pink Lady",2,"Poor",337,6,1,2022
+"Red Delicious",2.5,"Average",337,6,2,2022
+"Red Delicious",2.5,"Average",338,1,1,2023
+"Gala",4,"Poor",338,1,2,2023
+"Honeycrisp",2,"Excellent",338,2,1,2024
+"Red Delicious",1.5,"Average",338,2,2,2024
+"Red Delicious",2.5,"Poor",338,3,1,2025
+"Gala",4,"Poor",338,3,2,2025
+"Pink Lady",1,"Poor",338,4,1,2026
+"Honeycrisp",4,"Average",338,4,2,2026
+"Red Delicious",1.5,"Poor",338,5,1,2027
+"Gala",1,"Excellent",338,5,2,2027
+"Red Delicious",3.5,"Poor",338,6,1,2028
+"Fuji",1,"Average",338,6,2,2028
+"Honeycrisp",2,"Average",339,1,1,2029
+"Pink Lady",2,"Average",339,1,2,2029
+"Gala",3.5,"Excellent",339,2,1,2030
+"Pink Lady",3,"Average",339,2,2,2030
+"Red Delicious",2,"Average",339,3,1,2031
+"Red Delicious",2.5,"Poor",339,3,2,2031
+"Honeycrisp",3,"Excellent",339,4,1,2032
+"Fuji",2.5,"Average",339,4,2,2032
+"Fuji",1,"Excellent",339,5,1,2033
+"Gala",1.5,"Poor",339,5,2,2033
+"Fuji",2,"Excellent",339,6,1,2034
+"Gala",2,"Poor",339,6,2,2034
+"Gala",3,"Average",340,1,1,2035
+"Honeycrisp",1,"Poor",340,1,2,2035
+"Pink Lady",3,"Poor",340,2,1,2036
+"Gala",2,"Excellent",340,2,2,2036
+"Red Delicious",2,"Poor",340,3,1,2037
+"Gala",2,"Average",340,3,2,2037
+"Pink Lady",4,"Excellent",340,4,1,2038
+"Gala",3,"Excellent",340,4,2,2038
+"Honeycrisp",2.5,"Average",340,5,1,2039
+"Honeycrisp",1.5,"Poor",340,5,2,2039
+"Red Delicious",1.5,"Poor",340,6,1,2040
+"Honeycrisp",3,"Excellent",340,6,2,2040
+"Red Delicious",1.5,"Poor",341,1,1,2041
+"Pink Lady",3,"Poor",341,1,2,2041
+"Honeycrisp",3,"Poor",341,2,1,2042
+"Pink Lady",4,"Poor",341,2,2,2042
+"Fuji",4,"Excellent",341,3,1,2043
+"Red Delicious",3.5,"Average",341,3,2,2043
+"Fuji",1,"Poor",341,4,1,2044
+"Honeycrisp",2,"Excellent",341,4,2,2044
+"Fuji",3,"Excellent",341,5,1,2045
+"Honeycrisp",4,"Excellent",341,5,2,2045
+"Honeycrisp",2,"Poor",341,6,1,2046
+"Red Delicious",2,"Excellent",341,6,2,2046
+"Fuji",3.5,"Average",342,1,1,2047
+"Pink Lady",3.5,"Average",342,1,2,2047
+"Pink Lady",2,"Average",342,2,1,2048
+"Fuji",3,"Excellent",342,2,2,2048
+"Fuji",4,"Excellent",342,3,1,2049
+"Pink Lady",2,"Average",342,3,2,2049
+"Red Delicious",4,"Excellent",342,4,1,2050
+"Honeycrisp",2,"Poor",342,4,2,2050
+"Honeycrisp",2,"Excellent",342,5,1,2051
+"Red Delicious",3.5,"Poor",342,5,2,2051
+"Pink Lady",4,"Average",342,6,1,2052
+"Fuji",3,"Poor",342,6,2,2052
+"Gala",3,"Poor",343,1,1,2053
+"Pink Lady",3.5,"Poor",343,1,2,2053
+"Pink Lady",1.5,"Excellent",343,2,1,2054
+"Fuji",3.5,"Excellent",343,2,2,2054
+"Gala",1.5,"Poor",343,3,1,2055
+"Honeycrisp",4,"Excellent",343,3,2,2055
+"Red Delicious",3,"Poor",343,4,1,2056
+"Gala",1.5,"Poor",343,4,2,2056
+"Gala",1,"Average",343,5,1,2057
+"Pink Lady",4,"Average",343,5,2,2057
+"Red Delicious",2.5,"Average",343,6,1,2058
+"Fuji",2,"Average",343,6,2,2058
+"Honeycrisp",2.5,"Poor",344,1,1,2059
+"Gala",4,"Excellent",344,1,2,2059
+"Red Delicious",3,"Average",344,2,1,2060
+"Gala",2.5,"Average",344,2,2,2060
+"Fuji",4,"Excellent",344,3,1,2061
+"Gala",4,"Poor",344,3,2,2061
+"Fuji",2,"Excellent",344,4,1,2062
+"Gala",4,"Average",344,4,2,2062
+"Gala",3,"Excellent",344,5,1,2063
+"Red Delicious",1,"Average",344,5,2,2063
+"Gala",2,"Excellent",344,6,1,2064
+"Pink Lady",4,"Poor",344,6,2,2064
+"Fuji",1,"Excellent",345,1,1,2065
+"Honeycrisp",1,"Poor",345,1,2,2065
+"Pink Lady",4,"Poor",345,2,1,2066
+"Honeycrisp",1,"Average",345,2,2,2066
+"Honeycrisp",4,"Poor",345,3,1,2067
+"Pink Lady",1,"Poor",345,3,2,2067
+"Red Delicious",4,"Excellent",345,4,1,2068
+"Fuji",2,"Average",345,4,2,2068
+"Red Delicious",3.5,"Average",345,5,1,2069
+"Fuji",1.5,"Poor",345,5,2,2069
+"Gala",2.5,"Excellent",345,6,1,2070
+"Red Delicious",3,"Poor",345,6,2,2070
+"Honeycrisp",2.5,"Average",346,1,1,2071
+"Pink Lady",2.5,"Excellent",346,1,2,2071
+"Fuji",4,"Average",346,2,1,2072
+"Gala",2.5,"Excellent",346,2,2,2072
+"Pink Lady",3,"Average",346,3,1,2073
+"Gala",3.5,"Excellent",346,3,2,2073
+"Pink Lady",2,"Poor",346,4,1,2074
+"Red Delicious",1.5,"Average",346,4,2,2074
+"Honeycrisp",1.5,"Poor",346,5,1,2075
+"Red Delicious",1.5,"Excellent",346,5,2,2075
+"Honeycrisp",4,"Average",346,6,1,2076
+"Pink Lady",2,"Poor",346,6,2,2076
+"Honeycrisp",4,"Excellent",347,1,1,2077
+"Red Delicious",1,"Poor",347,1,2,2077
+"Pink Lady",4,"Average",347,2,1,2078
+"Fuji",1.5,"Excellent",347,2,2,2078
+"Red Delicious",4,"Excellent",347,3,1,2079
+"Fuji",2,"Excellent",347,3,2,2079
+"Gala",1,"Average",347,4,1,2080
+"Honeycrisp",4,"Excellent",347,4,2,2080
+"Gala",3.5,"Average",347,5,1,2081
+"Honeycrisp",1,"Poor",347,5,2,2081
+"Pink Lady",1,"Poor",347,6,1,2082
+"Honeycrisp",2.5,"Average",347,6,2,2082
+"Red Delicious",2,"Excellent",348,1,1,2083
+"Fuji",1,"Poor",348,1,2,2083
+"Red Delicious",4,"Poor",348,2,1,2084
+"Fuji",1.5,"Excellent",348,2,2,2084
+"Fuji",3,"Excellent",348,3,1,2085
+"Gala",1.5,"Average",348,3,2,2085
+"Honeycrisp",2.5,"Poor",348,4,1,2086
+"Red Delicious",3,"Poor",348,4,2,2086
+"Pink Lady",3.5,"Excellent",348,5,1,2087
+"Red Delicious",1,"Poor",348,5,2,2087
+"Honeycrisp",1,"Average",348,6,1,2088
+"Red Delicious",3.5,"Average",348,6,2,2088
+"Red Delicious",4,"Poor",349,1,1,2089
+"Gala",2.5,"Average",349,1,2,2089
+"Pink Lady",3,"Average",349,2,1,2090
+"Pink Lady",3,"Poor",349,2,2,2090
+"Honeycrisp",4,"Excellent",349,3,1,2091
+"Fuji",1.5,"Average",349,3,2,2091
+"Gala",2.5,"Average",349,4,1,2092
+"Gala",4,"Average",349,4,2,2092
+"Gala",4,"Average",349,5,1,2093
+"Red Delicious",2.5,"Excellent",349,5,2,2093
+"Red Delicious",1.5,"Excellent",349,6,1,2094
+"Honeycrisp",1.5,"Poor",349,6,2,2094
+"Pink Lady",2.5,"Excellent",350,1,1,2095
+"Honeycrisp",3.5,"Excellent",350,1,2,2095
+"Gala",3,"Average",350,2,1,2096
+"Pink Lady",1,"Excellent",350,2,2,2096
+"Gala",2.5,"Excellent",350,3,1,2097
+"Pink Lady",2,"Excellent",350,3,2,2097
+"Red Delicious",1.5,"Excellent",350,4,1,2098
+"Pink Lady",4,"Poor",350,4,2,2098
+"Fuji",1.5,"Excellent",350,5,1,2099
+"Gala",2.5,"Excellent",350,5,2,2099
+"Honeycrisp",3.5,"Poor",350,6,1,2100
+"Pink Lady",1.5,"Excellent",350,6,2,2100
+"Gala",2,"Excellent",351,1,1,2101
+"Honeycrisp",2,"Average",351,1,2,2101
+"Honeycrisp",1.5,"Poor",351,2,1,2102
+"Pink Lady",2,"Poor",351,2,2,2102
+"Pink Lady",3,"Poor",351,3,1,2103
+"Pink Lady",1,"Average",351,3,2,2103
+"Honeycrisp",3,"Average",351,4,1,2104
+"Honeycrisp",4,"Poor",351,4,2,2104
+"Honeycrisp",3,"Average",351,5,1,2105
+"Red Delicious",1.5,"Excellent",351,5,2,2105
+"Fuji",2.5,"Excellent",351,6,1,2106
+"Fuji",3.5,"Excellent",351,6,2,2106
+"Honeycrisp",1,"Average",352,1,1,2107
+"Red Delicious",1.5,"Average",352,1,2,2107
+"Honeycrisp",3.5,"Average",352,2,1,2108
+"Fuji",1.5,"Average",352,2,2,2108
+"Pink Lady",1,"Average",352,3,1,2109
+"Gala",1.5,"Excellent",352,3,2,2109
+"Red Delicious",4,"Poor",352,4,1,2110
+"Fuji",3.5,"Excellent",352,4,2,2110
+"Pink Lady",3,"Average",352,5,1,2111
+"Honeycrisp",1,"Average",352,5,2,2111
+"Red Delicious",3,"Poor",352,6,1,2112
+"Red Delicious",3.5,"Poor",352,6,2,2112
+"Gala",1.5,"Excellent",353,1,1,2113
+"Gala",1,"Excellent",353,1,2,2113
+"Honeycrisp",3,"Poor",353,2,1,2114
+"Red Delicious",3.5,"Average",353,2,2,2114
+"Fuji",4,"Average",353,3,1,2115
+"Pink Lady",3.5,"Excellent",353,3,2,2115
+"Gala",4,"Average",353,4,1,2116
+"Gala",3.5,"Poor",353,4,2,2116
+"Red Delicious",3.5,"Average",353,5,1,2117
+"Red Delicious",1.5,"Average",353,5,2,2117
+"Red Delicious",4,"Average",353,6,1,2118
+"Red Delicious",2.5,"Poor",353,6,2,2118
+"Pink Lady",1,"Average",354,1,1,2119
+"Pink Lady",3,"Average",354,1,2,2119
+"Gala",2.5,"Excellent",354,2,1,2120
+"Gala",2,"Excellent",354,2,2,2120
+"Gala",3,"Average",354,3,1,2121
+"Honeycrisp",2,"Poor",354,3,2,2121
+"Red Delicious",1,"Poor",354,4,1,2122
+"Honeycrisp",1,"Poor",354,4,2,2122
+"Gala",3,"Poor",354,5,1,2123
+"Red Delicious",2,"Excellent",354,5,2,2123
+"Red Delicious",3,"Excellent",354,6,1,2124
+"Fuji",2,"Poor",354,6,2,2124
+"Honeycrisp",3.5,"Excellent",355,1,1,2125
+"Gala",2.5,"Average",355,1,2,2125
+"Fuji",3.5,"Excellent",355,2,1,2126
+"Gala",3.5,"Average",355,2,2,2126
+"Honeycrisp",3.5,"Excellent",355,3,1,2127
+"Honeycrisp",3.5,"Excellent",355,3,2,2127
+"Honeycrisp",2.5,"Average",355,4,1,2128
+"Honeycrisp",2,"Poor",355,4,2,2128
+"Honeycrisp",3.5,"Poor",355,5,1,2129
+"Pink Lady",3.5,"Excellent",355,5,2,2129
+"Pink Lady",1.5,"Average",355,6,1,2130
+"Honeycrisp",3.5,"Poor",355,6,2,2130
+"Red Delicious",2,"Excellent",356,1,1,2131
+"Pink Lady",1,"Average",356,1,2,2131
+"Fuji",3,"Average",356,2,1,2132
+"Fuji",3.5,"Excellent",356,2,2,2132
+"Honeycrisp",1,"Average",356,3,1,2133
+"Red Delicious",4,"Excellent",356,3,2,2133
+"Pink Lady",3,"Excellent",356,4,1,2134
+"Fuji",1.5,"Excellent",356,4,2,2134
+"Honeycrisp",2.5,"Excellent",356,5,1,2135
+"Gala",2,"Average",356,5,2,2135
+"Honeycrisp",1,"Average",356,6,1,2136
+"Fuji",3.5,"Average",356,6,2,2136
+"Gala",2.5,"Average",357,1,1,2137
+"Honeycrisp",2,"Average",357,1,2,2137
+"Red Delicious",3.5,"Excellent",357,2,1,2138
+"Pink Lady",3.5,"Average",357,2,2,2138
+"Pink Lady",1.5,"Excellent",357,3,1,2139
+"Red Delicious",3,"Poor",357,3,2,2139
+"Pink Lady",2,"Poor",357,4,1,2140
+"Pink Lady",2,"Average",357,4,2,2140
+"Fuji",1,"Poor",357,5,1,2141
+"Red Delicious",2.5,"Average",357,5,2,2141
+"Pink Lady",3.5,"Average",357,6,1,2142
+"Gala",3,"Average",357,6,2,2142
+"Red Delicious",2,"Average",358,1,1,2143
+"Gala",1,"Excellent",358,1,2,2143
+"Fuji",4,"Excellent",358,2,1,2144
+"Fuji",1.5,"Poor",358,2,2,2144
+"Pink Lady",3.5,"Poor",358,3,1,2145
+"Pink Lady",3.5,"Average",358,3,2,2145
+"Gala",3.5,"Poor",358,4,1,2146
+"Pink Lady",2.5,"Poor",358,4,2,2146
+"Pink Lady",2,"Poor",358,5,1,2147
+"Honeycrisp",4,"Excellent",358,5,2,2147
+"Pink Lady",2,"Excellent",358,6,1,2148
+"Gala",3,"Excellent",358,6,2,2148
+"Gala",1,"Excellent",359,1,1,2149
+"Gala",3,"Poor",359,1,2,2149
+"Honeycrisp",4,"Poor",359,2,1,2150
+"Fuji",2,"Excellent",359,2,2,2150
+"Fuji",2.5,"Excellent",359,3,1,2151
+"Honeycrisp",3,"Average",359,3,2,2151
+"Honeycrisp",2.5,"Excellent",359,4,1,2152
+"Gala",4,"Average",359,4,2,2152
+"Gala",1.5,"Excellent",359,5,1,2153
+"Red Delicious",2.5,"Excellent",359,5,2,2153
+"Pink Lady",1.5,"Average",359,6,1,2154
+"Fuji",2,"Average",359,6,2,2154
+"Honeycrisp",1,"Excellent",360,1,1,2155
+"Red Delicious",2.5,"Average",360,1,2,2155
+"Honeycrisp",2,"Average",360,2,1,2156
+"Fuji",3,"Poor",360,2,2,2156
+"Honeycrisp",3.5,"Poor",360,3,1,2157
+"Honeycrisp",3.5,"Average",360,3,2,2157
+"Gala",3,"Poor",360,4,1,2158
+"Fuji",1,"Poor",360,4,2,2158
+"Honeycrisp",1,"Poor",360,5,1,2159
+"Honeycrisp",2,"Poor",360,5,2,2159
+"Honeycrisp",1,"Excellent",360,6,1,2160
+"Fuji",1.5,"Excellent",360,6,2,2160
+"Pink Lady",1,"Poor",361,1,1,2161
+"Red Delicious",1.5,"Poor",361,1,2,2161
+"Gala",3.5,"Excellent",361,2,1,2162
+"Pink Lady",2,"Poor",361,2,2,2162
+"Gala",2.5,"Average",361,3,1,2163
+"Gala",3,"Poor",361,3,2,2163
+"Red Delicious",1,"Excellent",361,4,1,2164
+"Fuji",4,"Poor",361,4,2,2164
+"Fuji",4,"Poor",361,5,1,2165
+"Gala",2,"Average",361,5,2,2165
+"Pink Lady",2,"Excellent",361,6,1,2166
+"Honeycrisp",1.5,"Excellent",361,6,2,2166
+"Red Delicious",3,"Excellent",362,1,1,2167
+"Red Delicious",2.5,"Poor",362,1,2,2167
+"Gala",3.5,"Excellent",362,2,1,2168
+"Red Delicious",1,"Excellent",362,2,2,2168
+"Honeycrisp",1,"Poor",362,3,1,2169
+"Honeycrisp",3,"Excellent",362,3,2,2169
+"Red Delicious",4,"Average",362,4,1,2170
+"Pink Lady",3.5,"Poor",362,4,2,2170
+"Gala",1.5,"Poor",362,5,1,2171
+"Gala",2.5,"Poor",362,5,2,2171
+"Gala",2,"Poor",362,6,1,2172
+"Gala",1.5,"Excellent",362,6,2,2172
+"Gala",4,"Poor",363,1,1,2173
+"Pink Lady",1.5,"Average",363,1,2,2173
+"Red Delicious",2.5,"Average",363,2,1,2174
+"Red Delicious",3,"Average",363,2,2,2174
+"Fuji",1.5,"Average",363,3,1,2175
+"Pink Lady",4,"Poor",363,3,2,2175
+"Pink Lady",2.5,"Excellent",363,4,1,2176
+"Honeycrisp",4,"Excellent",363,4,2,2176
+"Honeycrisp",1.5,"Excellent",363,5,1,2177
+"Honeycrisp",4,"Excellent",363,5,2,2177
+"Honeycrisp",2.5,"Excellent",363,6,1,2178
+"Pink Lady",1.5,"Average",363,6,2,2178
+"Red Delicious",2.5,"Excellent",364,1,1,2179
+"Fuji",1,"Poor",364,1,2,2179
+"Red Delicious",2.5,"Excellent",364,2,1,2180
+"Fuji",1,"Excellent",364,2,2,2180
+"Honeycrisp",4,"Average",364,3,1,2181
+"Gala",2,"Average",364,3,2,2181
+"Red Delicious",1,"Average",364,4,1,2182
+"Honeycrisp",2,"Poor",364,4,2,2182
+"Fuji",2.5,"Average",364,5,1,2183
+"Pink Lady",1,"Average",364,5,2,2183
+"Fuji",1.5,"Average",364,6,1,2184
+"Fuji",2.5,"Poor",364,6,2,2184
+"Gala",3.5,"Excellent",365,1,1,2185
+"Fuji",2,"Excellent",365,1,2,2185
+"Pink Lady",1.5,"Excellent",365,2,1,2186
+"Pink Lady",1.5,"Poor",365,2,2,2186
+"Fuji",2.5,"Excellent",365,3,1,2187
+"Fuji",2,"Excellent",365,3,2,2187
+"Honeycrisp",2,"Average",365,4,1,2188
+"Pink Lady",4,"Excellent",365,4,2,2188
+"Honeycrisp",3,"Excellent",365,5,1,2189
+"Honeycrisp",2,"Average",365,5,2,2189
+"Fuji",1,"Poor",365,6,1,2190
+"Fuji",3.5,"Average",365,6,2,2190
+"Gala",3.5,"Excellent",366,1,1,2191
+"Honeycrisp",2,"Poor",366,1,2,2191
+"Gala",3.5,"Average",366,2,1,2192
+"Honeycrisp",2.5,"Poor",366,2,2,2192
+"Gala",3.5,"Poor",366,3,1,2193
+"Pink Lady",1.5,"Average",366,3,2,2193
+"Honeycrisp",1.5,"Excellent",366,4,1,2194
+"Gala",1,"Poor",366,4,2,2194
+"Red Delicious",3.5,"Poor",366,5,1,2195
+"Red Delicious",3.5,"Average",366,5,2,2195
+"Pink Lady",4,"Excellent",366,6,1,2196
+"Gala",3,"Excellent",366,6,2,2196
+"Fuji",3.5,"Poor",367,1,1,2197
+"Fuji",1,"Average",367,1,2,2197
+"Pink Lady",4,"Average",367,2,1,2198
+"Fuji",3,"Poor",367,2,2,2198
+"Pink Lady",1.5,"Poor",367,3,1,2199
+"Pink Lady",1.5,"Average",367,3,2,2199
+"Honeycrisp",3,"Excellent",367,4,1,2200
+"Pink Lady",4,"Excellent",367,4,2,2200
+"Fuji",3.5,"Average",367,5,1,2201
+"Honeycrisp",1,"Average",367,5,2,2201
+"Pink Lady",1,"Poor",367,6,1,2202
+"Gala",1.5,"Poor",367,6,2,2202
+"Honeycrisp",2.5,"Excellent",368,1,1,2203
+"Red Delicious",2.5,"Poor",368,1,2,2203
+"Honeycrisp",2.5,"Average",368,2,1,2204
+"Red Delicious",3.5,"Poor",368,2,2,2204
+"Fuji",1.5,"Poor",368,3,1,2205
+"Fuji",4,"Average",368,3,2,2205
+"Gala",1,"Average",368,4,1,2206
+"Red Delicious",3.5,"Poor",368,4,2,2206
+"Honeycrisp",3.5,"Average",368,5,1,2207
+"Pink Lady",3,"Average",368,5,2,2207
+"Red Delicious",1.5,"Average",368,6,1,2208
+"Honeycrisp",3,"Excellent",368,6,2,2208
+"Pink Lady",1.5,"Average",369,1,1,2209
+"Fuji",4,"Average",369,1,2,2209
+"Gala",2,"Average",369,2,1,2210
+"Gala",4,"Excellent",369,2,2,2210
+"Pink Lady",4,"Average",369,3,1,2211
+"Red Delicious",2.5,"Poor",369,3,2,2211
+"Fuji",2,"Poor",369,4,1,2212
+"Gala",2.5,"Poor",369,4,2,2212
+"Fuji",1.5,"Poor",369,5,1,2213
+"Red Delicious",2,"Poor",369,5,2,2213
+"Red Delicious",1.5,"Excellent",369,6,1,2214
+"Honeycrisp",2.5,"Excellent",369,6,2,2214
+"Honeycrisp",1.5,"Poor",370,1,1,2215
+"Pink Lady",3,"Excellent",370,1,2,2215
+"Honeycrisp",4,"Poor",370,2,1,2216
+"Pink Lady",3.5,"Excellent",370,2,2,2216
+"Fuji",2,"Poor",370,3,1,2217
+"Honeycrisp",2,"Average",370,3,2,2217
+"Red Delicious",2,"Excellent",370,4,1,2218
+"Pink Lady",3,"Excellent",370,4,2,2218
+"Red Delicious",2,"Excellent",370,5,1,2219
+"Pink Lady",2,"Poor",370,5,2,2219
+"Fuji",3.5,"Excellent",370,6,1,2220
+"Red Delicious",2,"Average",370,6,2,2220
+"Honeycrisp",1.5,"Excellent",371,1,1,2221
+"Pink Lady",1,"Excellent",371,1,2,2221
+"Honeycrisp",1.5,"Poor",371,2,1,2222
+"Honeycrisp",3,"Excellent",371,2,2,2222
+"Gala",1,"Average",371,3,1,2223
+"Red Delicious",3,"Excellent",371,3,2,2223
+"Red Delicious",1,"Excellent",371,4,1,2224
+"Honeycrisp",1.5,"Average",371,4,2,2224
+"Red Delicious",1.5,"Average",371,5,1,2225
+"Honeycrisp",4,"Excellent",371,5,2,2225
+"Red Delicious",1,"Average",371,6,1,2226
+"Fuji",1.5,"Average",371,6,2,2226
+"Gala",2.5,"Poor",372,1,1,2227
+"Gala",1,"Poor",372,1,2,2227
+"Pink Lady",1.5,"Average",372,2,1,2228
+"Fuji",3.5,"Poor",372,2,2,2228
+"Fuji",1,"Poor",372,3,1,2229
+"Red Delicious",3.5,"Poor",372,3,2,2229
+"Pink Lady",1.5,"Poor",372,4,1,2230
+"Honeycrisp",1,"Average",372,4,2,2230
+"Red Delicious",2.5,"Average",372,5,1,2231
+"Fuji",3,"Average",372,5,2,2231
+"Honeycrisp",2.5,"Excellent",372,6,1,2232
+"Red Delicious",1.5,"Poor",372,6,2,2232
+"Pink Lady",3,"Poor",373,1,1,2233
+"Pink Lady",1,"Average",373,1,2,2233
+"Gala",1,"Poor",373,2,1,2234
+"Red Delicious",1.5,"Poor",373,2,2,2234
+"Gala",3,"Average",373,3,1,2235
+"Red Delicious",2,"Excellent",373,3,2,2235
+"Gala",2.5,"Poor",373,4,1,2236
+"Fuji",1,"Average",373,4,2,2236
+"Gala",2,"Average",373,5,1,2237
+"Gala",3,"Excellent",373,5,2,2237
+"Red Delicious",2,"Excellent",373,6,1,2238
+"Honeycrisp",2,"Poor",373,6,2,2238
+"Pink Lady",3,"Poor",374,1,1,2239
+"Gala",2.5,"Average",374,1,2,2239
+"Fuji",4,"Average",374,2,1,2240
+"Pink Lady",1.5,"Average",374,2,2,2240
+"Fuji",2.5,"Excellent",374,3,1,2241
+"Pink Lady",1.5,"Poor",374,3,2,2241
+"Honeycrisp",1.5,"Excellent",374,4,1,2242
+"Gala",3.5,"Excellent",374,4,2,2242
+"Honeycrisp",3.5,"Excellent",374,5,1,2243
+"Honeycrisp",2.5,"Average",374,5,2,2243
+"Honeycrisp",1.5,"Average",374,6,1,2244
+"Fuji",1.5,"Average",374,6,2,2244
+"Gala",4,"Poor",375,1,1,2245
+"Honeycrisp",1.5,"Average",375,1,2,2245
+"Pink Lady",3.5,"Average",375,2,1,2246
+"Pink Lady",1,"Excellent",375,2,2,2246
+"Honeycrisp",1.5,"Poor",375,3,1,2247
+"Fuji",1,"Excellent",375,3,2,2247
+"Honeycrisp",2,"Average",375,4,1,2248
+"Gala",3,"Excellent",375,4,2,2248
+"Fuji",2,"Excellent",375,5,1,2249
+"Pink Lady",4,"Excellent",375,5,2,2249
+"Pink Lady",1,"Average",375,6,1,2250
+"Pink Lady",1.5,"Poor",375,6,2,2250
