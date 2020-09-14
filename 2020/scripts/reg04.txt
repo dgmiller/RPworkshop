@@ -1,0 +1,22 @@
+[1] 2020-09-13 16:29:48 CDT
+
+Call:
+lm(formula = regformula, data = regdata)
+
+Residuals:
+   Min     1Q Median     3Q    Max 
+-33.02 -12.17  -3.48   7.12 367.98 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)  
+(Intercept)  -8.4872    15.8651  -0.535   0.5927  
+height        0.3774     0.2458   1.535   0.1249  
+male        -31.5146    25.3263  -1.244   0.2135  
+height:male   0.6229     0.3737   1.667   0.0957 .
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 21.38 on 1812 degrees of freedom
+Multiple R-squared:  0.101,	Adjusted R-squared:  0.09951 
+F-statistic: 67.85 on 3 and 1812 DF,  p-value: < 2.2e-16
+
